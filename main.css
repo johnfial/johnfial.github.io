@@ -1,77 +1,196 @@
-p {
-    text-align: justify;
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/*
+/* John Fial, PDX Code Guild, 2020-2021, www.johnfial.com 
+/* *********** NOTE ************* */
+
+/* Colors from https://color.adobe.com/create/image using fall image below:
+light orange #F29D35 
+dark orange #F27329
+red #D93D1A
+red pink #D94848
+grey #BFB0B0
+*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Lato', sans-serif;
 }
 
 body {
-    background-color: #038C8C;
-    color: #F2EDEB;
-    padding: 12px;
-    font-family: 'Open Sans', sans-serif;
+    background-color: #BFB0B0;
+    background-image: url(https://pixy.org/src/145/1458713.jpg);
+    background-repeat: no-repeat;
+    background-position: center top -200px;
+    /* background-color: #04B2D9;
+    background-image: linear-gradient(to bottom right, #04B2D9, #04C4D9);  */
+    /* background-image: linear-gradient( #0395b6, #00e5ff); */
 }
 
-header, footer, main {
-    padding: 12px;
-    background-color: #03A6A6;
+a {
+    text-decoration: none;
+    color:BFB0B0;
 }
 
-nav {
+a:hover {
+    text-decoration: none;
+    color:#D94848;
+}
+
+#name {
+    font-size: 15px;
+    padding-top: 30px;
+    justify-content: center;
+    text-align: center;
+    color:BFB0B0;
+    background-color: #D94848;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    color:BFB0B0;
+    padding: 1px;
+    margin: 2px;
+    background-color: #F29D35;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-size: auto;
+    border: 5px solid #F29D35;
+    color: #F2D57E;
+    padding: 10px;
+    margin: 20px;
+    background-color: #D94848;
+}
+
+li {
+    display: flex;
+    font-size: 24px;
+}
+
+.pro-points p {
+    color: white;
+    font-size: 16px;    
+}
+
+
+.about {
+    text-align: center;
+}
+
+#divider {
+    background-color: #F2C185;
+    margin-top: 140px;
+    padding-bottom: 50px;
+}
+
+.about-me {
+    padding-top: 36px;
+    font-size: 36px;
+    margin-left: 16px;
+    margin-right: 16px;
+    color:white;
+    padding-bottom: 30px;
+}
+
+.resume{ 
+    margin-top: 116px;
+    font-size: 36px;
+    color:#F2D57E;
+}
+
+.resume-class a:hover{
+    color: #F2C185;
+}
+
+.columns {
+    /* padding-top: 50px; */
     display: flex;
     justify-content: space-evenly;
 }
 
-nav a {
-    color: slategrey;
-    text-decoration: none;
-    transition: all .1s ease-in-out;
+.column-heading-left {
+    font-size: 36px;
+    color:#F2D57E;
 }
 
-nav a:hover {
-    color: blanchedalmond;
-    text-decoration: underline;
-    transition: all .1s ease-in-out;
-}
+.column-heading-right {
+    font-size: 36px; 
+    color: #F2D57E;
+} 
 
-input, textarea, select {
-    background-color: coral;
-    border: 2px solid darkred;
-    border-radius: 4px;
-    transition: all .5s ease-in-out;
-}
-
-input[type="text"],
-input[type="email"],
-input[type="tel"],
-input[type="submit"],
-input[type="reset"],
-select,
-textarea {
-    width: 150px;
-}
-
-input::placeholder {
-    color: #555;
-}
-
-input:hover, textarea:hover {
-    box-shadow: 0 0 12px black;
-}
-
-input:focus, textarea:focus {
-    background-color: black;
+.column-left {
+    text-align: center;
     color: white;
-    transition: all .5s ease-in-out;
 }
 
-/* #banana {
-    position: fixed;
-    top: 200px;
-    left: 200px;
-    z-index: -1;
-} */
+.column-right a {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+
+.background {
+    font-size: 16px;  
+}
+
+.projects a{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.projects a:hover {
+    color: #F2C185;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    /* padding-top: 50px; */
+}
+
+.heading-contact {
+    color: #F2D57E;
+    font-size: 36px; 
+}
+
+#divider2 {
+    background-color: #F2C185;
+    margin-top: 140px;
+    padding-bottom: 50px;
+}
+
 
 @media (min-width: 700px) {
-    body, header, footer, main {
-        padding: 24px;
+    body, header, main {
+        padding: 20px;
+    }
+
+    #name {
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-size: 75px;
+    }
+
+    .section {
+        font-size: 36px;
+    }
+
+    li {
+        display: flex;
+        font-size: 50px;
     }
 
     nav {
@@ -79,9 +198,11 @@ input:focus, textarea:focus {
     }
 
     nav p {
-        margin-left: 24px;
-        margin-right: 24px;
-    }
+        margin-top: 5px;
+        margin-left: 20px;
+        margin-right: 20px;
+        /* background-color: lightpink; */
+    } 
 
     .gallery {
         display: flex;
@@ -89,13 +210,23 @@ input:focus, textarea:focus {
         justify-content: space-around;
     }
 
-    .gallery-item {
+    .fake-item {
         width: 45%;
+    }
+
+    footer {
+        display: flex;
+        margin: auto; 
+        margin-left: auto;
+        width: auto;
+        /* position: fixed; */
+        /* background-color: rgb(0, 16, 107); */
+        /* z-index: 1; necessary?? aoeu */
     }
 }
 
-@media (min-width: 1100px) {
-    .gallery-item {
-        width: 30%;
-    }
+
+@media (min-width: 1000px) {
+
+    
 }

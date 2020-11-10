@@ -13,6 +13,9 @@ red pink #D94848
 grey #BFB0B0
 */
 
+
+/* https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-autumn-leaves-clipart-md.png */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -24,8 +27,8 @@ grey #BFB0B0
 body {
     background-color: #BFB0B0;
     background-image: url(https://pixy.org/src/145/1458713.jpg);
-    background-repeat: no-repeat;
-    background-position: center top -200px;
+    background-repeat: no-repeat;        
+    background-position: top right -50px;
     /* background-color: #04B2D9;
     background-image: linear-gradient(to bottom right, #04B2D9, #04C4D9);  */
     /* background-image: linear-gradient( #0395b6, #00e5ff); */
@@ -42,8 +45,10 @@ a:hover {
 }
 
 #name {
-    font-size: 15px;
-    padding-top: 30px;
+    font-size: 30px;
+    padding: 12px;
+    margin: 24px;
+    border: 3px solid #F27329;
     justify-content: center;
     text-align: center;
     color:BFB0B0;
@@ -52,35 +57,52 @@ a:hover {
 
 h2 {
     text-align: center;
-    font-size: 25px;
+    font-size: 36px;
     color:BFB0B0;
-    padding: 1px;
-    margin: 2px;
+    padding: 12px;
+    margin: 24px;
     background-color: #F29D35;
 }
 
-.section {
+.section, .navbar-brand-page-scroll {
     display: flex;
     justify-content: center;
-    padding-top: 50px;
-    font-size: auto;
-    border: 5px solid #F29D35;
+    padding: 12px;
+    margin: 24px;
+    font-size: 24px;
+    border: 3px solid #F29D35;
     color: #F2D57E;
-    padding: 10px;
-    margin: 20px;
     background-color: #D94848;
+}
+
+#about-text {
+    font-size: 75%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    padding: 12px;
+    margin: 24px;
+    border: 3px solid #D94848;
+    background-color: #F29D35;
+    /* position: fixed; */
 }
 
 li {
     display: flex;
-    font-size: 24px;
+    font-size: 18px;
 }
 
+/* --------------- STOLEN CODE */
+/* --------------- STOLEN CODE */
+/* --------------- STOLEN CODE */
+/* --------------- STOLEN CODE */
 .pro-points p {
     color: white;
     font-size: 16px;    
 }
-
 
 .about {
     text-align: center;
@@ -169,19 +191,24 @@ li {
     margin-top: 140px;
     padding-bottom: 50px;
 }
+/* --------------- STOLEN COD ENDS */
+/* --------------- STOLEN CODE ENDS */
+/* --------------- STOLEN CODE ENDS */
+/* --------------- STOLEN CODE ENDS */
 
 
 @media (min-width: 700px) {
     body, header, main {
-        padding: 20px;
+        /* padding: 24px;         */
+        background-position: right top -150px;
     }
 
     #name {
-        font-size: 50px;
+        font-size: 48px;
     }
     
     h2 {
-        font-size: 75px;
+        font-size: 72px;
     }
 
     .section {
@@ -190,28 +217,24 @@ li {
 
     li {
         display: flex;
-        font-size: 50px;
+        font-size: 24px;
     }
 
     nav {
         justify-content: center;
     }
 
-    nav p {
-        margin-top: 5px;
+    /* nav p {
+        margin-top: 50px;
         margin-left: 20px;
         margin-right: 20px;
         /* background-color: lightpink; */
-    } 
+    }  */
 
     .gallery {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-    }
-
-    .fake-item {
-        width: 45%;
     }
 
     footer {

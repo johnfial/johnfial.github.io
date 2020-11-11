@@ -5,7 +5,8 @@
 /* John Fial, PDX Code Guild, 2020-2021, www.johnfial.com 
 /* *********** NOTE ************* */
 
-/* Colors from https://color.adobe.com/create/image using fall image below:
+/* Colors from https://color.adobe.com/create/image using fall leaves image below:
+https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-autumn-leaves-clipart-md.png
 light orange #F29D35 
 dark orange #F27329
 red #D93D1A
@@ -13,14 +14,10 @@ red pink #D94848
 grey #BFB0B0
 */
 
-
-/* https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-autumn-leaves-clipart-md.png */
-
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-
     font-family: 'Lato', sans-serif;
 }
 
@@ -28,10 +25,59 @@ body {
     background-color: #BFB0B0;
     background-image: url(https://pixy.org/src/145/1458713.jpg);
     background-repeat: no-repeat;        
-    background-position: top right -50px;
+    background-position: top center -250px;
     /* background-color: #04B2D9;
     background-image: linear-gradient(to bottom right, #04B2D9, #04C4D9);  */
     /* background-image: linear-gradient( #0395b6, #00e5ff); */
+}
+
+#content {
+    max-width: 85%;
+    margin: 0 auto;
+    display: grid;
+    /* I don't understand this grid.... */
+    /* I don't understand this grid.... */
+    /* I don't understand this grid.... */
+    /* I don't understand this grid.... */
+    /* grid-template-columns: repeat(12, 1fr);
+    grid-auto-rows: repeat(12, minmax(200px, auto)); */
+}
+
+.one {
+    grid-column: 1 / 12;
+    grid-row: 1 / 2;
+    max-height: 150px;
+    background-color: #D94848;
+    background-size: 100%;
+    /* position: fixed; */
+    background-color: #BFB0B0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    grid-column: 1 / 12;
+    color: black;    
+}
+
+/* header {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    padding: 12px;
+    margin: 24px;
+    border: 3px solid #D94848;
+    background-color: #F29D35;
+    position: fixed;
+} */
+
+.two {
+    /* grid-column: 1 / 12;
+    grid-row: 2 / 3; */
+    -ms-grid-row-align: center;
+    padding: 18px;
+    background-color: #D94848;
 }
 
 a {
@@ -40,8 +86,9 @@ a {
 }
 
 a:hover {
-    text-decoration: none;
-    color:#D94848;
+    /* text-transform: uppercase; */
+    text-emphasis: 20px;
+    color:#000000;
 }
 
 #name {
@@ -79,33 +126,9 @@ h2 {
     font-size: 75%;
 }
 
-header {
-    display: flex;
-    justify-content: center;
-    font-size: 15px;
-    padding: 12px;
-    margin: 24px;
-    border: 3px solid #D94848;
-    background-color: #F29D35;
-    /* position: fixed; */
-}
-
 li {
     display: flex;
     font-size: 18px;
-}
-
-/* --------------- STOLEN CODE */
-/* --------------- STOLEN CODE */
-/* --------------- STOLEN CODE */
-/* --------------- STOLEN CODE */
-.pro-points p {
-    color: white;
-    font-size: 16px;    
-}
-
-.about {
-    text-align: center;
 }
 
 #divider {
@@ -114,142 +137,63 @@ li {
     padding-bottom: 50px;
 }
 
-.about-me {
-    padding-top: 36px;
-    font-size: 36px;
-    margin-left: 16px;
-    margin-right: 16px;
-    color:white;
-    padding-bottom: 30px;
-}
-
-.resume{ 
-    margin-top: 116px;
-    font-size: 36px;
-    color:#F2D57E;
-}
-
-.resume-class a:hover{
-    color: #F2C185;
-}
-
-.columns {
-    /* padding-top: 50px; */
-    display: flex;
-    justify-content: space-evenly;
-}
-
-.column-heading-left {
-    font-size: 36px;
-    color:#F2D57E;
-}
-
-.column-heading-right {
-    font-size: 36px; 
-    color: #F2D57E;
-} 
-
-.column-left {
-    text-align: center;
-    color: white;
-}
-
-.column-right a {
-    text-align: center;
-    color: white;
-    text-decoration: underline;
-}
-
 .background {
     font-size: 16px;  
 }
 
-.projects a{
-    display: flex;
-    flex-direction: column;
-    font-size: 16px;
-    text-decoration: none;
-}
-
-.projects a:hover {
-    color: #F2C185;
-}
-
-.contact{
-    display: flex;
-    flex-direction: column;
-    /* padding-top: 50px; */
-}
-
-.heading-contact {
-    color: #F2D57E;
-    font-size: 36px; 
-}
-
-#divider2 {
-    background-color: #F2C185;
-    margin-top: 140px;
-    padding-bottom: 50px;
-}
-/* --------------- STOLEN COD ENDS */
-/* --------------- STOLEN CODE ENDS */
-/* --------------- STOLEN CODE ENDS */
-/* --------------- STOLEN CODE ENDS */
 
 
 @media (min-width: 700px) {
-    body, header, main {
-        /* padding: 24px;         */
-        background-position: right top -150px;
-    }
 
-    #name {
-        font-size: 48px;
-    }
     
-    h2 {
+    #content {
+        max-width: 55%;
+    }
+
+    /* body, header, main {
+        padding: 24px;        
+        background-position: right top -150px;
+    } */
+
+    /* #name {
+        font-size: 48px;
+    } */
+    
+    /* h2 {
         font-size: 72px;
-    }
+    } */
 
-    .section {
+    /* .section {
         font-size: 36px;
-    }
+    } */
 
-    li {
+    /* li {
         display: flex;
         font-size: 24px;
-    }
+    } */
 
-    nav {
+    /* nav {
         justify-content: center;
-    }
+    } */
 
-    /* nav p {
-        margin-top: 50px;
-        margin-left: 20px;
-        margin-right: 20px;
-        /* background-color: lightpink; */
-    }  */
-
-    .gallery {
+    /* .gallery {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-    }
+    } */
 
-    footer {
+    /* footer {
         display: flex;
         margin: auto; 
         margin-left: auto;
         width: auto;
-        /* position: fixed; */
-        /* background-color: rgb(0, 16, 107); */
-        /* z-index: 1; necessary?? aoeu */
-    }
+        position: fixed;
+        background-color: rgb(0, 16, 107);
+        z-index: 1; necessary?? aoeu
+    } */
 }
 
 
 @media (min-width: 1000px) {
-
     
 }

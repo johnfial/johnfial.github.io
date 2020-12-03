@@ -3,22 +3,13 @@
 
 /* John Fial, PDX Code Guild, 2020-2021, www.johnfial.com */
 /* *********** NOTES ************* */
-/* Colors from https://color.adobe.com/create/image using fall leaves image below:
-https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-autumn-leaves-clipart-md.png
-    light orange #F29D35 
-    dark orange #F27329
-    red #D93D1A
-    red pink #D94848
-    grey #BFB0B0
-    background-color: rgba(63, 30, 0, 0.664);
-
+/* 
     MATH multiples of 5 !
 
 */
 
 body {
     background-color: rgba(255, 244, 235, 0.973);
-    background-image: url(https://pixy.org/src/145/1458713.jpg);
     background-repeat: repeat;        
     background-position: top center -250px;    
     font-family: 'Open Sans', sans-serif;
@@ -29,7 +20,6 @@ body {
     max-width: 95%;
     padding: 5%;        
     border-radius: 25%;
-    /*      background-image: linear-gradient(to bottom right, #04B2D9, #04C4D9);     background-image: linear-gradient( #0395b6, #00e5ff);     */
 }
 
 /* header */

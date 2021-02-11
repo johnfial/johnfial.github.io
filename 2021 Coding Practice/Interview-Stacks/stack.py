@@ -26,6 +26,9 @@ class MyFirstStack():
         print(f'created new stack')
         self.main_array.append(k)
         return
+    def __len__(self):
+        print('len() function')
+        return len(self.main_array)
 
     def pop(self):
         print(f'pop(self)')
@@ -43,23 +46,20 @@ class MyFirstStack():
         if len(self.main_array) == 0:
             return True
 
-    def return_zero(self):
-        print(f'return_zero(self)')
-        return 0
-
-    def sort_into_three(self):
-        pass
-
-    def __len__(self):
-        print('len() function')
-        return len(self.main_array)
 
 new_stack = MyFirstStack(55)
-new_stack.push(3)
-new_stack.push(8)
+print(new_stack.peek)
 print(new_stack.main_array)
-# print(new_stack.len())
+new_stack.push(3)
+print(new_stack.peek)
+print(new_stack.main_array)
+new_stack.push(8)
+print(new_stack.peek)
 print(new_stack.main_array)
 new_stack.push(27)
+print(new_stack.peek)
 print(new_stack.main_array)
+
+
+
 print(new_stack.peek)

@@ -1,26 +1,30 @@
 # # https://leetcode.com/explore/learn/card/fun-with-arrays/525/inserting-items-into-an-array/3253/
 
 # def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
-def merge(nums1, m, nums2, n):
+def merge(nums1, m, nums2, n): # nums1/2 are the arrays, m and n are the numbers initialized
     """
     Do not return anything, modify nums1 in-place instead.
     """
-    c = 0
-    while c < m:
-        print(f'c is {c}')
-        c += 1
+    c1 = 0 # counter 1
+    c2 = 0
+    while c1 < m:
+        print(f'c1 is {c1}')
+        c1 += 1
 
     nums1.sort()
     print(nums1)
     return
         
+nums1 = [1, 2, 3, 0, 0, 0]
+nums2 = [2, 5, 6]
+merge(nums1, 3, nums2, 3)
 
-merge([1, 2, 3, 0, 0, 0], 3, [2, 5, 6], 3)
-# merge([1], 1, [], 0)
+# merge first
+# then
 
-
-
-
+# nums1 = [1]
+# nums2 = []
+# merge(nums1, 1, nums2, 0)
 
 
 # Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.

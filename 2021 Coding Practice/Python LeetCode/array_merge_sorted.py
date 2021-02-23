@@ -3,20 +3,19 @@
 def merge(nums1, m, nums2, n): # nums1/2 are the arrays, m and n are the numbers initialized
     c1 = 0 # counter 1 for nums1
     c2 = 0 # counter 2 for nums2
-    while c1 < m:
+    while c1 < m+n:
         try:
             print(f'c1 is {c1} and nums1: {nums1}')
             print(f'nums1[c1]: {nums1[c1]}, and nums2[c2]: {nums2[c2]}.')
             nums1[c1+m] = nums2[c2]
         except:
+            print('excepted')
             pass
         c1 += 1
         c2 += 1
     if m == 0: # i don't like this writing for only one edge case, bad philosophy...
-        print('m == 0')
+        print('m == 0, so...:')
         nums1[m] = nums2[m]
-
-
 
     nums1.sort()
     print(nums1)
@@ -24,22 +23,19 @@ def merge(nums1, m, nums2, n): # nums1/2 are the arrays, m and n are the numbers
 # # example 1:      
 # nums1 = [1, 2, 3, 0, 0, 0]
 # nums2 = [2, 5, 6]
-# merge(nums1, 3, nums2, 3)
-
+# merge(nums1, 3, nums2, 3) # expected [1,2,2,3,5,6]
 # # example 2: 
 # nums1 = [1]
 # nums2 = []
 # merge(nums1, 1, nums2, 0)
-
 # # example 3:
 # nums1 = [0]
 # nums2 = [1]
-# merge(nums1, 0, nums2, 1)
-
-# example 4
-nums1 = [0,0,0,0,0]
-nums2 = [1,2,3,4,5]
-merge(nums1, 0, nums2, 5) # Expected: [1,2,3,4,5]
+# merge(nums1, 0, nums2, 1) # expected: [1]
+# # example 4:
+# nums1 = [0,0,0,0,0]
+# nums2 = [1,2,3,4,5]
+# merge(nums1, 0, nums2, 5) # Expected: [1,2,3,4,5]
 
 # Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
 # The number of elements initialized in nums1 and nums2 are m and n respectively. You may assume that nums1 has a size equal to m + n such that it has enough space to hold additional elements from nums2.

@@ -17,8 +17,9 @@ https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-au
 */
 
 body {
-    background-color: rgba(255, 244, 235, 0.973);
-    background-image: url(https://pixy.org/src/145/1458713.jpg);
+    background-color: rgba(197, 89, 0, 0.842);
+    /* background-color: rgba(255, 244, 235, 0.973); */
+    /* background-image: url(https://pixy.org/src/145/1458713.jpg); */
     background-repeat: repeat;        
     background-position: top center -250px;    
     font-family: 'Open Sans', sans-serif;

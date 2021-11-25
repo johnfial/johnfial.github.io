@@ -1,5 +1,19 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+/* TODO:
+    CHANGE COLORS
+    EDIT THEME
+    ADD BG IMAGE?
+    ADD  */
+/* COLORS 2021 LATE::after
+    #F0F0F2 grey white
+    #5872A6 dark blue
+    #5C6373 dark grey
+    #6B90BF dark blue
+    #B0C1D9 light blue grey
+WINTER: https://www.mentalfloss.com/article/32114/8-beautiful-snow-scenes-literature
+ */
+
 
 /* John Fial, PDX Code Guild, 2020-2021, www.johnfial.com */
 /* *********** NOTES ************* */
@@ -13,11 +27,12 @@ https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15728/maple-tree-au
     background-color: rgba(63, 30, 0, 0.664);
 
     MATH multiples of 5 !
+ */
 
-*/
 
 body {
-    background-color: rgba(197, 89, 0, 0.842);
+    background-color: #F0F0F2;
+    /* background-color: rgba(197, 89, 0, 0.842); */
     /* background-color: rgba(255, 244, 235, 0.973); */
     /* background-image: url(https://pixy.org/src/145/1458713.jpg); */
     background-repeat: repeat;        

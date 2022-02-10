@@ -4,4 +4,5 @@
 // let apiKey = "uyLKmD7EMuga13R7wQRU" // , THIS IS THE PUBLIC ONE
 
 // new as of July 2021
-let apiKey = 'O5-LV9b1hk6mt6HSOAUH'
+let apiKey = 'O5-LV9b1hk6mt6HSOAUH' //old
+let apiKey = 'ZMR65vjVJMJlC3wvq0vq'

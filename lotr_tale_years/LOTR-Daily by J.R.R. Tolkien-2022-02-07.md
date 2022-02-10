@@ -946,9 +946,6 @@ Legolas stirred in his boat. ‘Nay, time does not tarry ever,’ he said; ‘bu
 
 **Tags:** post
 
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
 
 When the day came the mood of the world about them had become soft and sad. Slowly the dawn grew to a pale light, diffused and shadowless.
 
@@ -1032,6 +1029,9 @@ All night the three companions scrambled in this bony land, climbing to the cres
 **Note:** .dates
 
 **Tags:** dates
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
 
 
 Turning back they saw across the River the far hills kindled. Day leaped into the sky. The red rim of the sun rose over the shoulders of the dark land. Before them in the West the world lay still, formless and grey; but even as they looked, the shadows of night melted, the colours of the waking earth returned: green flowed over the wide meads of Rohan; the white mists shimmered in the water-vales; and far off to the left, thirty leagues or more, blue and purple stood the White Mountains, rising into peaks of jet, tipped with glimmering snows, flushed with the rose of morning.

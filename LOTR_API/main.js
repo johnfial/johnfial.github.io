@@ -5,6 +5,7 @@
     // # potentially other API calls connected to that LOTR quote/page (or user input)...
     // https://the-one-api.dev/documentation
 // / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+import secrets
 new Vue({
     el: '#tolkien_quotes',
     data: {

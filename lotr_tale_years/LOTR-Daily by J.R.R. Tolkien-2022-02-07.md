@@ -961,7 +961,10 @@ Nothing happened that night worse than a brief drizzle of rain an hour before da
 **Tags:** dates
 
 
-‘Fear not!’ said a strange voice behind him. Frodo turned and saw Strider, and yet not Strider; for the weatherworn Ranger was no longer there. In the stern sat Aragorn son of Arathorn, proud and erect, guiding the boat with skilful strokes; his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile to his own land. ‘Fear not!’ he said. ‘Long have I desired to look upon the likenesses of Isildur and Anárion, my sires of old. Under their shadow Elessar, the Elfstone son of Arathorn of the House of Valandil Isildur’s son, heir of Elendil, has naught to dread!’ Then the light of his eyes faded, and he spoke to himself: ‘Would that Gandalf were here! How my heart yearns for Minas Anor and the walls of my own city! But whither now shall I go?’
+"Sheer rose the dreadful cliffs to unguessed heights on either side. Far off was the dim sky. The black waters roared and echoed, and a wind screamed over them. Frodo crouching over his knees heard Sam in front muttering and groaning: ‘What a place! What a horrible place! Just let me get out of this boat, and I’ll never wet my toes in a puddle again, let alone a river!’ 
+‘Fear not!’ said a strange voice behind him. Frodo turned and saw Strider, and yet not Strider; for the weatherworn Ranger was no longer there. In the stern sat Aragorn son of Arathorn, proud and erect, guiding the boat with skilful strokes; his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile to his own land. 
+‘Fear not!’ he said. ‘Long have I desired to look upon the likenesses of Isildur and Anárion, my sires of old. Under their shadow Elessar, the Elfstone son of Arathorn of the House of Valandil Isildur’s son, heir of Elendil, has naught to dread!’"
+
 
 **Note:** .post
 
@@ -974,6 +977,9 @@ The tenth day of their journey was over.
 
 **Tags:** dates
 
+<!-- 25 FEBRUARY 3019 -->
+<!-- 25 FEBRUARY 3019 -->
+## 25 FEBRUARY 3019
 
 The day came like fire and smoke. Low in the East there were black bars of cloud like the fumes of a great burning. The rising sun lit them from beneath with flames of murky red; but soon it climbed above them into a clear sky.
 
@@ -1029,10 +1035,12 @@ All night the three companions scrambled in this bony land, climbing to the cres
 **Note:** .dates
 
 **Tags:** dates
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
 
+## 26 February 3019
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- ## xx February 3019 -->
 
 Turning back they saw across the River the far hills kindled. Day leaped into the sky. The red rim of the sun rose over the shoulders of the dark land. Before them in the West the world lay still, formless and grey; but even as they looked, the shadows of night melted, the colours of the waking earth returned: green flowed over the wide meads of Rohan; the white mists shimmered in the water-vales; and far off to the left, thirty leagues or more, blue and purple stood the White Mountains, rising into peaks of jet, tipped with glimmering snows, flushed with the rose of morning.
 

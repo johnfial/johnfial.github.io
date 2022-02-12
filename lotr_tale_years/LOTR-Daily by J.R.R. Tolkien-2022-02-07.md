@@ -1036,11 +1036,8 @@ All night the three companions scrambled in this bony land, climbing to the cres
 
 **Tags:** dates
 
-## 26 February 3019
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
-<!-- WORKING HERE -->
-<!-- ## xx February 3019 -->
+## 27 February 3019
+### [A/L/G]
 
 Turning back they saw across the River the far hills kindled. Day leaped into the sky. The red rim of the sun rose over the shoulders of the dark land. Before them in the West the world lay still, formless and grey; but even as they looked, the shadows of night melted, the colours of the waking earth returned: green flowed over the wide meads of Rohan; the white mists shimmered in the water-vales; and far off to the left, thirty leagues or more, blue and purple stood the White Mountains, rising into peaks of jet, tipped with glimmering snows, flushed with the rose of morning.
 
@@ -1056,6 +1053,8 @@ Turning back they saw across the River the far hills kindled. Day leaped into th
 **Tags:** post
 
 
+## 28 February 3019
+### [A/L/G]
 He cast himself on the ground and fell at once into sleep, for he had not slept since their night under the shadow of Tol Brandir. Before dawn was in the sky he woke and rose.
 
 **Note:** .dates
@@ -1070,6 +1069,8 @@ As before Legolas was first afoot, if indeed he had ever slept. ‘Awake! Awake!
 **Tags:** dates
 
 
+## 29 February 3019
+### [A/L/G]
 So the night passed. Together they watched the dawn grow slowly in the sky, now bare and cloudless, until at last the sunrise came. It was pale and clear. The wind was in the East and all the mists had rolled away; wide lands lay bleak about them in the bitter light.
 
 **Note:** .dates
@@ -1077,6 +1078,8 @@ So the night passed. Together they watched the dawn grow slowly in the sky, now 
 **Tags:** dates
 
 
+## 30 February 3019
+### [A/L/G]
 and I do not hunt them in this fashion out of choice. The Orcs whom we pursued took captive two of my friends. In such need a man that has no horse will go on foot, and he will not ask for leave to follow the trail. Nor will he count the heads of the enemy save with a sword. I am not weaponless.’
 
 **Note:** .post
@@ -1091,7 +1094,8 @@ and I do not hunt them in this fashion out of choice. The Orcs whom we pursued t
 **Tags:** post
 
 
-‘I had forgotten that,’ said Éomer. ‘It is hard to be sure of anything among so many marvels. The world is all grown strange. Elf and Dwarf in company walk in our daily fields; and folk speak with the Lady of the Wood and yet live; and the Sword comes back to war that was broken in the long ages ere the fathers of our fathers rode into the Mark! How shall a man judge what to do in such times?’ ‘As he ever has judged,’ said Aragorn. ‘Good and ill have not changed since yesteryear; nor are they one thing among Elves and Dwarves and another among Men. It is a man’s part to discern them, as much in the Golden Wood as in his own house.’
+‘I had forgotten that,’ said Éomer. ‘It is hard to be sure of anything among so many marvels. The world is all grown strange. Elf and Dwarf in company walk in our daily fields; and folk speak with the Lady of the Wood and yet live; and the Sword comes back to war that was broken in the long ages ere the fathers of our fathers rode into the Mark! How shall a man judge what to do in such times?’ 
+‘As he ever has judged,’ said Aragorn. ‘Good and ill have not changed since yesteryear; nor are they one thing among Elves and Dwarves and another among Men. It is a man’s part to discern them, as much in the Golden Wood as in his own house.’
 
 
 ‘Well, they are gone,’ said Aragorn at last. ‘We cannot find them or catch them; so that if they do not return of their own will, we must do without. We started on our feet, and we have those still.’ ‘Feet!’ said Gimli. ‘But we cannot eat them as well as walk on them.’ He threw some fuel on the fire and slumped down beside it. ‘Only a few hours ago you were unwilling to sit on a horse of Rohan,’ laughed Legolas. ‘You will make a rider yet.’
@@ -1101,6 +1105,8 @@ and I do not hunt them in this fashion out of choice. The Orcs whom we pursued t
 **Tags:** pos
 
 
+## 1 March 3019
+### [A/L/G]
 The night passed slowly. Legolas followed Aragorn, and Gimli followed Legolas, and their watches wore away. But nothing happened. The old man did not appear again, and the horses did not return.
 
 **Note:** .dates
@@ -1108,7 +1114,12 @@ The night passed slowly. Legolas followed Aragorn, and Gimli followed Legolas, a
 **Tags:** dates
 
 
-But at the moment Uglúk was not engaged in sport. He needed speed and had to humour unwilling followers. He was healing Merry in orc-fashion; and his treatment worked swiftly. When he had forced a drink from his flask down the hobbit’s throat, cut his leg-bonds, and dragged him to his feet, Merry stood up, looking pale but grim and defiant, and very much alive. The gash in his forehead gave him no more trouble, but he bore a brown scar to the end of his days. ‘Hullo, Pippin!’ he said. ‘So you’ve come
+-----
+
+## 27 February 3019
+### [M/P]
+But at the moment Uglúk was not engaged in sport. He needed speed and had to humour unwilling followers. He was healing Merry in orc-fashion; and his treatment worked swiftly. When he had forced a drink from his flask down the hobbit’s throat, cut his leg-bonds, and dragged him to his feet, Merry stood up, looking pale but grim and defiant, and very much alive. The gash in his forehead gave him no more trouble, but he bore a brown scar to the end of his days. 
+‘Hullo, Pippin!’ he said. ‘So you’ve come
 
 **Note:** .post
 
@@ -1122,6 +1133,8 @@ He wondered very much what kind of folk they were. He wished now that he had lea
 **Tags:** post
 
 
+## 28 February 3019
+### [M/P]
 The Sun’s limb was lifted, an arc of fire, above the margin of the world.
 
 **Note:** .dates
@@ -1146,16 +1159,27 @@ For I am not going to tell you my name, not yet at any rate.’ A queer half-kno
 And it may well be that that time is drawing near at last. For if Sauron of old destroyed the gardens, the Enemy today seems likely to wither all the woods.
 
 
+## 1 March 3019
+### [M/P]
 A second night came and still the Ents held conclave under hurrying clouds and fitful stars.
 
 
+## 2 March 3019
+### [M/P]
 The third day broke, bleak and windy. At sunrise the Ents’ voices rose to a great clamour and then died down again.
 
 **Note:** .dates
 
 **Tags:** dates
 
+----
 
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- ## xx February 3019 -->
+## 2 March 3019
+### [A/L/G]
 Day had come at last. At dawn the companions had made such breakfast as they could; now in the growing light they were getting ready to search the ground again for signs of the hobbits.
 
 **Note:** .dates
@@ -1300,6 +1324,13 @@ That way lies Aglarond and the Glittering Caves. Do not ask me about them. Ask G
 **Tags:** dates
 
 
+----
+
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+<!-- WORKING HERE -->
+## 29 February 3019 [TOY]
+### [F/S/G]
 It was the third evening since they had fled from the Company, as far as they could tell: they had almost lost count of the hours during which they had climbed and laboured among the barren slopes and stones of the Emyn Muil, sometimes retracing their steps because they could find no way forward, sometimes discovering that they had wandered in a circle back to where they had been hours before.
 
 **Note:** .dates
@@ -1328,6 +1359,8 @@ But he must swear on the Precious.’ ‘No! not on it,’ said Frodo, looking d
 **Tags:** post
 
 
+## 29 February 3019 [TOY]
+### [F/S/G]
 At last the sky above grew faint with the first grey of morning. Gollum had shown no signs of tiring, but now he looked up and halted.
 
 **Note:** .dates

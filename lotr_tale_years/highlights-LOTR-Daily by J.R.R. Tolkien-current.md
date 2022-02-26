@@ -1877,6 +1877,7 @@ His golden shield was uncovered, and lo! it shone like an image of the Sun, and 
 **Tags:** dates
 
 
+
 Right through the charge Merry had been borne unharmed behind him, until the Shadow came; and then Windfola had thrown them in his terror, and now ran wild upon the plain. Merry crawled on all fours like a dazed beast, and such a horror was on him that he was blind and sick. ‘King’s man! King’s man!’ his heart cried within him. ‘You must stay by him. As a father you shall be to me, you said.’ But his will made no answer, and his body shook. He dared not open his eyes or look up.
 
 These staves he spoke, yet he laughed as he said them. For once more lust of battle was on him; and he was still unscathed, and he was young, and he was king: the lord of a fell people. And lo! even as he laughed at despair he looked out again on the black ships, and he lifted up his sword to defy them. 
@@ -1887,13 +1888,17 @@ Thus came Aragorn son of Arathorn, Elessar, Isildur’s heir, out of the Paths o
 So passed the sword of the Barrow-downs, work of Westernesse. But glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young, and chief among their foes was the dread realm of Angmar and its sorcerer king. No other blade, not though mightier hands had wielded it, would have dealt that foe a wound so bitter, cleaving the undead flesh, breaking the spell that knit his unseen sinews to his will.
 
 
-These staves he spoke, yet he laughed as he said them. For once more lust of battle was on him; and he was still unscathed, and he was young, and he was king: the lord of a fell people. And lo! even as he laughed at despair he looked out again on the black ships, and he lifted up his sword to defy them. And then wonder took him, and a great joy; and he cast his sword up in the sunlight and sang as he caught it. And all eyes followed his gaze, and behold! upon the foremost ship a great standard broke, and the wind displayed it as she turned towards the Harlond. There flowered a White Tree, and that was for Gondor; but Seven Stars were about it, and a high crown above it, the signs of Elendil that no lord had borne for years beyond count. And the stars flamed in the sunlight, for they were wrought of gems by Arwen daughter of Elrond; and the crown was bright in the morning, for it was wrought of mithril and gold. Thus came Aragorn son of Arathorn, Elessar, Isildur’s heir, out of the Paths of the Dead, borne upon a wind from the Sea to the kingdom of Gondor; and the mirth of the Rohirrim was a torrent of laughter and a flashing of swords, and the joy and wonder of the City was a music of trumpets and a ringing of bells. But the hosts of Mordor were seized with bewilderment, and a great wizardry it seemed to them that their own ships should be filled with their foes; and a black dread fell on them, knowing that the tides of fate had turned against them and their doom was at hand.
 
 
 # Book V -- The Pyre of Denethor
 
 
-‘Authority is not given to you, Steward of Gondor, to order the hour of your death,’ answered Gandalf. ‘And only the heathen kings, under the domination of the Dark Power, did thus, slaying themselves in pride and despair, murdering their kin to ease their own death.’ Then passing through the door he took Faramir from the deadly house and laid him on the bier on which he had been brought, and which had now been set in the porch. Denethor followed him, and stood trembling, looking with longing on the face of his son. And for a moment, while all were silent and still, watching the Lord in his throes, he wavered.
+## 15 March 3019 [TOY]
+### [Gand/P]
+‘He will not wake again,’ said Denethor. ‘Battle is vain. Why should we wish to live longer? Why should we not go to death side by side?’ ‘Authority is not
+
+‘Authority is not given to you, Steward of Gondor, to order the hour of your death,’ answered Gandalf. ‘And only the heathen kings, under the domination of the Dark Power, did thus, slaying themselves in pride and despair, murdering their kin to ease their own death.’
+Then passing through the door he took Faramir from the deadly house and laid him on the bier on which he had been brought, and which had now been set in the porch. Denethor followed him, and stood trembling, looking with longing on the face of his son. And for a moment, while all were silent and still, watching the Lord in his throes, he wavered.
 
 
 Then Denethor leaped upon the table, and standing there wreathed in fire and smoke he took up the staff of his stewardship that lay at his feet and broke it on his knee. Casting the pieces into the blaze he bowed and laid himself on the table, clasping the palantir with both hands upon his breast. And it was said that ever after, if any man looked in that Stone, unless he had a great strength of will to turn it to other purpose, he saw only two aged hands withering in flame.
@@ -1906,6 +1911,8 @@ Pippin’s face was anxious. ‘Well, you had better come with me as quick as yo
 # Book V -- The Houses of Healing
 
 
+## 15 March 3019 [TOY]
+### [A/G/L/Gand/P/M]
 For it is said in old lore: The hands of the king are the hands of a healer. And so the rightful king could ever be known.’ And Gandalf, who stood by, said: ‘Men may long remember your words, Ioreth! For there is hope in them. Maybe a king has indeed returned to Gondor; or have you not heard the strange tidings that have come to the City?’ ‘I have been too busy with this and that to heed all the crying and shouting,’ she answered. ‘All I hope is that those murdering devils do not come to this House and trouble the sick.’
 
 
@@ -1914,33 +1921,35 @@ But Imrahil said: ‘So victory is shorn of gladness, and it is bitter bought, i
 
 Now Aragorn knelt beside Faramir, and held a hand upon his brow. And those that watched felt that some great struggle was going on. For Aragorn’s face grew grey with weariness; and ever and anon he called the name of Faramir, but each time more faintly to their hearing, as if Aragorn himself was removed from them, and walked afar in some dark vale, calling for one that was lost.
 
-
 His grief he will not forget; but it will not darken his heart, it will teach him wisdom.’
 
+Merry smiled. ‘Well then,’ he said, ‘if Strider will provide what is needed, I will smoke and think. I had some of Saruman’s best in my pack, but what became of it in the battle, I am sure I don’t know.’ ‘Master Meriadoc,’ said Aragorn, ‘if you think that I have passed through the mountains and the realm of Gondor with fire and sword to bring herbs to a careless soldier who throws away his gear, you are mistaken. If your pack has not been found, then you must send for the herb-master of this House. And he will tell you that he did not know that the herb you desire had any virtues, but that it is called westmansweed by the vulgar, and galenas by the noble, and other names in other tongues more learned, and after adding a few half-forgotten rhymes that he does not understand, he will regretfully inform you that there is none in the House, and he will leave you to reflect on the history of tongues. And so now must I. For I have not slept in such a bed as this, since I rode from Dunharrow, nor eaten since the dark before dawn.’ Merry seized his hand and kissed it. ‘I am frightfully sorry,’ he said. ‘Go at once! Ever since that night at Bree we have been a nuisance to you. But it is the way of my people to use light words at such times and say less than they mean. We fear to say too much. It robs us of the right words when a jest is out of place.’ ‘I know that well, or I would not deal with you in the same way,’ said Aragorn. ‘May the Shire live for ever unwithered!’ And kissing Merry he went out, and Gandalf went with him.
 
-Merry seized his hand and kissed it. ‘I am frightfully sorry,’ he said. ‘Go at once! Ever since that night at Bree we have been a nuisance to you. But it is the way of my people to use light words at such times and say less than they mean. We fear to say too much. It robs us of the right words when a jest is out of place.’
 
+
+
+## 16 March 3019 [TOY]
+### [A/G/L/Gand/P/M]
+And when he could labour no more, he cast his cloak about him, and slipped out of the City, and went to his tent just ere dawn and slept for a little. And in the morning the banner of Dol Amroth, a white ship like a swan upon blue water, floated from the Tower, and men looked up and wondered if the coming of the King had been but a dream.
 # Book V -- The Last Debate
-
-
-
 The morning came after the day of battle,
-
 **Note:** .dates
-
 **Tags:** dates
 
 
 ‘You will find them in the Houses of Healing, and I will lead you thither,’ said Imrahil. ‘It will be enough if you send one to guide us, lord,’ said Legolas. ‘For Aragorn sends this message to you. He does not wish to enter the City again at this time. Yet there is need for the captains to hold council at once, and he prays that you and Éomer of Rohan will come down to his tents, as soon as may be. Mithrandir is already there.’ ‘We will come,’ said Imrahil; and they parted with courteous words. ‘That is a fair lord and a great captain of men,’ said Legolas. ‘If Gondor has such men still in these days of fading, great must have been its glory in the days of its rising.’ ‘And doubtless the good stone-work is the older and was wrought in the first building,’ said Gimli. ‘It is ever so with the things that Men begin: there is a frost in Spring, or a blight in Summer, and they fail of their promise.’ ‘Yet seldom do they fail of their seed,’ said Legolas. ‘And that will lie in the dust and rot to spring up again in times and places unlooked-for. The deeds of Men will outlast us, Gimli.’ ‘And yet come to naught in the end but might-have-beens, I guess,’ said the Dwarf. ‘To that the Elves know not the answer,’ said Legolas.
 
 
-And now Legolas fell silent, while the others talked, and he looked out against the sun, and as he gazed he saw white sea-birds beating up the River. ‘Look!’ he cried. ‘Gulls! They are flying far inland. A wonder they are to me and a trouble to my heart. Never in all my life had I met them, until we came to Pelargir, and there I heard them crying in the air as we rode to the battle of the ships. Then I stood still, forgetting war in Middle-earth; for their wailing voices spoke to me of the Sea. The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.’ ‘Say not so!’ said Gimli. ‘There are countless things still to see in Middle-earth, and great works to do. But if all the fair folk take to the Havens, it will be a duller world for those who are doomed to stay.’
+
+And now Legolas fell silent, while the others talked, and he looked out against the sun, and as he gazed he saw white sea-birds beating up the River. ‘Look!’ he cried. ‘Gulls! They are flying far inland. A wonder they are to me and a trouble to my heart. Never in all my life had I met them, until we came to Pelargir, and there I heard them crying in the air as we rode to the battle of the ships. Then I stood still, forgetting war in Middle-earth; for their wailing voices spoke to me of the Sea. The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.’ 
+‘Say not so!’ said Gimli. ‘There are countless things still to see in Middle-earth, and great works to do. But if all the fair folk take to the Havens, it will be a duller world for those who are doomed to stay.’
 
 
 ‘“Hear now the words of the Heir of Isildur! Your oath is fulfilled. Go back and trouble not the valleys ever again! Depart and be at rest!”
 
 
 ‘Follow what may, great deeds are not lessened in worth,’ said Legolas. ‘Great deed was the riding of the Paths of the Dead, and great it shall remain, though none be left in Gondor to sing of it in the days that are to come.’
+
 
 ‘Then you would have us retreat to Minas Tirith, or Dol Amroth, or to Dunharrow, and there sit like children on sand-castles when the tide is flowing?’ said Imrahil.
 
@@ -1950,8 +1959,7 @@ And now Legolas fell silent, while the others talked, and he looked out against 
 
 ‘His doubt will be growing, even as we speak here. His Eye is now straining towards us, blind almost to all else that is moving. So we must keep it. Therein lies all our hope. This, then, is my counsel. We have not the Ring. In wisdom or great folly it has been sent away to be destroyed, lest it destroy us. Without it we cannot by force defeat his force. But we must at all costs keep his Eye from his true peril. We cannot achieve victory by arms, but by arms we can give the Ring-bearer his only chance, frail though it be.
 
-
-But men are better than gates, and no gate will endure against our Enemy if men desert it.’
+[Aragorn] But men are better than gates, and no gate will endure against our Enemy if men desert it.’
 
 
 ‘Surely,’ he cried, ‘this is the greatest jest in all the history of Gondor: that we should ride with seven thousands, scarce as many as the vanguard of its army in the days of its power, to assail the mountains and the impenetrable gate of the Black Land! So might a child threaten a mail-clad knight with a bow of string and green willow! If the Dark Lord knows so much as you say, Mithrandir, will he not rather smile than fear, and with his little finger crush us like a fly that tries to sting him?’
@@ -1967,9 +1975,6 @@ Two days later the army of the West was all assembled on the Pelennor.
 **Tags:** dates
 Then Aragorn set trumpeters at each of the four roads that ran into the ring of trees, and they blew a great fanfare, and the heralds cried aloud: ‘The Lords of Gondor have returned and all this land that is theirs they take back.’ The hideous orc-head that was set upon the carven figure was cast down and broken in pieces, and the old king’s head was raised and set in its place once more, still crowned with white and golden flowers; and men laboured to wash and pare away all the foul scrawls that orcs had put upon the stone.
 
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
 ## 20 March 3019
 ### [A/L/G/Gand/P] 
 The day after, being the third day since they set out from Minas Tirith, the army began its northward march along the road.
@@ -1986,6 +1991,11 @@ It was near the end of the second day of their march from the Cross-roads that t
 
 So time and the hopeless journey wore away. Upon the fourth day from the Cross-roads and the sixth from Minas Tirith they came at last to the end of the living lands, and began to pass into the desolation that lay before the gates of the Pass of Cirith Gorgor;
 
+
+
+## 22 March 3019 [TOY]
+### [A/L/G/Gand/P] 
+And from that evening onward the Nazgûl came and followed every move of the army. They still flew high and out of sight of all save Legolas, and yet their presence could be felt, as a deepening of shadow and a dimming of the sun; and though the Ringwraiths did not yet stoop low upon their foes and were silent, uttering no cry, the dread of them could not be shaken off.
 
 
 ## 23 March 3019 [TOY]
@@ -2005,7 +2015,9 @@ Then some being shamed by his mercy overcame their fear and went on, and the oth
 ## 24 March 3019 [TOY]
 ### [A/L/G/Gand/P] 
 
-host. At nightfall of the fifth day of the march from Morgul Vale they made their last camp, 
+At nightfall of the fifth day of the march from Morgul Vale they made their last camp, and set fires about it of such dead wood and heath as they could find. They passed the hours of night in wakefulness and they were aware of many things half-seen that walked and prowled all about them, and they heard the howling of wolves. The wind had died and all the air seemed still. They could see little, for though it was cloudless and the waxing moon was four nights old, there were smokes and fumes that rose out of the earth and the white crescent was shrouded in the mists of Mordor. 
+It grew cold.
+
 
 
 ## 25 March 3019 [TOY]
@@ -2261,6 +2273,9 @@ But at the last when the month of May was drawing near the Captains of the West 
 
 ## Book IV - Chapter 5 THE STEWARD AND THE KING 
 
+
+## ~18 March 3019
+### [Faramir/Eowyn]
 Over the city of Gondor doubt and great dread had hung. Fair weather and clear sun had seemed but a mockery to men whose days held little hope, and who looked each morning for news of doom. Their lord was dead and burned, dead lay the King of Rohan in their citadel, and the new king that had come to them in the night was gone again to a war with powers too dark and terrible for any might or valour to conquer. And no news came. After the host left Morgul Vale and took the northward road beneath the shadow of the mountains no messenger had returned nor any rumour of what was passing in the brooding East.
 
 
@@ -2273,8 +2288,7 @@ When the Captains were but two days gone, the Lady Éowyn bade the women who ten
 **Tags:** dates
 
 
-<!-- WORKING HERE FARAMIR EOWYN -->
-<!-- Host leaves 18 March -->
+
 ‘It needs but one foe to breed a war, not two, Master Warden,’ answered Éowyn. ‘And those who have not swords can still die upon them. Would you have the folk of Gondor gather you herbs only, when the Dark Lord gathers armies? And it is not always good to be healed in body. Nor is it always evil to die in battle, even in bitter pain. Were I permitted, in this dark hour I would choose the latter.’
 
 
@@ -2314,25 +2328,38 @@ And so the fifth day came since the Lady Éowyn went first to Faramir; and they 
 
 
 
-## ~ March 3019 [TOY]
+## ~ April 3019 [TOY]
 ### [Faramir/Eowyn]
 The days that followed were golden, and Spring and Summer joined and made revel together in the fields of Gondor.
-
 **Note:** .dates
-
 **Tags:** dates
 
 
-And Éowyn looked at Faramir long and steadily; and Faramir said: ‘Do not scorn pity that is the gift of a gentle heart, Éowyn! But I do not offer you my pity. For you are a lady high and valiant and have yourself won renown that shall not be forgotten; and you are a lady beautiful, I deem, beyond even the words of the elven-tongue to tell. And I love you. Once I pitied your sorrow. But now, were you sorrowless, without fear or any lack, were you the blissful Queen of Gondor, still I would love you. Éowyn, do you not love me?’
+Then Faramir came and sought her, and once more they stood on the walls together; and he said to her: ‘Éowyn, why do you tarry here, and do not go to the rejoicing in Cormallen beyond Cair Andros, where your brother awaits you?’ 
+And she said: ‘Do you not know?’ 
+But he answered: ‘Two reasons there may be, but which is true, I do not know.’ 
+And she said: ‘I do not wish to play at riddles. Speak plainer!’ 
+‘Then if you will have it so, lady,’ he said: ‘you do not go, because only your brother called for you, and to look on the Lord Aragorn, Elendil’s heir, in his triumph would now bring you no joy. Or because I do not go, and you desire still to be near me. And maybe for both these reasons, and you yourself cannot choose between them. Éowyn, do you not love me, or will you not?’ 
+‘I wished to be loved by another,’ she answered. ‘But I desire no man’s pity.’ 
+‘That I know,’ he said. ‘You desired to have the love of the Lord Aragorn. Because he was high and puissant, and you wished to have renown and glory and to be lifted far above the mean things that crawl on the earth. And as a great captain may to a young soldier he seemed to you admirable. For so he is, a lord among men, the greatest that now is. But when he gave you only understanding and pity, then you desired to have nothing, unless a brave death in battle. Look at me, Éowyn!’ 
+And Éowyn looked at Faramir long and steadily; and Faramir said: ‘Do not scorn pity that is the gift of a gentle heart, Éowyn! But I do not offer you my pity. For you are a lady high and valiant and have yourself won renown that shall not be forgotten; and you are a lady beautiful, I deem, beyond even the words of the elven-tongue to tell. And I love you. Once I pitied your sorrow. But now, were you sorrowless, without fear or any lack, were you the blissful Queen of Gondor, still I would love you. Éowyn, do you not love me?’ 
+Then the heart of Éowyn changed, or else at last she understood it. And suddenly her winter passed, and the sun shone on her. 
+‘I stand in Minas Anor, the Tower of the Sun,’ she said; ‘and behold! the Shadow has departed! I will be a shieldmaiden no longer, nor vie with the great Riders, nor take joy only in the songs of slaying. I will be a healer, and love all things that grow and are not barren.’ And again she looked at Faramir. ‘No longer do I desire to be a queen,’ she said. 
+Then Faramir laughed merrily. ‘That is well,’ he said; ‘for I am not a king. Yet I will wed with the White Lady of Rohan, if it be her will. And if she will, then let us cross the River and in happier days let us dwell in fair Ithilien and there make a garden. All things will grow with joy there, if the White Lady comes.’
+
 
 
 All things were now made ready in the City; and there was great concourse of people,
-
 **Note:** .dates
-
 **Tags:** dates
 
 
+<!-- WORKING HERE FRODO SAM GOLLUM -->
+<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
+<!-- WORKING HERE GANDALF PIPPIN -->
+<!-- WORKING HERE -->
+## 1 May 3019 [TOY]
+### [All]
 Faramir met Aragorn in the midst of those there assembled, and he knelt, and said: ‘The last Steward of Gondor begs leave to surrender his office.’ And he held out a white rod; but Aragorn took the rod and gave it back, saying: ‘That office is not ended, and it shall be thine and thy heirs’ as long as my line shall last. Do now thy office!’ Then Faramir stood up and spoke in a clear voice: ‘Men of Gondor, hear now the Steward of this Realm! Behold! one has come to claim the kingship again at last. Here is Aragorn son of Arathorn, chieftain of the Dúnedain of Arnor, Captain of the Host of the West, bearer of the Star of the North, wielder of the Sword Reforged, victorious in battle, whose hands bring healing, the Elfstone, Elessar of the line of Valandil, Isildur’s son, Elendil’s son of Númenor. Shall he be king and enter into the City and dwell there?’ And all the host and all the people cried yea with one voice.
 
 

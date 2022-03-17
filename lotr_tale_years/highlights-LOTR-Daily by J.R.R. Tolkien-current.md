@@ -2328,6 +2328,10 @@ And so the fifth day came since the Lady Éowyn went first to Faramir; and they 
 
 
 
+<!-- WORKING HERE FRODO SAM GOLLUM -->
+<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
+<!-- WORKING HERE GANDALF PIPPIN -->
+<!-- WORKING HERE -->
 ## ~ April 3019 [TOY]
 ### [Faramir/Eowyn]
 The days that followed were golden, and Spring and Summer joined and made revel together in the fields of Gondor.
@@ -2354,10 +2358,6 @@ All things were now made ready in the City; and there was great concourse of peo
 **Tags:** dates
 
 
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
-<!-- WORKING HERE -->
 ## 1 May 3019 [TOY]
 ### [All]
 Faramir met Aragorn in the midst of those there assembled, and he knelt, and said: ‘The last Steward of Gondor begs leave to surrender his office.’ And he held out a white rod; but Aragorn took the rod and gave it back, saying: ‘That office is not ended, and it shall be thine and thy heirs’ as long as my line shall last. Do now thy office!’ Then Faramir stood up and spoke in a clear voice: ‘Men of Gondor, hear now the Steward of this Realm! Behold! one has come to claim the kingship again at last. Here is Aragorn son of Arathorn, chieftain of the Dúnedain of Arnor, Captain of the Host of the West, bearer of the Star of the North, wielder of the Sword Reforged, victorious in battle, whose hands bring healing, the Elfstone, Elessar of the line of Valandil, Isildur’s son, Elendil’s son of Númenor. Shall he be king and enter into the City and dwell there?’ And all the host and all the people cried yea with one voice.

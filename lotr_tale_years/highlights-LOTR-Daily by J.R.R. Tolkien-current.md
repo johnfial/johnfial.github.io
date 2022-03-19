@@ -2241,15 +2241,18 @@ When Sam awoke, he found that he was lying on some soft bed, but over him gently
 **Tags:** dates
 
 
-At last he gasped: ‘Gandalf! I thought you were dead! But then I thought I was dead myself. Is everything sad going to come untrue? What’s happened to the world?’ ‘A great Shadow has departed,’ said Gandalf, and then he laughed, and the sound was like music, or like water in a parched land; and as he listened the thought came to Sam that he had not heard laughter, the pure sound of merriment, for days upon days without count. It fell upon his ears like the echo of all the joys he had ever known. But he himself burst into tears. Then, as a sweet rain will pass down a wind of spring and the sun will shine out the clearer, his tears ceased, and his laughter welled up, and laughing he sprang from his bed.
-
-
+At last he gasped: ‘Gandalf! I thought you were dead! But then I thought I was dead myself. Is everything sad going to come untrue? What’s happened to the world?’ 
+‘A great Shadow has departed,’ said Gandalf, and then he laughed, and the sound was like music, or like water in a parched land; and as he listened the thought came to Sam that he had not heard laughter, the pure sound of merriment, for days upon days without count. 
+It fell upon his ears like the echo of all the joys he had ever known. But he himself burst into tears. Then, as a sweet rain will pass down a wind of spring and the sun will shine out the clearer, his tears ceased, and his laughter welled up, and laughing he sprang from his bed.
+. . .
 And all the host laughed and wept, and in the midst of their merriment and tears the clear voice of the minstrel rose like silver and gold, and all men were hushed. And he sang to them, now in the elven-tongue, now in the speech of the West, until their hearts, wounded with sweet words, overflowed, and their joy was like swords, and they passed in thought out to regions where pain and delight flow together and tears are the very wine of blessedness.
 
 
+[The Hobbits and Gimli to sleep...]
 ‘And I,’ said Legolas, ‘shall walk in the woods of this fair land, which is rest enough. In days to come, if my Elven-lord allows, some of our folk shall remove hither; and when we come it shall be blessed, for a while. For a while: a month, a life, a hundred years of Men. But Anduin is near, and Anduin leads down to the Sea. To the Sea! To the Sea, to the Sea! The white gulls are crying, The wind is blowing, and the white foam is flying. West, west away, the round sun is falling. Grey ship, grey ship, do you hear them calling, The voices of my people that have gone before me? I will leave, I will leave the woods that bore me; For our days are ending and our years failing. I will pass the wide waters lonely sailing. Long are the waves on the Last Shore falling, Sweet are the voices in the Lost Isle calling, In Eressëa, in Elvenhome that no man can discover, Where the leaves fall not: land of my people for ever!’ And so singing Legolas went away down the hill.
 
 
+## ~2 April 3019 [TOY]
 Then the others also departed, and Frodo and Sam went to their beds and slept. And in the morning they rose again in hope and peace; and they spent many days in Ithilien.
 
 **Note:** .dates
@@ -2257,6 +2260,7 @@ Then the others also departed, and Frodo and Sam went to their beds and slept. A
 **Tags:** dates
 
 
+## ~ April 3019 [TOY]
 The hobbits wandered here and there visiting again the places that they had passed before; and Sam hoped always in some shadow of the woods or secret glade to catch, maybe, a glimpse of the great Oliphaunt.
 
 **Note:** .dates
@@ -2264,6 +2268,7 @@ The hobbits wandered here and there visiting again the places that they had pass
 **Tags:** dates
 
 
+## ~25 April 3019 [TOY]
 But at the last when the month of May was drawing near the Captains of the West set out again; and they went aboard ship with all their men, and they sailed from Cair Andros down Anduin to Osgiliath; and there they remained for one day; and the day after they came to the green fields of the Pelennor and saw again the white towers under tall Mindolluin, the City of the Men of Gondor, last memory of Westernesse, that had passed through the darkness and fire to a new day.
 
 **Note:** .dates
@@ -2328,10 +2333,6 @@ And so the fifth day came since the Lady Éowyn went first to Faramir; and they 
 
 
 
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
-<!-- WORKING HERE -->
 ## ~ April 3019 [TOY]
 ### [Faramir/Eowyn]
 The days that followed were golden, and Spring and Summer joined and made revel together in the fields of Gondor.
@@ -2373,11 +2374,17 @@ In the days that followed his crowning
 **Tags:** dates
 
 
+## 8 May 3019 [TOY]
+### [All]
 So the glad days passed; and on the eighth day of May the Riders of Rohan made ready, and rode off by the North-way, and with them went the sons of Elrond.
 
 **Note:** .dates
 
 **Tags:** dates
+<!-- WORKING HERE FRODO SAM GOLLUM -->
+<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
+<!-- WORKING HERE GANDALF PIPPIN -->
+<!-- WORKING HERE -->
 
 
 The hobbits still remained in Minas Tirith, with Legolas and Gimli; for Aragorn was loth for the fellowship to be dissolved. ‘At last all such things must end,’ he said, ‘but I would have you wait a little while longer: for the end of the deeds that you have shared in has not yet come. A day draws near that I have looked for in all the years of my manhood, and when it comes I would have my friends beside me.’ But of that day he would say no more.

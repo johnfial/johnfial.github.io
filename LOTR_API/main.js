@@ -5,7 +5,7 @@
     // # potentially other API calls connected to that LOTR quote/page (or user input)...
     // https://the-one-api.dev/documentation
 // / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
-import secrets
+import apiKey from './secrets';
 new Vue({
     el: '#tolkien_quotes',
     data: {
@@ -115,7 +115,7 @@ new Vue({
                     limit: this.current_quote_limit, // of 2300 movie quotes total, (limit default is 1,000)
                     // page: this.current_page, // (limit default is 10)
                     offset: this.current_offset, //max ~ // offset overwrites page, so pages don't work... (limit default is 10)
-                }
+                },
             }).then(response => { 
                 // console.log(response.data.docs)
                 console.log(response.data)

@@ -2381,10 +2381,6 @@ So the glad days passed; and on the eighth day of May the Riders of Rohan made r
 **Note:** .dates
 
 **Tags:** dates
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
-<!-- WORKING HERE -->
 
 
 The hobbits still remained in Minas Tirith, with Legolas and Gimli; for Aragorn was loth for the fellowship to be dissolved. ‘At last all such things must end,’ he said, ‘but I would have you wait a little while longer: for the end of the deeds that you have shared in has not yet come. A day draws near that I have looked for in all the years of my manhood, and when it comes I would have my friends beside me.’ But of that day he would say no more.
@@ -2394,6 +2390,47 @@ The hobbits still remained in Minas Tirith, with Legolas and Gimli; for Aragorn 
 
 
 There came a day when Gandalf could not be found, and the Companions wondered what was going forward.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+<!-- WORKING HERE FRODO SAM GOLLUM -->
+<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
+<!-- WORKING HERE GANDALF PIPPIN -->
+<!-- WORKING HERE -->
+
+## 25 June 3019 [TOY]
+### [All]
+Then Aragorn laid his hand gently to the sapling, and lo! it seemed to hold only lightly to the earth, and it was removed without hurt; and Aragorn bore it back to the Citadel. Then the withered tree was uprooted, but with reverence; and they did not burn it, but laid it to rest in the silence of Rath Dínen. And Aragorn planted the new tree in the court by the fountain, and swiftly and gladly it began to grow; and when the month of June entered in it was laden with blossom. ‘The sign has been given,’ said Aragorn, ‘and the day is not far off.’ And he set watchmen upon the walls.
+
+
+It was the day before Midsummer when messengers came from Amon Dín to the City, and they said that there was a riding of fair folk out of the North, and they drew near now to the walls of the Pelennor. And the King said: ‘At last they have come. Let all the City be made ready!’
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+Upon the very Eve of Midsummer, when the sky was blue as sapphire and white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came down the North-way to the gates of Minas Tirith.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+and last came Master Elrond, mighty among Elves and Men, bearing the sceptre of Annúminas, and beside him upon a grey palfrey rode Arwen his daughter, Evenstar of her people. And Frodo when he saw her come glimmering in the evening, with stars on her brow and a sweet fragrance about her, was moved with great wonder, and he said to Gandalf: ‘At last I understand why we have waited! This is the ending. Now not day only shall be beloved, but night too shall be beautiful and blessed and all its fear pass away!’ Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
+
+
+Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Companions thought of returning to their own homes.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+‘Then I beg leave to depart soon,’ said Frodo. ‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
 
 **Note:** .dates
 

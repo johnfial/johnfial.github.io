@@ -2401,28 +2401,35 @@ There came a day when Gandalf could not be found, and the Companions wondered wh
 <!-- WORKING HERE GANDALF PIPPIN -->
 <!-- WORKING HERE -->
 
-## 25 June 3019 [TOY]
+## 25 June 3019 [Aragorn & Gandalf]
 ### [All]
 Then Aragorn laid his hand gently to the sapling, and lo! it seemed to hold only lightly to the earth, and it was removed without hurt; and Aragorn bore it back to the Citadel. Then the withered tree was uprooted, but with reverence; and they did not burn it, but laid it to rest in the silence of Rath Dínen. And Aragorn planted the new tree in the court by the fountain, and swiftly and gladly it began to grow; and when the month of June entered in it was laden with blossom. ‘The sign has been given,’ said Aragorn, ‘and the day is not far off.’ And he set watchmen upon the walls.
 
-
+## 30 June 3019 [TOY]
+### [All]
 It was the day before Midsummer when messengers came from Amon Dín to the City, and they said that there was a riding of fair folk out of the North, and they drew near now to the walls of the Pelennor. And the King said: ‘At last they have come. Let all the City be made ready!’
 
 **Note:** .dates
 
 **Tags:** dates
 
-
+## 1 Lithe 3019 [TOY]
+### [All]
 Upon the very Eve of Midsummer, when the sky was blue as sapphire and white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came down the North-way to the gates of Minas Tirith.
 
 **Note:** .dates
 
 **Tags:** dates
 
+## Mid-Year's Day 3019 [TOY]
+### [All]
+and last came Master Elrond, mighty among Elves and Men, bearing the sceptre of Annúminas, and beside him upon a grey palfrey rode Arwen his daughter, Evenstar of her people. 
+And Frodo when he saw her come glimmering in the evening, with stars on her brow and a sweet fragrance about her, was moved with great wonder, and he said to Gandalf: ‘At last I understand why we have waited! This is the ending. Now not day only shall be beloved, but night too shall be beautiful and blessed and all its fear pass away!’ 
+Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. 
+And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
 
-and last came Master Elrond, mighty among Elves and Men, bearing the sceptre of Annúminas, and beside him upon a grey palfrey rode Arwen his daughter, Evenstar of her people. And Frodo when he saw her come glimmering in the evening, with stars on her brow and a sweet fragrance about her, was moved with great wonder, and he said to Gandalf: ‘At last I understand why we have waited! This is the ending. Now not day only shall be beloved, but night too shall be beautiful and blessed and all its fear pass away!’ Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
-
-
+## ~5 July 3019
+### [All]
 Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Companions thought of returning to their own homes.
 
 **Note:** .dates
@@ -2430,6 +2437,8 @@ Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Compani
 **Tags:** dates
 
 
+## ?? 15 ??  July 3019 [TOY]
+### [All]
 ‘Then I beg leave to depart soon,’ said Frodo. ‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
 
 **Note:** .dates

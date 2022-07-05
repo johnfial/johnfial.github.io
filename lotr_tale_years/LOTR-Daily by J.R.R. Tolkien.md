@@ -961,10 +961,7 @@ Nothing happened that night worse than a brief drizzle of rain an hour before da
 **Tags:** dates
 
 
-"Sheer rose the dreadful cliffs to unguessed heights on either side. Far off was the dim sky. The black waters roared and echoed, and a wind screamed over them. Frodo crouching over his knees heard Sam in front muttering and groaning: ‘What a place! What a horrible place! Just let me get out of this boat, and I’ll never wet my toes in a puddle again, let alone a river!’ 
-‘Fear not!’ said a strange voice behind him. Frodo turned and saw Strider, and yet not Strider; for the weatherworn Ranger was no longer there. In the stern sat Aragorn son of Arathorn, proud and erect, guiding the boat with skilful strokes; his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile to his own land. 
-‘Fear not!’ he said. ‘Long have I desired to look upon the likenesses of Isildur and Anárion, my sires of old. Under their shadow Elessar, the Elfstone son of Arathorn of the House of Valandil Isildur’s son, heir of Elendil, has naught to dread!’"
-
+‘Fear not!’ said a strange voice behind him. Frodo turned and saw Strider, and yet not Strider; for the weatherworn Ranger was no longer there. In the stern sat Aragorn son of Arathorn, proud and erect, guiding the boat with skilful strokes; his hood was cast back, and his dark hair was blowing in the wind, a light was in his eyes: a king returning from exile to his own land. ‘Fear not!’ he said. ‘Long have I desired to look upon the likenesses of Isildur and Anárion, my sires of old. Under their shadow Elessar, the Elfstone son of Arathorn of the House of Valandil Isildur’s son, heir of Elendil, has naught to dread!’ Then the light of his eyes faded, and he spoke to himself: ‘Would that Gandalf were here! How my heart yearns for Minas Anor and the walls of my own city! But whither now shall I go?’
 
 **Note:** .post
 
@@ -977,9 +974,6 @@ The tenth day of their journey was over.
 
 **Tags:** dates
 
-<!-- 25 FEBRUARY 3019 -->
-<!-- 25 FEBRUARY 3019 -->
-## 25 FEBRUARY 3019
 
 The day came like fire and smoke. Low in the East there were black bars of cloud like the fumes of a great burning. The rising sun lit them from beneath with flames of murky red; but soon it climbed above them into a clear sky.
 
@@ -1036,8 +1030,6 @@ All night the three companions scrambled in this bony land, climbing to the cres
 
 **Tags:** dates
 
-## 27 February 3019
-### [A/L/G]
 
 Turning back they saw across the River the far hills kindled. Day leaped into the sky. The red rim of the sun rose over the shoulders of the dark land. Before them in the West the world lay still, formless and grey; but even as they looked, the shadows of night melted, the colours of the waking earth returned: green flowed over the wide meads of Rohan; the white mists shimmered in the water-vales; and far off to the left, thirty leagues or more, blue and purple stood the White Mountains, rising into peaks of jet, tipped with glimmering snows, flushed with the rose of morning.
 
@@ -1053,8 +1045,6 @@ Turning back they saw across the River the far hills kindled. Day leaped into th
 **Tags:** post
 
 
-## 28 February 3019
-### [A/L/G]
 He cast himself on the ground and fell at once into sleep, for he had not slept since their night under the shadow of Tol Brandir. Before dawn was in the sky he woke and rose.
 
 **Note:** .dates
@@ -1069,8 +1059,6 @@ As before Legolas was first afoot, if indeed he had ever slept. ‘Awake! Awake!
 **Tags:** dates
 
 
-## 29 February 3019
-### [A/L/G]
 So the night passed. Together they watched the dawn grow slowly in the sky, now bare and cloudless, until at last the sunrise came. It was pale and clear. The wind was in the East and all the mists had rolled away; wide lands lay bleak about them in the bitter light.
 
 **Note:** .dates
@@ -1078,8 +1066,6 @@ So the night passed. Together they watched the dawn grow slowly in the sky, now 
 **Tags:** dates
 
 
-## 30 February 3019
-### [A/L/G]
 and I do not hunt them in this fashion out of choice. The Orcs whom we pursued took captive two of my friends. In such need a man that has no horse will go on foot, and he will not ask for leave to follow the trail. Nor will he count the heads of the enemy save with a sword. I am not weaponless.’
 
 **Note:** .post
@@ -1094,8 +1080,7 @@ and I do not hunt them in this fashion out of choice. The Orcs whom we pursued t
 **Tags:** post
 
 
-‘I had forgotten that,’ said Éomer. ‘It is hard to be sure of anything among so many marvels. The world is all grown strange. Elf and Dwarf in company walk in our daily fields; and folk speak with the Lady of the Wood and yet live; and the Sword comes back to war that was broken in the long ages ere the fathers of our fathers rode into the Mark! How shall a man judge what to do in such times?’ 
-‘As he ever has judged,’ said Aragorn. ‘Good and ill have not changed since yesteryear; nor are they one thing among Elves and Dwarves and another among Men. It is a man’s part to discern them, as much in the Golden Wood as in his own house.’
+‘I had forgotten that,’ said Éomer. ‘It is hard to be sure of anything among so many marvels. The world is all grown strange. Elf and Dwarf in company walk in our daily fields; and folk speak with the Lady of the Wood and yet live; and the Sword comes back to war that was broken in the long ages ere the fathers of our fathers rode into the Mark! How shall a man judge what to do in such times?’ ‘As he ever has judged,’ said Aragorn. ‘Good and ill have not changed since yesteryear; nor are they one thing among Elves and Dwarves and another among Men. It is a man’s part to discern them, as much in the Golden Wood as in his own house.’
 
 
 ‘Well, they are gone,’ said Aragorn at last. ‘We cannot find them or catch them; so that if they do not return of their own will, we must do without. We started on our feet, and we have those still.’ ‘Feet!’ said Gimli. ‘But we cannot eat them as well as walk on them.’ He threw some fuel on the fire and slumped down beside it. ‘Only a few hours ago you were unwilling to sit on a horse of Rohan,’ laughed Legolas. ‘You will make a rider yet.’
@@ -1105,8 +1090,6 @@ and I do not hunt them in this fashion out of choice. The Orcs whom we pursued t
 **Tags:** pos
 
 
-## 1 March 3019
-### [A/L/G]
 The night passed slowly. Legolas followed Aragorn, and Gimli followed Legolas, and their watches wore away. But nothing happened. The old man did not appear again, and the horses did not return.
 
 **Note:** .dates
@@ -1114,12 +1097,7 @@ The night passed slowly. Legolas followed Aragorn, and Gimli followed Legolas, a
 **Tags:** dates
 
 
------
-
-## 27 February 3019
-### [M/P]
-But at the moment Uglúk was not engaged in sport. He needed speed and had to humour unwilling followers. He was healing Merry in orc-fashion; and his treatment worked swiftly. When he had forced a drink from his flask down the hobbit’s throat, cut his leg-bonds, and dragged him to his feet, Merry stood up, looking pale but grim and defiant, and very much alive. The gash in his forehead gave him no more trouble, but he bore a brown scar to the end of his days. 
-‘Hullo, Pippin!’ he said. ‘So you’ve come
+But at the moment Uglúk was not engaged in sport. He needed speed and had to humour unwilling followers. He was healing Merry in orc-fashion; and his treatment worked swiftly. When he had forced a drink from his flask down the hobbit’s throat, cut his leg-bonds, and dragged him to his feet, Merry stood up, looking pale but grim and defiant, and very much alive. The gash in his forehead gave him no more trouble, but he bore a brown scar to the end of his days. ‘Hullo, Pippin!’ he said. ‘So you’ve come
 
 **Note:** .post
 
@@ -1133,8 +1111,6 @@ He wondered very much what kind of folk they were. He wished now that he had lea
 **Tags:** post
 
 
-## 28 February 3019
-### [M/P]
 The Sun’s limb was lifted, an arc of fire, above the margin of the world.
 
 **Note:** .dates
@@ -1159,23 +1135,20 @@ For I am not going to tell you my name, not yet at any rate.’ A queer half-kno
 And it may well be that that time is drawing near at last. For if Sauron of old destroyed the gardens, the Enemy today seems likely to wither all the woods.
 
 
-## 1 March 3019
-### [M/P]
 A second night came and still the Ents held conclave under hurrying clouds and fitful stars.
 
+**Note:** .dates
 
-## 2 March 3019
-### [M/P]
+**Tags:** dates
+
+
 The third day broke, bleak and windy. At sunrise the Ents’ voices rose to a great clamour and then died down again.
 
 **Note:** .dates
 
 **Tags:** dates
 
-----
 
-## 1 March 3019
-### [A/L/G][G]
 Day had come at last. At dawn the companions had made such breakfast as they could; now in the growing light they were getting ready to search the ground again for signs of the hobbits.
 
 **Note:** .dates
@@ -1192,8 +1165,6 @@ Day had come at last. At dawn the companions had made such breakfast as they cou
 ‘In one thing you have not changed, dear friend,’ said Aragorn: ‘you still speak in riddles.’ ‘What? In riddles?’ said Gandalf. ‘No! For I was talking aloud to myself. A habit of the old: they choose the wisest person present to speak to; the long explanations needed by the young are wearying.’ He laughed, but the sound now seemed warm and kindly as a gleam of sunshine.
 
 
-## 2 March 3019
-### [A/L/G][G]
 Chapter 6 THE KING OF THE GOLDEN HALL They rode on through sunset, and slow dusk, and gathering night. When at last they halted and dismounted, even Aragorn was stiff and weary.
 
 **Note:** .dates
@@ -1204,19 +1175,18 @@ Chapter 6 THE KING OF THE GOLDEN HALL They rode on through sunset, and slow dusk
 Slowly Aragorn unbuckled his belt and himself set his sword upright against the wall. ‘Here I set it,’ he said; ‘but I command you not to touch it, nor to permit any other to lay hand on it. In this Elvish sheath dwells the Blade that was Broken and has been made again. Telchar first wrought it in the deeps of time. Death shall come to any man that draws Elendil’s sword save Elendil’s heir.’ The guard stepped back and looked with amazement on Aragorn. ‘It seems that you are come on the wings of song out of the forgotten days,’ he said. ‘It shall be, lord, as you command.’ ‘Well,’ said Gimli, ‘if it has Andúril to keep it company, my axe may stay here, too, without shame’; and he laid it on the floor. ‘Now then, if all is as you wish, let us go and speak with your master.’
 
 
-‘You are held wise, my friend Wormtongue, and are doubtless a great support to your master,’ answered Gandalf in a soft voice. ‘Yet in two ways may a man come with evil tidings. He may be a worker of evil; or he may be such as leaves well alone, and comes only to bring aid in time of need.’
+answered Gandalf in a soft voice. ‘Yet in two ways may a man come with evil tidings. He may be a worker of evil; or he may be such as leaves well alone, and comes only to bring aid in time of need.’
 
 
 ‘Where is Shadowfax?’ said Gandalf. ‘Running wild over the grass,’ they answered. ‘He will let no man handle him. There he goes, away down by the ford, like a shadow among the willows.’ Gandalf whistled and called aloud the horse’s name, and far away he tossed his head and neighed, and turning sped towards the host like an arrow. ‘Were the breath of the West Wind to take a body visible, even so would it appear,’ said Éomer, as the great horse ran up, until he stood before the wizard.
 
 
-
-## 3 March 3019
-### [A/L/G][G]
 The slow night passed without tidings or alarm. At dawn the horns sounded, and within an hour they took the road again.
 
 **Note:** .dates
+
 **Tags:** dates
+
 
 The rising sun was hazy, and behind it, following it slowly up the sky, there was a growing darkness, as of a great storm moving out of the East.
 
@@ -1235,8 +1205,6 @@ As the second day of their riding drew on, the heaviness in the air increased.
 ‘Where is Éomer? Tell him there is no hope ahead. He should return to Edoras before the wolves of Isengard come there.’ Théoden had sat silent, hidden from the man’s sight behind his guards; now he urged his horse forward. ‘Come, stand before me, Ceorl!’ he said. ‘I am here. The last host of the Eorlingas has ridden forth. It will not return without battle.’ The man’s face lightened with joy and wonder. He drew himself up. Then he knelt, offering his notched sword to the king. ‘Command me, lord!’ he cried. ‘And pardon me! I thought—’ ‘You thought I remained in Meduseld bent like an old tree under winter snow. So it was when you rode to war. But a west wind has shaken the boughs,’ said Théoden. ‘Give this man a fresh horse! Let us ride to the help of Erkenbrand!’
 
 
-## 4 March 3019
-### [A/L/G][G]
 At last Aragorn stood above the great gates, heedless of the darts of the enemy. As he looked forth he saw the eastern sky grow pale. Then he raised his empty hand, palm outward in token of parley.
 
 **Note:** .dates
@@ -1256,9 +1224,6 @@ At last Aragorn stood above the great gates, heedless of the darts of the enemy.
 Saruman I knew had despatched his full strength against you, and his servants had turned aside from all other errands and gone to Helm’s Deep: the lands seemed empty of enemies; yet I feared that wolf-riders and plunderers might ride nonetheless to Meduseld, while it was undefended. But now I think you need not fear: you will find your house to welcome your return.’ ‘And glad shall I be to see it again,’ said Théoden, ‘though brief now, I doubt not, shall be my abiding there.’
 
 
-## 5 March 3019
-### [M/P]
-### [A/L/G]
 ‘For one thing,’ said Théoden, ‘I had not heard that they spouted smoke from their mouths.’ ‘That is not surprising,’ answered Merry; ‘for it is an art which we have not practised for more than a few generations. It was Tobold Hornblower, of Longbottom in the Southfarthing, who first grew the true pipe-weed in his gardens, about the year 1070 according to our reckoning. How old Toby came by the plant …’ ‘You do not know your danger, Théoden,’ interrupted Gandalf. ‘These hobbits will sit on the edge of ruin and discuss the pleasures of the table, or the small doings of their fathers, grandfathers, and great-grandfathers, and remoter cousins to the ninth degree, if you encourage them with undue patience. Some other time would be more fitting for the history of smoking. Where is Treebeard, Merry?’
 
 
@@ -1273,7 +1238,6 @@ They smoked in silence for a while, and the sun shone on them; slanting into the
 **Note:** .dates
 
 **Tags:** dates
-
 
 
 ‘I know,’ said Pippin. ‘It was a wrench to let it go; but what else could I do?’ ‘Nothing else,’ answered Aragorn. ‘One who cannot cast away a treasure at need is in fetters. You did rightly.’
@@ -1300,9 +1264,6 @@ Then Gandalf laughed. The fantasy vanished like a puff of smoke.
 ‘And what if Sauron does not conquer? What will you do to him?’ asked Pippin. ‘I? Nothing!’ said Gandalf. ‘I will do nothing to him. I do not wish for mastery. What will become of him? I cannot say. I grieve that so much that was good now festers in the tower.
 
 
-## 6 March 3019
-### [Gand/P]
-### [A/L/G]
 At last he could stand it no longer. He got up and looked round. It was chilly, and he wrapped his cloak about him. The moon was shining cold and white, down into the dell, and
 
 **Note:** .dates
@@ -1320,7 +1281,6 @@ Pippin was silent again for a while. He heard Gandalf singing softly to himself,
 
 
 ‘I wish I had known all this before,’ said Pippin. ‘I had no notion of what I was doing.’ ‘Oh yes, you had,’ said Gandalf. ‘You knew you were behaving wrongly and foolishly; and you told yourself so, though you did not listen. I did not tell you all this before, because it is only by musing on all that has happened that I have at last understood, even as we ride together. But if I had spoken sooner, it would not have lessened your desire, or made it easier to resist. On the contrary! No, the burned hand teaches best. After that advice about fire goes to the heart.’ ‘It does,’ said Pippin. ‘If all the seven stones were laid out before me now, I should shut my eyes and put my hands in my pockets.’
-‘Good!’ said Gandalf. ‘That is what I hoped.’
 
 
 That way lies Aglarond and the Glittering Caves. Do not ask me about them. Ask Gimli, if you meet again, and for the first time you may get an answer longer than you wish. You will not see the caves yourself, not on this journey. Soon they will be far behind.’ ‘I thought you were going to stop at Helm’s Deep!’ said Pippin. ‘Where are you going then?’
@@ -1333,11 +1293,6 @@ That way lies Aglarond and the Glittering Caves. Do not ask me about them. Ask G
 **Tags:** dates
 
 
-----
-
-# Book IV
-## 29 February 3019 [TOY]
-### [F/S/G]
 It was the third evening since they had fled from the Company, as far as they could tell: they had almost lost count of the hours during which they had climbed and laboured among the barren slopes and stones of the Emyn Muil, sometimes retracing their steps because they could find no way forward, sometimes discovering that they had wandered in a circle back to where they had been hours before.
 
 **Note:** .dates
@@ -1366,8 +1321,6 @@ But he must swear on the Precious.’ ‘No! not on it,’ said Frodo, looking d
 **Tags:** post
 
 
-## 30 February 3019 [TOY]
-### [F/S/G]
 At last the sky above grew faint with the first grey of morning. Gollum had shown no signs of tiring, but now he looked up and halted.
 
 **Note:** .dates
@@ -1382,8 +1335,6 @@ Dropping the leaf, he took a corner of the lembas and nibbled it. He spat, and a
 **Tags:** post
 
 
-## 1 March 3019 [TOY]
-### [F/S/G]
 When he woke up the sky above was dim, not lighter but darker than when they had breakfasted. Sam leapt to his feet. Not least from his own feeling of vigour and hunger, he suddenly understood that he had slept the daylight away, nine hours at least. Frodo was still fast asleep, lying now stretched on his side.
 
 **Note:** .dates
@@ -1407,8 +1358,6 @@ So passed the third day of their journey with
 Strangely enough, Frodo felt refreshed. He had been dreaming. The dark shadow had passed, and a fair vision had visited him in this land of disease. Nothing remained of it in his memory, yet because of it he felt glad and lighter of heart. His burden was less heavy on him. Gollum welcomed him with dog-like delight.
 
 
-## 2 March 3019 [TOY]
-### [F/S/G]
 Chapter 3 THE BLACK GATE IS CLOSED Before the next day dawned their journey to Mordor was over. The marshes and the desert were behind them.
 
 **Note:** .dates
@@ -1417,40 +1366,27 @@ Chapter 3 THE BLACK GATE IS CLOSED Before the next day dawned their journey to M
 
 
 ‘I did not mean the danger that we all share,’ said Frodo. ‘I mean a danger to yourself alone. You swore a promise by what you call the Precious. Remember that! It will hold you to it; but it will seek a way to twist it to your own undoing. Already you are being twisted. You revealed yourself to me just now, foolishly. Give it back to Sméagol you said. Do not say that again! Do not let that thought grow in you! You will never get it back. But the desire of it may betray you to a bitter end. You will never get it back. In the last need, Sméagol, I should put on the Precious; and the Precious mastered you long ago. If I, wearing it, were to command you, you would obey, even if it were to leap from a precipice or to cast yourself into the fire. And such would be my command. So have a care, Sméagol!’
-Sam looked at his master with approval, but also with surprise: there was a look in his face and a tone in his voice that he had not known before. It had always been a notion of his that the kindness of dear Mr. Frodo was of such a high degree that it must imply a fair measure of blindness. Of course, he also firmly held the incompatible belief that Mr. Frodo was the wisest person in the world (with the possible exception of Old Mr. Bilbo and of Gandalf). Gollum in his own way, and with much more excuse as his acquaintance was much briefer, may have made a similar mistake, confusing kindness and blindness. At any rate this speech abashed and terrified him. He grovelled on the ground and could speak no clear words but nice master.
 
 
-## ~3 March 3019
-### [F/S/G]
 Its name was Cirith Ungol, a name of dreadful rumour. Aragorn could perhaps have told them that name and its significance; Gandalf would have warned them. But they were alone, and Aragorn was far away, and Gandalf stood amid the ruin of Isengard and strove with Saruman, delayed by treason. Yet even as he spoke his last words to Saruman, and the palantír crashed in fire upon the steps of Orthanc, his thought was ever upon Frodo and Samwise, over the long leagues his mind sought for them in hope and pity.
 
+**Note:** .conflict wrong dates?
 
-## ~4 March 3019
-### [F/S/G]
+**Tags:** conflict
+
+
 But into Mordor, to the Mountain of Fire and to Barad-dûr, since the Dark Lord rose in power again, had he ever journeyed there? Frodo did not think so. And here he was a little halfling from the Shire, a simple hobbit of the quiet countryside, expected to find a way where the great ones could not go, or dared not go. It was an evil fate. But he had taken it on himself in his own sitting-room in the far-off spring of another year, so remote now that it was like a chapter in a story of the world’s youth, when the Trees of Silver and Gold were still in bloom. This was an evil choice. Which way should he choose? And if both led to terror and death, what good lay in choice?
 
 
 So when you said “Men out of the South, all in red and gold,” I said “were there any oliphaunts?” For if there was, I was going to take a look, risk or no. But now I don’t suppose I’ll ever see an oliphaunt. Maybe there ain’t no such a beast.’ He sighed. ‘No, no oliphaunts,’ said Gollum again. ‘Sméagol has not heard of them. He does not want to see them. He does not want them to be. Sméagol wants to go away from here and hide somewhere safer. Sméagol wants master to go. Nice master, won’t he come with Sméagol?’
 
 
-## ~5/6 March 3019 [TOY]
-### [F/S/G]
 By his reckoning it was nearly thirty leagues from the Morannon to the Cross-roads above Osgiliath, and he hoped to cover that distance in four journeys. So soon they struggled on once more, until the dawn began to spread slowly in the wide grey solitude. They had then walked almost eight leagues, and the hobbits could not have gone any further, even if they had dared.
 
 **Note:** .dates
 
 **Tags:** dates
 
-
-
-
-
-
-## 7 March 3019 [TOY]
-### [F/S/G]
-Chapter 4 OF HERBS AND STEWED RABBIT For the few hours of daylight that were left they rested,
-
-...
 
 Day was opening in the sky, and they saw that the mountains were now much further off, receding eastward in a long curve that was lost in the distance. Before them, as they turned west, gentle slopes ran down into dim hazes far below.
 
@@ -1502,8 +1438,6 @@ But you are less judges of Men than I of Halflings. We are truth-speakers, we me
 Go now to rest — but first tell me only, if you will, whither you wish to go, and what to do. For I must watch, and wait, and think. Time passes. In the morning we must each go swiftly on the ways appointed to us.’ Frodo had felt himself trembling as the first shock of fear passed. Now a great weariness came down on him like a cloud. He could dissemble and resist no longer. ‘I was going to find a way into Mordor,’ he said faintly. ‘I was going to Gorgoroth. I must find the Mountain of Fire and cast the thing into the gulf of Doom. Gandalf said so. I do not think I shall ever get there.’
 
 
-## 8 March 3019 [TOY]
-### [F/S/G]
 Frodo woke to find Faramir bending over him.
 
 **Note:** .dates
@@ -1519,6 +1453,10 @@ For a while Frodo stood there on the high stone, and a shiver ran through him, w
 
 Frodo and Sam returned to their beds and lay there in silence resting for a little, while men bestirred themselves and the business of the day began.
 
+**Note:** .dates
+
+**Tags:** dates
+
 
 Frodo lay and slept away the night on the deep mould beneath an ancient tree. Sam beside him was more uneasy: he woke many times, but there was never a sign of Gollum, who had slipped off as soon as the others had settled to rest. Whether he had slept by himself in some hole nearby, or had wandered restlessly prowling through the night, he did not say; but he returned with the first glimmer of light, and roused his companions.
 
@@ -1527,8 +1465,6 @@ Frodo lay and slept away the night on the deep mould beneath an ancient tree. Sa
 **Tags:** dates
 
 
-## 9 March 3019
-### [F/S/G]
 It must have been a little after midnight when Gollum woke up: suddenly they were aware of his pale eyes unlidded gleaming at them. He listened and sniffed, which seemed, as they had noticed before, his usual method of discovering the time of night.
 
 **Note:** .dates .post
@@ -1551,8 +1487,6 @@ Even as these thoughts pierced him with dread and held him bound as with a spell
 Frodo stirred. And suddenly his heart went out to Faramir. ‘The storm has burst at last,’ he thought. ‘This great array of spears and swords is going to Osgiliath. Will Faramir get across in time? He guessed it, but did he know the hour? And who can now hold the fords when the King of the Nine Riders comes? And other armies will come. I am too late. All is lost. I tarried on the way. All is lost. Even if my errand is performed, no one will ever know. There will be no one I can tell. It will be in vain.’ Overcome with weakness he wept. And still the host of Morgul crossed the bridge. Then at a great distance, as if it came out of memories of the Shire, some sunlit early morning, when the day called and doors were opening, he heard Sam’s voice speaking. ‘Wake up, Mr. Frodo! Wake up!’ Had the voice added: ‘Your breakfast is ready,’ he would hardly have been surprised. Certainly Sam was urgent. ‘Wake up, Mr. Frodo! They’re gone,’ he said.
 
 
-## 10 March 3019 [TOY]
-### [F/S/G]
 How many hours had passed since they had entered the Morgul Vale neither Sam nor Frodo could any longer guess. The night seemed endless. At length they were once more aware of a wall looming up, and once more a stairway opened before them.
 
 **Note:** .dates
@@ -1573,8 +1507,6 @@ I don’t know what time of day or night it is, but we’ve kept going for hours
 ‘It’s saying a lot too much,’ said Frodo, and he laughed, a long clear laugh from his heart. Such a sound had not been heard in those places since Sauron came to Middle-earth. To Sam suddenly it seemed as if all the stones were listening and the tall rocks leaning over them. But Frodo did not heed them; he laughed again.
 
 
-## 11 March 3019 [TOY]
-### [F/S/G]
 ‘Sleep!’ said Frodo and sighed, as if out of a desert he had seen a mirage of cool green. ‘Yes, even here I could sleep.’ ‘Sleep then, master! Lay your head in my lap.’ And so Gollum found them hours later, when he returned, crawling and creeping down the path out of the gloom ahead. Sam sat propped against the stone, his head dropping sideways and his breathing heavy. In his lap lay Frodo’s head, drowned deep in sleep; upon his white forehead lay one of Sam’s brown hands, and the other lay softly upon his master’s breast. Peace was in both their faces. Gollum looked at them. A strange expression passed over his lean hungry face. The gleam faded from his eyes, and they went dim and grey, old and tired. A spasm of pain seemed to twist him, and he turned away, peering back up towards the pass, shaking his head, as if engaged in some interior debate. Then he came back, and slowly putting out a trembling hand, very cautiously he touched Frodo’s knee – but almost the touch was a caress. For a fleeting moment, could one of the sleepers have seen him, they would have thought that they beheld an old weary hobbit, shrunken by the years that had carried him far beyond his time, beyond friends and kin, and the fields and streams of youth, an old starved pitiable thing. But at that touch Frodo stirred and cried out softly in his sleep, and immediately Sam was wide awake. The first thing he saw was Gollum – ‘pawing at master,’ as he thought. ‘Hey you!’ he said roughly. ‘What are you up to?’ ‘Nothing, nothing,’ said Gollum softly. ‘Nice Master!’
 
 
@@ -1591,8 +1523,6 @@ I don’t know what time of day or night it is, but we’ve kept going for hours
 Then holding the star aloft and the bright sword advanced, Frodo, hobbit of the Shire, walked steadily down to meet the eyes. They wavered. Doubt came into them as the light approached. One by one they dimmed, and slowly they drew back. No brightness so deadly had ever afflicted them before. From sun and moon and star they had been safe underground, but now a star had descended into the very earth. Still it approached, and the eyes began to quail. One by one they all went dark; they turned away, and a great bulk, beyond the light’s reach, heaved its huge shadow in between. They were gone.
 
 
-## 13 March 3019 [TOY]
-### [F/S/G]
 He sprang out, shouting as he came. It seemed light in that dark land to his eyes that had passed through the den of night.
 
 **Note:** .dates
@@ -1606,14 +1536,15 @@ But none could rival her, Shelob the Great, last child of Ungoliant to trouble t
 Sam gasped and gathered all his remaining breath to shout. ‘Look out behind!’ he yelled. ‘Look out, master! I’m’ – but suddenly his cry was stifled. A long clammy hand went over his mouth and another caught him by the neck, while something wrapped itself about his leg. Taken off his guard he toppled backwards into the arms of his attacker. ‘Got him!’ hissed Gollum in his ear. ‘At last, my precious, we’ve got him, yes, the nassty hobbit. We takes this one. She’ll get the other. O yes, Shelob will get him, not Sméagol: he promised; he won’t hurt Master at all. But he’s got you, you nassty filthy little sneak!’ He spat on Sam’s neck.
 
 
+‘Look out behind!’ he yelled. ‘Look out, master! I’m’ – but suddenly his cry was stifled. A long clammy hand went over his mouth and another caught him by the neck, while something wrapped itself about his leg. Taken off his guard he toppled backwards into the arms of his attacker.
+
+
 On the near side of him lay, gleaming on the ground, his elven-blade, where it had fallen useless from his grasp. Sam did not wait to wonder what was to be done, or whether he was brave, or loyal, or filled with rage.
 
 
 Even as Sam himself crouched, looking at her, seeing his death in her eyes, a thought came to him, as if some remote voice had spoken, and he fumbled in his breast with his left hand, and found what he sought: cold and hard and solid it seemed to his touch in a phantom world of horror, the Phial of Galadriel. ‘Galadriel!’ he said faintly, and then he heard voices far off but clear: the crying of the Elves as they walked under the stars in the beloved shadows of the Shire, and the music of the Elves as it came through his sleep in the Hall of Fire in the house of Elrond. Gilthoniel A Elbereth! And then his tongue was loosed and his voice cried in a language which he did not know: A Elbereth Gilthoniel o menel palan-diriel, le nallon sí di’nguruthos! A tiro nin, Fanuilos! And with that he staggered to his feet and was Samwise the hobbit, Hamfast’s son, again.
 
 
-## 13 March 3019 [TOY]
-### [F/S/G]
 And then black despair came down on him, and Sam bowed to the ground, and drew his grey hood over his head, and night came into his heart, and he knew no more. When at last the blackness passed, Sam looked up and shadows were about him; but for how many minutes or hours the world had gone dragging on he could not tell. He was still in the same place, and still his master lay beside him dead. The mountains had not crumbled nor the earth fallen into ruin.
 
 **Note:** .dates
@@ -1633,11 +1564,6 @@ He drew a deep breath. ‘Then take It, it is!’ He stooped. Very gently he und
 Sam yelled and brandished Sting, but his little voice was drowned in the tumult. No one heeded him. The great doors slammed to. Boom. The bars of iron fell into place inside. Clang. The gate was shut. Sam hurled himself against the bolted brazen plates and fell senseless to the ground. He was out in the darkness. Frodo was alive but taken by the Enemy.
 
 
-
-
-
-
-# Book V
 There had been the first ride at terrible speed without a halt, and then in the dawn he had seen a pale gleam of gold, and they had come to the silent town and the great empty house on the hill.
 
 **Note:** .dates
@@ -1645,9 +1571,6 @@ There had been the first ride at terrible speed without a halt, and then in the 
 **Tags:** dates
 
 
-
-## 9 March 3019 [TOY]
-### [Gand/P]
 This was the second, no, the third night since he had looked in the Stone. And with that hideous memory he woke fully, and shivered, and the noise of the wind became filled with menacing voices. A light kindled in the sky, a blaze of yellow fire behind dark barriers.
 
 **Note:** .dates
@@ -1680,8 +1603,6 @@ sufficient of these deeds for my own counsel against the menace of the East.’ 
 ‘No!’ Pippin laughed. ‘Don’t believe what strangers say of themselves either! I am not a fighter. But it would be politer in any case for the challenger to say who he is.’ The boy drew himself up proudly. ‘I am Bergil son of Beregond of the Guards,’ he said. ‘So I thought,’ said Pippin, ‘for you look like your father. I know him and he sent me to find you.’ ‘Then why did you not say so at once?’ said Bergil, and suddenly a look of dismay came over his face. ‘Do not tell me that he has changed his mind, and will send me away with the maidens! But no, the last wains have gone.’ ‘His message is less bad than that, if not good,’ said Pippin. ‘He says that if you would prefer it to standing me on my head, you might show me round the City for a while and cheer my loneliness. I can tell you some tales of far countries in return.’
 
 
-## 9 March 3019 [TOY]
-### [Gand/P]
 ‘But the night will be too short,’ said Gandalf. ‘I have come back here, for I must have a little peace, alone. You should sleep, in a bed while you still may. At the sunrise I shall take you to the Lord Denethor again. No, when the summons comes, not at sunrise. The Darkness has begun. There will be no dawn.’
 
 **Note:** .dates
@@ -1689,11 +1610,6 @@ sufficient of these deeds for my own counsel against the menace of the East.’ 
 **Tags:** dates
 
 
-
----
-
-## 6 March 3019
-### [A/L/G/P]
 And Aragorn said to Halbarad: ‘What is that that you bear, kinsman?’ For he saw that instead of a spear he bore a tall staff, as it were a standard, but it was close-furled in a black cloth bound about with many thongs. ‘It is a gift that I bring you from the Lady of Rivendell,’ answered Halbarad. ‘She wrought it in secret, and long was the making. But she also sends word to you: The days now are short. Either our hope cometh, or all hope’s end. Therefore I send thee what I have made for thee. Fare well, Elfstone!’ And Aragorn said: ‘Now I know what you bear. Bear it still for me a while!’ And he turned and looked away to the North under the great stars, and then he fell silent and spoke no more while the night’s journey lasted.
 
 
@@ -1713,7 +1629,6 @@ Aragorn rode to the Dike and watched till the king’s men were far down the Coo
 ‘Nay, my friends, I am the lawful master of the Stone, and I had both the right and the strength to use it, or so I judged. The right cannot be doubted. The strength was enough – barely.’ He drew a deep breath. ‘It was a bitter struggle, and the weariness is slow to pass. I spoke no word to him, and in the end I wrenched the Stone to my own will. That alone he will find hard to endure. And he beheld me. Yes, Master Gimli, he saw me, but in other guise than you see me here. If that will aid him, then I have done ill. But I do not think so. To know that I lived and walked the earth was a blow to his heart, I deem; for he knew it not till now. The eyes in Orthanc did not see through the armour of Théoden; but Sauron has not forgotten Isildur and the sword of Elendil. Now in the very hour of his great designs the heir of Isildur and the Sword are revealed; for I showed the blade re-forged to him. He is not so mighty yet that he is above fear; nay, doubt ever gnaws him.’ ‘But he wields great dominion, nonetheless,’ said Gimli; ‘and now he will strike more swiftly.’ ‘The hasty stroke goes oft astray,’ said Aragorn.
 
 
-
 and on the next day in the afternoon they came to Edoras;
 
 **Note:** .dates
@@ -1721,8 +1636,6 @@ and on the next day in the afternoon they came to Edoras;
 **Tags:** dates
 
 
-## 7 March 3019 [TOY]
-### [A/L/G] [-Pippin]
 When the light of day was come into the sky but the sun was not yet risen above the high ridges in the East, Aragorn made ready to depart.
 
 **Note:** .dates
@@ -1733,8 +1646,6 @@ When the light of day was come into the sky but the sun was not yet risen above 
 And there stood Gimli the Dwarf left all alone. His knees shook, and he was wroth with himself. ‘Here is a thing unheard of!’ he said. ‘An Elf will go underground and a Dwarf dare not!’ With that he plunged in. But it seemed to him that he dragged his feet like lead over the threshold; and at once a blindness came upon him, even upon Gimli Glóin’s son who had walked unafraid in many deep places of the world.
 
 
-## 8 March 3019 [TOY]
-### [A/L/G]
 And thus, just ere midnight, and in a darkness as black as the caverns in the mountains, they came at last to the Hill of Erech.
 
 **Note:** .dates
@@ -1742,8 +1653,6 @@ And thus, just ere midnight, and in a darkness as black as the caverns in the mo
 **Tags:** dates
 
 
-## 9 March 3019 [TOY]
-### [A/L/G]
 But the next day there came no dawn, and the Grey Company passed on into the darkness of the Storm of Mordor and were lost to mortal sight; but the Dead followed them.
 
 **Note:** .dates
@@ -1751,8 +1660,6 @@ But the next day there came no dawn, and the Grey Company passed on into the dar
 **Tags:** dates
 
 
-## 06/? March 3019
-### [M/Theoden/Eowyn]
 Chapter 3 THE MUSTER OF ROHAN Now all roads were running together to the East to meet the coming of war and the onset of the Shadow.
 
 
@@ -1761,20 +1668,21 @@ Chapter 3 THE MUSTER OF ROHAN Now all roads were running together to the East to
 
 In the morning counsels are best, and night changes many thoughts.’
 
-## 10 March 3019 [TOY]
-### [M/Theoden/Eowyn]
-‘I won’t be left behind, to be called for on return!’ said Merry. And repeating this over and over again to himself he fell asleep at last in his tent.
+
+And repeating this over and over again to himself he fell asleep at last in his tent.
+
 **Note:** .dates
+
 **Tags:** dates
 
-‘But the Sun has not risen, yet,’ said Merry. ‘No, and will not rise today, Master Holbytla. Nor ever again, one would think under this cloud. But time does not stand still, though the Sun be lost. Make haste!’ 
+
+‘But the Sun has not risen, yet,’ said Merry. ‘No, and will not rise today, Master Holbytla. Nor ever again, one would think under this cloud.
+
 **Note:** .datees
+
 **Tags:** datees
 
----
 
-## 10 March 3019
-### [Gand/P]
 You shall wait on me, bear errands, and talk to me, if war and council leave me any leisure. Can you sing?’ ‘Yes,’ said Pippin. ‘Well, yes, well enough for my own people. But we have no songs fit for great halls and evil times, lord. We seldom sing of anything more terrible than wind or rain. And most of my songs are about things that make us laugh; or about food and drink, of course.’ ‘And why should such songs be unfit for my halls, or for such hours as these? We who have lived long under the Shadow may surely listen to echoes from a land untroubled by it? Then we may feel that our vigil was not fruitless, though it may have been thankless.’ Pippin’s heart sank. He did not relish the idea of singing any song of the Shire to the Lord of Minas Tirith, certainly not the comic ones that he knew best; they were too, well, rustic for such an occasion. He was however spared the ordeal for the present. He was not commanded to sing.
 
 
@@ -1797,13 +1705,9 @@ Good night!’ The next day came with a morning like a brown dusk, and the heart
 **Tags:** dates
 
 
-## 11 March 3019
-### [Gand/P]
 ‘Much must be risked in war,’ said Denethor. ‘Cair Andros is manned, and no more can be sent so far. But I will not yield the River and the Pelennor unfought – not if there is a captain here who has still the courage to do his lord’s will.’ Then all were silent. But at length Faramir said: ‘I do not oppose your will, sire. Since you are robbed of Boromir, I will go and do what I can in his stead – if you command it.’ ‘I do so,’ said Denethor. ‘Then farewell!’ said Faramir. ‘But if I should return, think better of me!’ ‘That depends on the manner of your return,’ said Denethor.
 
 
-## 12 March 3019
-### [Gand/P]
 With those ill-boding words the third day closed since Pippin came to Minas Tirith. Few went to rest, for small hope had any now that even Faramir could hold the fords for long. The next day, though the darkness had reached its full and grew no deeper, it weighed heavier on men’s hearts, and a great dread was on them.
 
 **Note:** .dates
@@ -1811,9 +1715,6 @@ With those ill-boding words the third day closed since Pippin came to Minas Tiri
 **Tags:** dates
 
 
-
-## 13 ? March 3019
-### [Gand/P]
 And all that night Pippin alone and sleepless stood upon the wall and gazed eastward. The bells of day had scarcely rung out again, a mockery in the unlightened dark,
 
 **Note:** .dates
@@ -1836,25 +1737,6 @@ Grond crawled on. The drums rolled wildly. Over the hills of slain a hideous sha
 ‘Old fool!’ he said. ‘Old fool! This is my hour. Do you not know Death when you see it? Die now and curse in vain!’ And with that he lifted high his sword and flames ran down the blade. Gandalf did not move. And in that very moment, away behind in some courtyard of the City, a cock crowed. Shrill and clear he crowed, recking nothing of wizardry or war, welcoming only the morning that in the sky far above the shadows of death was coming with the dawn.
 
 
-## ~14 March 3019
-### [Gand/P]
-The Gate was shut. All night watchmen on the walls heard the rumour of the enemy that roamed outside, burning field and tree, and hewing any man that they found abroad, living or dead. The numbers that had already passed over the River could not be guessed in the darkness, but when morning, or its dim shadow, stole over the plain, it was seen that even fear by night had scarcely over-counted them. The plain was dark with their marching companies, and as far as eyes could strain in the mirk there sprouted, like a foul fungus-growth, all about the beleaguered city great camps of tents, black or sombre red. 
-
-Busy as ants hurrying orcs were digging, digging lines of deep trenches in a huge ring, just out of bowshot from the walls; and as the trenches were made each was filled with fire, though how it was kindled or fed, by art or devilry, none could see. All day the labour went forward, while the men of Minas Tirith looked on, unable to hinder it. And as each length of trench was completed, they could see great wains approaching; and soon yet more companies of the enemy were swiftly setting up, each behind the cover of a trench, great engines for the casting of missiles. There were none upon the City walls large enough to reach so far or to stay the work.
-
-At first men laughed and did not greatly fear such devices. For the main wall of the City was of great height and marvellous thickness, built ere the power and craft of Númenor waned in exile; and its outward face was like to the Tower of Orthanc, hard and dark and smooth, unconquerable by steel or fire, unbreakable except by some convulsion that would rend the very earth on which it stood. 
-
-‘Nay,’ they said, ‘not if the Nameless One himself should come, not even he could enter here while we yet live.’ But some answered: ‘While we yet live? How long? He has a weapon that has brought low many strong places since the world began. Hunger. The roads are cut. Rohan will not come.’
-
-## 15 March 3019 [TOY]
-### [Gand/P]
-At the door he turned to one of the servants who had remained on guard there. ‘Your master is not himself,’ he said. ‘Go slow! Bring no fire to this place while Faramir lives! Do nothing until Gandalf comes!’ ‘Who is the master of Minas Tirith?’ the man answered. ‘The Lord Denethor or the Grey Wanderer?’ ‘The Grey Wanderer or no one, it would seem,’ said Pippin,
-
-
-
-
-## ~13 March 3019
-### [M/Theoden/Eowyn]
 The old man’s flat face and dark eyes showed nothing, but his voice was sullen with displeasure. ‘Wild Men are wild, free, but not children,’ he answered. ‘I am great headman, Ghân-buri-Ghân. I count many things: stars in sky, leaves on trees, men in the dark. You have a score of scores counted ten times and five. They have more. Big fight, and who will win? And many more walk round walls of Stone-houses.’ ‘Alas! he speaks all too shrewdly,’ said Théoden. ‘And our scouts say that they have cast trenches and stakes across the road. We cannot sweep them away in sudden onset.’
 
 
@@ -1864,41 +1746,26 @@ The old man’s flat face and dark eyes showed nothing, but his voice was sullen
 Ghân-buri-Ghân squatted down and touched the earth with his horny brow in token of farewell. Then he got up as if to depart. But suddenly he stood looking up like some startled woodland animal snuffling a strange air. A light came in his eyes. ‘Wind is changing!’ he cried, and with that, in a twinkling as it seemed, he and his fellows had vanished into the glooms, never to be seen by any Rider of Rohan again. Not long after far away eastward the faint drums throbbed again. Yet to no heart in all the host came any fear that the Wild Men were unfaithful, strange and unlovely though they might appear.
 
 
-
-## ~14 March 3019
-### [M/Theoden/Eowyn]
 ‘Alas!’ said Théoden. ‘Then Denethor has heard no news of our riding and will despair of our coming.’ ‘Need brooks no delay, yet late is better than never,’ said Éomer. ‘And mayhap in this time shall the old saw be proved truer than ever before since men spoke with mouth.’
 
 
-## 15 March 3019 [TOY]
-### [M/Theoden/Eowyn]
 His golden shield was uncovered, and lo! it shone like an image of the Sun, and the grass flamed into green about the white feet of his steed. For morning came, morning and a wind from the sea; and darkness was removed, and the hosts of Mordor wailed, and terror took them, and they fled, and died, and the hoofs of wrath rode over them. And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them, and the sound of their singing that was fair and terrible came even to the City.
+
 **Note:** .dates
+
 **Tags:** dates
 
 
-
 Right through the charge Merry had been borne unharmed behind him, until the Shadow came; and then Windfola had thrown them in his terror, and now ran wild upon the plain. Merry crawled on all fours like a dazed beast, and such a horror was on him that he was blind and sick. ‘King’s man! King’s man!’ his heart cried within him. ‘You must stay by him. As a father you shall be to me, you said.’ But his will made no answer, and his body shook. He dared not open his eyes or look up.
-
-These staves he spoke, yet he laughed as he said them. For once more lust of battle was on him; and he was still unscathed, and he was young, and he was king: the lord of a fell people. And lo! even as he laughed at despair he looked out again on the black ships, and he lifted up his sword to defy them. 
-And then wonder took him, and a great joy; and he cast his sword up in the sunlight and sang as he caught it. And all eyes followed his gaze, and behold! upon the foremost ship a great standard broke, and the wind displayed it as she turned towards the Harlond. There flowered a White Tree, and that was for Gondor; but Seven Stars were about it, and a high crown above it, the signs of Elendil that no lord had borne for years beyond count. And the stars flamed in the sunlight, for they were wrought of gems by Arwen daughter of Elrond; and the crown was bright in the morning, for it was wrought of mithril and gold. 
-Thus came Aragorn son of Arathorn, Elessar, Isildur’s heir, out of the Paths of the Dead, borne upon a wind from the Sea to the kingdom of Gondor; and the mirth of the Rohirrim was a torrent of laughter and a flashing of swords, and the joy and wonder of the City was a music of trumpets and a ringing of bells. But the hosts of Mordor were seized with bewilderment, and a great wizardry it seemed to them that their own ships should be filled with their foes; and a black dread fell on them, knowing that the tides of fate had turned against them and their doom was at hand.
 
 
 So passed the sword of the Barrow-downs, work of Westernesse. But glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young, and chief among their foes was the dread realm of Angmar and its sorcerer king. No other blade, not though mightier hands had wielded it, would have dealt that foe a wound so bitter, cleaving the undead flesh, breaking the spell that knit his unseen sinews to his will.
 
 
+These staves he spoke, yet he laughed as he said them. For once more lust of battle was on him; and he was still unscathed, and he was young, and he was king: the lord of a fell people. And lo! even as he laughed at despair he looked out again on the black ships, and he lifted up his sword to defy them. And then wonder took him, and a great joy; and he cast his sword up in the sunlight and sang as he caught it. And all eyes followed his gaze, and behold! upon the foremost ship a great standard broke, and the wind displayed it as she turned towards the Harlond. There flowered a White Tree, and that was for Gondor; but Seven Stars were about it, and a high crown above it, the signs of Elendil that no lord had borne for years beyond count. And the stars flamed in the sunlight, for they were wrought of gems by Arwen daughter of Elrond; and the crown was bright in the morning, for it was wrought of mithril and gold. Thus came Aragorn son of Arathorn, Elessar, Isildur’s heir, out of the Paths of the Dead, borne upon a wind from the Sea to the kingdom of Gondor; and the mirth of the Rohirrim was a torrent of laughter and a flashing of swords, and the joy and wonder of the City was a music of trumpets and a ringing of bells. But the hosts of Mordor were seized with bewilderment, and a great wizardry it seemed to them that their own ships should be filled with their foes; and a black dread fell on them, knowing that the tides of fate had turned against them and their doom was at hand.
 
 
-# Book V -- The Pyre of Denethor
-
-
-## 15 March 3019 [TOY]
-### [Gand/P]
-‘He will not wake again,’ said Denethor. ‘Battle is vain. Why should we wish to live longer? Why should we not go to death side by side?’ ‘Authority is not
-
-‘Authority is not given to you, Steward of Gondor, to order the hour of your death,’ answered Gandalf. ‘And only the heathen kings, under the domination of the Dark Power, did thus, slaying themselves in pride and despair, murdering their kin to ease their own death.’
-Then passing through the door he took Faramir from the deadly house and laid him on the bier on which he had been brought, and which had now been set in the porch. Denethor followed him, and stood trembling, looking with longing on the face of his son. And for a moment, while all were silent and still, watching the Lord in his throes, he wavered.
+‘Authority is not given to you, Steward of Gondor, to order the hour of your death,’ answered Gandalf. ‘And only the heathen kings, under the domination of the Dark Power, did thus, slaying themselves in pride and despair, murdering their kin to ease their own death.’ Then passing through the door he took Faramir from the deadly house and laid him on the bier on which he had been brought, and which had now been set in the porch. Denethor followed him, and stood trembling, looking with longing on the face of his son. And for a moment, while all were silent and still, watching the Lord in his throes, he wavered.
 
 
 Then Denethor leaped upon the table, and standing there wreathed in fire and smoke he took up the staff of his stewardship that lay at his feet and broke it on his knee. Casting the pieces into the blaze he bowed and laid himself on the table, clasping the palantir with both hands upon his breast. And it was said that ever after, if any man looked in that Stone, unless he had a great strength of will to turn it to other purpose, he saw only two aged hands withering in flame.
@@ -1907,12 +1774,6 @@ Then Denethor leaped upon the table, and standing there wreathed in fire and smo
 Pippin’s face was anxious. ‘Well, you had better come with me as quick as you can,’ he said. ‘I wish I could carry you. You aren’t fit to walk any further. They shouldn’t have let you walk at all; but you must forgive them. So many dreadful things have happened in the City, Merry, that one poor hobbit coming in from the battle is easily overlooked.’ ‘It’s not always a misfortune being overlooked,’ said Merry. ‘I was overlooked just now by – no, no, I can’t speak of it. Help me, Pippin! It’s all going dark again, and my arm is so cold.’ ‘Lean on me, Merry lad!’ said Pippin. ‘Come now! Foot by foot. It’s not far.’ ‘Are you going to bury me?’ said Merry. ‘No, indeed!’ said Pippin, trying to sound cheerful, though his heart was wrung with fear and pity. ‘No, we are going to the Houses of Healing.’
 
 
-
-# Book V -- The Houses of Healing
-
-
-## 15 March 3019 [TOY]
-### [A/G/L/Gand/P/M]
 For it is said in old lore: The hands of the king are the hands of a healer. And so the rightful king could ever be known.’ And Gandalf, who stood by, said: ‘Men may long remember your words, Ioreth! For there is hope in them. Maybe a king has indeed returned to Gondor; or have you not heard the strange tidings that have come to the City?’ ‘I have been too busy with this and that to heed all the crying and shouting,’ she answered. ‘All I hope is that those murdering devils do not come to this House and trouble the sick.’
 
 
@@ -1921,28 +1782,24 @@ But Imrahil said: ‘So victory is shorn of gladness, and it is bitter bought, i
 
 Now Aragorn knelt beside Faramir, and held a hand upon his brow. And those that watched felt that some great struggle was going on. For Aragorn’s face grew grey with weariness; and ever and anon he called the name of Faramir, but each time more faintly to their hearing, as if Aragorn himself was removed from them, and walked afar in some dark vale, calling for one that was lost.
 
+
 His grief he will not forget; but it will not darken his heart, it will teach him wisdom.’
 
-Merry smiled. ‘Well then,’ he said, ‘if Strider will provide what is needed, I will smoke and think. I had some of Saruman’s best in my pack, but what became of it in the battle, I am sure I don’t know.’ ‘Master Meriadoc,’ said Aragorn, ‘if you think that I have passed through the mountains and the realm of Gondor with fire and sword to bring herbs to a careless soldier who throws away his gear, you are mistaken. If your pack has not been found, then you must send for the herb-master of this House. And he will tell you that he did not know that the herb you desire had any virtues, but that it is called westmansweed by the vulgar, and galenas by the noble, and other names in other tongues more learned, and after adding a few half-forgotten rhymes that he does not understand, he will regretfully inform you that there is none in the House, and he will leave you to reflect on the history of tongues. And so now must I. For I have not slept in such a bed as this, since I rode from Dunharrow, nor eaten since the dark before dawn.’ Merry seized his hand and kissed it. ‘I am frightfully sorry,’ he said. ‘Go at once! Ever since that night at Bree we have been a nuisance to you. But it is the way of my people to use light words at such times and say less than they mean. We fear to say too much. It robs us of the right words when a jest is out of place.’ ‘I know that well, or I would not deal with you in the same way,’ said Aragorn. ‘May the Shire live for ever unwithered!’ And kissing Merry he went out, and Gandalf went with him.
+
+Merry seized his hand and kissed it. ‘I am frightfully sorry,’ he said. ‘Go at once! Ever since that night at Bree we have been a nuisance to you. But it is the way of my people to use light words at such times and say less than they mean. We fear to say too much. It robs us of the right words when a jest is out of place.’
 
 
-
-
-## 16 March 3019 [TOY]
-### [A/G/L/Gand/P/M]
-And when he could labour no more, he cast his cloak about him, and slipped out of the City, and went to his tent just ere dawn and slept for a little. And in the morning the banner of Dol Amroth, a white ship like a swan upon blue water, floated from the Tower, and men looked up and wondered if the coming of the King had been but a dream.
-# Book V -- The Last Debate
 The morning came after the day of battle,
+
 **Note:** .dates
+
 **Tags:** dates
 
 
 ‘You will find them in the Houses of Healing, and I will lead you thither,’ said Imrahil. ‘It will be enough if you send one to guide us, lord,’ said Legolas. ‘For Aragorn sends this message to you. He does not wish to enter the City again at this time. Yet there is need for the captains to hold council at once, and he prays that you and Éomer of Rohan will come down to his tents, as soon as may be. Mithrandir is already there.’ ‘We will come,’ said Imrahil; and they parted with courteous words. ‘That is a fair lord and a great captain of men,’ said Legolas. ‘If Gondor has such men still in these days of fading, great must have been its glory in the days of its rising.’ ‘And doubtless the good stone-work is the older and was wrought in the first building,’ said Gimli. ‘It is ever so with the things that Men begin: there is a frost in Spring, or a blight in Summer, and they fail of their promise.’ ‘Yet seldom do they fail of their seed,’ said Legolas. ‘And that will lie in the dust and rot to spring up again in times and places unlooked-for. The deeds of Men will outlast us, Gimli.’ ‘And yet come to naught in the end but might-have-beens, I guess,’ said the Dwarf. ‘To that the Elves know not the answer,’ said Legolas.
 
 
-
-And now Legolas fell silent, while the others talked, and he looked out against the sun, and as he gazed he saw white sea-birds beating up the River. ‘Look!’ he cried. ‘Gulls! They are flying far inland. A wonder they are to me and a trouble to my heart. Never in all my life had I met them, until we came to Pelargir, and there I heard them crying in the air as we rode to the battle of the ships. Then I stood still, forgetting war in Middle-earth; for their wailing voices spoke to me of the Sea. The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.’ 
-‘Say not so!’ said Gimli. ‘There are countless things still to see in Middle-earth, and great works to do. But if all the fair folk take to the Havens, it will be a duller world for those who are doomed to stay.’
+And now Legolas fell silent, while the others talked, and he looked out against the sun, and as he gazed he saw white sea-birds beating up the River. ‘Look!’ he cried. ‘Gulls! They are flying far inland. A wonder they are to me and a trouble to my heart. Never in all my life had I met them, until we came to Pelargir, and there I heard them crying in the air as we rode to the battle of the ships. Then I stood still, forgetting war in Middle-earth; for their wailing voices spoke to me of the Sea. The Sea! Alas! I have not yet beheld it. But deep in the hearts of all my kindred lies the sea-longing, which it is perilous to stir. Alas! for the gulls. No peace shall I have again under beech or under elm.’ ‘Say not so!’ said Gimli. ‘There are countless things still to see in Middle-earth, and great works to do. But if all the fair folk take to the Havens, it will be a duller world for those who are doomed to stay.’
 
 
 ‘“Hear now the words of the Heir of Isildur! Your oath is fulfilled. Go back and trouble not the valleys ever again! Depart and be at rest!”
@@ -1959,99 +1816,73 @@ And now Legolas fell silent, while the others talked, and he looked out against 
 
 ‘His doubt will be growing, even as we speak here. His Eye is now straining towards us, blind almost to all else that is moving. So we must keep it. Therein lies all our hope. This, then, is my counsel. We have not the Ring. In wisdom or great folly it has been sent away to be destroyed, lest it destroy us. Without it we cannot by force defeat his force. But we must at all costs keep his Eye from his true peril. We cannot achieve victory by arms, but by arms we can give the Ring-bearer his only chance, frail though it be.
 
-[Aragorn] But men are better than gates, and no gate will endure against our Enemy if men desert it.’
+
+But men are better than gates, and no gate will endure against our Enemy if men desert it.’
 
 
 ‘Surely,’ he cried, ‘this is the greatest jest in all the history of Gondor: that we should ride with seven thousands, scarce as many as the vanguard of its army in the days of its power, to assail the mountains and the impenetrable gate of the Black Land! So might a child threaten a mail-clad knight with a bow of string and green willow! If the Dark Lord knows so much as you say, Mithrandir, will he not rather smile than fear, and with his little finger crush us like a fly that tries to sting him?’
 
 
-# Book V -- The Black Gate Opens
+that we should ride with seven thousands, scarce as many as the vanguard
 
-Chapter 10 THE BLACK GATE OPENS 
-## 18 March 3019 [TOY]
-### [A/L/G/Gand/P] 
+
 Two days later the army of the West was all assembled on the Pelennor.
+
 **Note:** .dates
+
 **Tags:** dates
+
+
 Then Aragorn set trumpeters at each of the four roads that ran into the ring of trees, and they blew a great fanfare, and the heralds cried aloud: ‘The Lords of Gondor have returned and all this land that is theirs they take back.’ The hideous orc-head that was set upon the carven figure was cast down and broken in pieces, and the old king’s head was raised and set in its place once more, still crowned with white and golden flowers; and men laboured to wash and pare away all the foul scrawls that orcs had put upon the stone.
 
-## 20 March 3019
-### [A/L/G/Gand/P] 
+
 The day after, being the third day since they set out from Minas Tirith, the army began its northward march along the road.
+
 **Note:** .dates
+
 **Tags:** dates
+
 
 Ever and anon Gandalf let blow the trumpets, and the heralds would cry: ‘The Lords of Gondor are come! Let all leave this land or yield them up!’ But Imrahil said: ‘Say not The Lords of Gondor. Say The King Elessar. For that is true, even though he has not yet sat upon the throne; and it will give the Enemy more thought, if the heralds use that name.’ And thereafter thrice a day the heralds proclaimed the coming of the King Elessar. But none answered the challenge.
 
-## 21 March 3019
-### [A/L/G/Gand/P] 
+
 It was near the end of the second day of their march from the Cross-roads that they first met any offer of battle.
+
 **Note:** .dates
+
 **Tags:** dates
+
 
 So time and the hopeless journey wore away. Upon the fourth day from the Cross-roads and the sixth from Minas Tirith they came at last to the end of the living lands, and began to pass into the desolation that lay before the gates of the Pass of Cirith Gorgor;
 
-
-
-## 22 March 3019 [TOY]
-### [A/L/G/Gand/P] 
-And from that evening onward the Nazgûl came and followed every move of the army. They still flew high and out of sight of all save Legolas, and yet their presence could be felt, as a deepening of shadow and a dimming of the sun; and though the Ringwraiths did not yet stoop low upon their foes and were silent, uttering no cry, the dread of them could not be shaken off.
-
-
-## 23 March 3019 [TOY]
-### [A/L/G/Gand/P] 
-Upon the fourth day from the Cross-roads and the sixth from Minas Tirith ...
 **Note:** .dates
+
 **Tags:** dates
 
-...they came at last to the end of the living lands, and began to pass into the desolation that lay before the gates of the Pass of Cirith Gorgor; and they could descry the marshes and the desert that stretched north and west to the Emyn Muil. 
-So desolate were those places and so deep the horror that lay on them that some of the host were unmanned, and they could neither walk nor ride further north. 
-Aragorn looked at them, and there was pity in his eyes rather than wrath; for these were young men from Rohan, from Westfold far away, or husbandmen from Lossarnach, and to them Mordor had been from childhood a name of evil, and yet unreal, a legend that had no part in their simple life; and now they walked like men in a hideous dream made true, and they understood not this war nor why fate should lead them to such a pass. 
-‘Go!’ said Aragorn. ‘But keep what honour you may, and do not run! And there is a task which you may attempt and so be not wholly shamed. Take your way south-west till you come to Cair Andros, and if that is still held by enemies, as I think, then re-take it, if you can; and hold it to the last in defence of Gondor and Rohan!’ 
-Then some being shamed by his mercy overcame their fear and went on, and the others took new hope, hearing of a manful deed within their measure that they could turn to, and they departed. 
+
+So desolate were those places and so deep the horror that lay on them that some of the host were unmanned, and they could neither walk nor ride further north. Aragorn looked at them, and there was pity in his eyes rather than wrath; for these were young men from Rohan, from Westfold far away, or husbandmen from Lossarnach, and to them Mordor had been from childhood a name of evil, and yet unreal, a legend that had no part in their simple life; and now they walked like men in a hideous dream made true, and they understood not this war nor why fate should lead them to such a pass. ‘Go!’ said Aragorn. ‘But keep what honour you may, and do not run! And there is a task which you may attempt and so be not wholly shamed. Take your way south-west till you come to Cair Andros, and if that is still held by enemies, as I think, then re-take it, if you can; and hold it to the last in defence of Gondor and Rohan!’ Then some being shamed by his mercy overcame their fear and went on, and the others took new hope, hearing of a manful deed within their measure that they could turn to, and they departed.
 
 
+As morning came the wind began to stir again, but now it came from the North, and soon it freshened to a rising breeze.
 
-## 24 March 3019 [TOY]
-### [A/L/G/Gand/P] 
-
-At nightfall of the fifth day of the march from Morgul Vale they made their last camp, and set fires about it of such dead wood and heath as they could find. They passed the hours of night in wakefulness and they were aware of many things half-seen that walked and prowled all about them, and they heard the howling of wolves. The wind had died and all the air seemed still. They could see little, for though it was cloudless and the waxing moon was four nights old, there were smokes and fumes that rose out of the earth and the white crescent was shrouded in the mists of Mordor. 
-It grew cold.
-
-
-
-## 25 March 3019 [TOY]
-### [A/L/G/Gand/P] 
-As morning came the wind began to stir again,
 **Note:** .dates
+
 **Tags:** dates
+
 
 There was a long silence, and from wall and gate no cry or sound was heard in answer. But Sauron had already laid his plans, and he had a mind first to play these mice cruelly before he struck to kill. So it was that, even as the Captains were about to turn away, the silence was broken suddenly. There came a long rolling of great drums like thunder in the mountains, and then a braying of horns that shook the very stones and stunned men’s ears. And thereupon the door of the Black Gate was thrown open with a great clang, and out of it there came an embassy from the Dark Tower.
 
-‘Is there anyone in this rout with authority to treat with me?’ he asked. ‘Or indeed with wit to understand me? Not thou at least!’ he mocked, turning to Aragorn with scorn. ‘It needs more to make a king than a piece of Elvish glass, or a rabble such as this. Why, any brigand of the hills can show as good a following!’ 
-Aragorn said naught in answer, but he took the other’s eye and held it, and for a moment they strove thus; but soon, though Aragorn did not stir nor move hand to weapon, the other quailed and gave back as if menaced with a blow. ‘I am a herald and ambassador, and may not be assailed!’ he cried. 
-‘Where such laws hold,’ said Gandalf, ‘it is also the custom for ambassadors to use less insolence. But no one has threatened you. You have naught to fear from us, until your errand is done. But unless your master has come to new wisdom, then with all his servants you will be in great peril.’ 
-‘So!’ said the Messenger. ‘Then thou art the spokesman, old greybeard? Have we not heard of thee at whiles, and of thy wanderings, ever hatching plots and mischief at a safe distance? But this time thou hast stuck out thy nose too far, Master Gandalf; and thou shalt see what comes to him who sets his foolish webs before the feet of Sauron the Great. I have tokens that I was bidden to show to thee - to thee in especial, if thou shouldst dare to come.’ He signed to one of his guards, and he came forward bearing a bundle swathed in black cloths.
+
+Aragorn said naught in answer, but he took the other’s eye and held it, and for a moment they strove thus; but soon, though Aragorn did not stir nor move hand to weapon, the other quailed and gave back as if menaced with a blow. ‘I am a herald and ambassador, and may not be assailed!’ he cried.
 
 
 Pippin had bowed crushed with horror when he heard Gandalf reject the terms and doom Frodo to the torment of the Tower; but he had mastered himself, and now he stood beside Beregond in the front rank of Gondor with Imrahil’s men. For it seemed best to him to die soon and leave the bitter story of his life, since all was in ruin. ‘I wish Merry was here,’ he heard himself saying, and quick thoughts raced through his mind, even as he watched the enemy come charging to the assault. ‘Well, well, now at any rate I understand poor Denethor a little better. We might die together, Merry and I, and since die we must, why not? Well, as he is not here, I hope he’ll find an easier end. But now I must do my best.’ He drew his sword and looked at it, and the intertwining shapes of red and gold; and the flowing characters of Númenor glinted like fire upon the blade. ‘This was made for just such an hour,’ he thought. ‘If only I could smite that foul Messenger with it, then almost I should draw level with old Merry. Well, I’ll smite some of this beastly brood before the end. I wish I could see cool sunlight and green grass again!’
 
-Blackness and stench and crushing pain came upon Pippin, and his mind fell away into a great darkness. ‘So it ends as I guessed it would,’ his thought said, even as it fluttered away; and it laughed a little within him ere it fled, almost gay it seemed to be casting off at last all doubt and care and fear. And then even as it winged away into forgetfulness it heard voices, and they seemed to be crying in some forgotten world far above: ‘The Eagles are coming! The Eagles are coming!’ For one moment more Pippin’s thought hovered. ‘Bilbo!’ it said. ‘But no! That came in his tale, long long ago. This is my tale, and it is ended now. Good-bye!’ And his thought fled far away and his eyes saw no more.
 
-
-
-----
-
-
-
-## 14 March 3019
-### [F/S/G]
 ‘I wonder if they think of us at all,’ he said, ‘and what is happening to them all away there.’ He waved his hand vaguely in the air before him; but he was in fact now facing southwards, as he came back to Shelob’s tunnel, not west. Out westward in the world it was drawing to noon upon the fourteenth day of March in the Shire-reckoning, and even now Aragorn was leading the black fleet from Pelargir, and Merry was riding with the Rohirrim down the Stonewain Valley, while in Minas Tirith flames were rising and Pippin watched the madness growing in the eyes of Denethor. Yet amid all their cares and fear the thoughts of their friends turned constantly to Frodo and Sam. They were not forgotten. But they were far beyond aid, and no thought could yet bring any help to Samwise Hamfast’s son; he was utterly alone.
 
 
 In that hour of trial it was the love of his master that helped most to hold him firm; but also deep down in him lived still unconquered his plain hobbit-sense: he knew in the core of his heart that he was not large enough to bear such a burden, even if such visions were not a mere cheat to betray him. The one small garden of a free gardener was all his need and due, not a garden swollen to a realm; his own hands to use, not the hands of others to command.
-
-
 
 
 He advanced down the passage, but slowly now, each step more reluctant. Terror was beginning to grip him again. There was no sound save the rap of his feet, which seemed to grow to an echoing noise, like the slapping of great hands upon the stones. The dead bodies; the emptiness; the dank black walls that in the torchlight seemed to drip with blood; the fear of sudden death lurking in doorway or shadow; and behind all his mind the waiting watchful malice at the gate: it was almost more than he could screw himself to face. He would have welcomed a fight - with not too many enemies at a time - rather than this hideous brooding uncertainty. He forced himself to think of Frodo, lying bound or in pain or dead somewhere in this dreadful place. He went on.
@@ -2060,24 +1891,7 @@ He advanced down the passage, but slowly now, each step more reluctant. Terror w
 Away below Shagrat went leaping down the stairs and out over the court and through the gate, bearing his precious burden. If Sam could have seen him and known the grief that his escape would bring, he might have quailed.
 
 
-At last, weary and feeling finally defeated, he sat on a step below the level of the passage-floor and bowed his head into his hands. It was quiet, horribly quiet. The torch, that was already burning low when he arrived, sputtered and went out; and he felt the darkness cover him like a tide. And then softly, to his own surprise, there at the vain end of his long journey and his grief, moved by what thought in his heart he could not tell, Sam began to sing. His voice sounded thin and quavering in the cold dark tower: the voice of a forlorn and weary hobbit that no listening orc could possibly mistake for the clear song of an Elven-lord. He murmured old childish tunes out of the Shire, and snatches of Mr. Bilbo’s rhymes that came into his mind like fleeting glimpses of the country of his home. And then suddenly new strength rose in him, and his voice rang out, while words of his own came unbidden to fit the simple tune. 
-    In western lands beneath the Sun
-    the flowers may rise in Spring, 
-    the trees may bud, the waters run, 
-    the merry finches sing. 
-    Or there maybe ‘tis cloudless night 
-    and swaying beeches bear 
-    the Elven-stars as jewels white 
-    amid their branching hair. 
-    
-    Though here at journey’s end I lie 
-    in darkness buried deep, 
-    beyond all towers strong and high, 
-    beyond all mountains steep, 
-    above all shadows rides the Sun 
-    and Stars for ever dwell: 
-    I will not say the Day is done, 
-    nor bid the Stars farewell.
+At last, weary and feeling finally defeated, he sat on a step below the level of the passage-floor and bowed his head into his hands. It was quiet, horribly quiet. The torch, that was already burning low when he arrived, sputtered and went out; and he felt the darkness cover him like a tide. And then softly, to his own surprise, there at the vain end of his long journey and his grief, moved by what thought in his heart he could not tell, Sam began to sing. His voice sounded thin and quavering in the cold dark tower: the voice of a forlorn and weary hobbit that no listening orc could possibly mistake for the clear song of an Elven-lord. He murmured old childish tunes out of the Shire, and snatches of Mr. Bilbo’s rhymes that came into his mind like fleeting glimpses of the country of his home. And then suddenly new strength rose in him, and his voice rang out, while words of his own came unbidden to fit the simple tune. In western lands beneath the Sun the flowers may rise in Spring, the trees may bud, the waters run, the merry finches sing. Or there maybe ‘tis cloudless night and swaying beeches bear the Elven-stars as jewels white amid their branching hair. Though here at journey’s end I lie in darkness buried deep, beyond all towers strong and high, beyond all mountains steep, above all shadows rides the Sun and Stars for ever dwell: I will not say the Day is done, nor bid the Stars farewell.
 
 
 ‘You lie quiet, or you’ll pay for it! You’ve not got long to live in peace,
@@ -2089,21 +1903,20 @@ How long ago that was I don’t know. More than a day, I guess.’ ‘Only that?
 ‘Well, there’s no more to be said,’ said Sam. ‘We’ve got enough to start on. But the water’s going to be a bad business. But come, Mr. Frodo! Off we go, or a whole lake of it won’t do us any good!’ ‘Not till you’ve had a mouthful, Sam,’ said Frodo. ‘I won’t budge. Here, take this elven-cake, and drink that last drop in your bottle! The whole thing is quite hopeless, so it’s no good worrying about tomorrow. It probably won’t come.’
 
 
-## 15 March 3019 [TOY]
-### [F/S/G]
 Day was coming again in the world outside, and far beyond the glooms of Mordor the Sun was climbing over the eastern rim of Middle-earth; but here all was still dark as night.
 
 **Note:** .dates
+
 **Tags:** dates
+
 
 It was the morning of the fifteenth of March, and over the Vale of Anduin the Sun was rising above the eastern shadow, and the south-west wind was blowing. Théoden lay dying on the Pelennor Fields.
 
 **Note:** .dates
+
 **Tags:** dates
 
 
-## ? 16 March 3019
-### [F/S/G]
 He crawled back into the brambles and laid himself by Frodo’s side, and putting away all fear he cast himself into a deep untroubled sleep. They woke together, hand in hand. Sam was almost fresh, ready for another day; but Frodo sighed.
 
 **Note:** .dates
@@ -2114,22 +1927,16 @@ He crawled back into the brambles and laid himself by Frodo’s side, and puttin
 Still far away, forty miles at least, they saw Mount Doom, its feet founded in ashen ruin, its huge cone rising to a great height, where its reeking head was swathed in cloud. Its fires were now dimmed, and it stood in smouldering slumber, as threatening and dangerous as a sleeping beast. Behind it there hung a vast shadow, ominous as a thunder-cloud, the veils of Barad-dûr that was reared far away upon a long spur of the Ashen Mountains thrust down from the North. The Dark Power was deep in thought, and the Eye turned inward, pondering tidings of doubt and danger: a bright sword, and a stern and kingly face it saw, and for a while it gave little thought to other things; and all its great stronghold, gate on gate, and tower on tower, was wrapped in a brooding gloom.
 
 
-
-## ? 17 March 3019
-### [F/S/G]
 When a grey light crept back over the western heights, long after day had opened in the lands beyond, they went into hiding again and slept a little, turn by turn.
 
 **Note:** .dates
+
 **Tags:** dates
 
 
-At last when Frodo roused himself and spoke of eating and making ready for yet another effort, he asked the question that was troubling him most. 
-‘Begging your pardon, Mr. Frodo,’ he said, ‘but have you any notion how far there is still to go?’ 
-‘No, not any clear notion, Sam,’ Frodo answered. ‘In Rivendell before I set out I was shown a map of Mordor that was made before the Enemy came back here; but I only remember it vaguely.
+At last when Frodo roused himself and spoke of eating and making ready for yet another effort, he asked the question that was troubling him most. ‘Begging your pardon, Mr. Frodo,’ he said, ‘but have you any notion how far there is still to go?’ ‘No, not any clear notion, Sam,’ Frodo answered. ‘In Rivendell before I set out I was shown a map of Mordor that was made before the Enemy came back here; but I only remember it vaguely.
 
 
-## 18 March 3019 [TOY]
-### [F/S/G]
 The hours passed in a weary stumbling trudge with a few brief halts. At the first hint of grey light under the skirts of the canopy of shadow they hid themselves again in a dark hollow under an overhanging stone. Slowly the light grew, until it was clearer than it yet had been.
 
 **Note:** .dates
@@ -2143,8 +1950,6 @@ The hours passed in a weary stumbling trudge with a few brief halts. At the firs
 ‘Come on, Mr. Frodo!’ he whispered. ‘One more crawl, and then you can lie still.’ With a last despairing effort Frodo raised himself on his hands, and struggled on for maybe twenty yards. Then he pitched down into a shallow pit that opened unexpectedly before them, and there he lay like a dead thing.
 
 
-## 19 March 3019 [TOY]
-### [F/S/G]
 They slept a little in uneasy fits; for their sweat grew chill on them, and the hard stones bit them, and they shivered. Out of the north from the Black Gate through Cirith Gorgor there flowed whispering along the ground a thin cold air. In the morning a grey light came again,
 
 **Note:** .dates
@@ -2154,38 +1959,36 @@ They slept a little in uneasy fits; for their sweat grew chill on them, and the 
 
 Sam tried to guess the distances and to decide what way they ought to take. ‘It looks every step of fifty miles,’ he muttered gloomily, staring at the threatening mountain, ‘and that’ll take a week, if it takes a day, with Mr. Frodo as he is.’ He shook his head, and as he worked things out, slowly a new dark thought grew in his mind. Never for long had hope died in his staunch heart, and always until now he had taken some thought for their return. But the bitter truth came home to him at last: at best their provision would take them to their goal; and when the task was done, there they would come to an end, alone, houseless, foodless in the midst of a terrible desert. There could be no return.
 
-#
-So the desperate journey went on, as the Ring went south and the banners of the kings rode north. For the hobbits each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil. They met no enemies by day. At times by night, as they cowered or drowsed uneasily in some hiding beside the road, they heard cries and the noise of many feet or the swift passing of some cruelly ridden steed. But far worse than all such perils was the ever-approaching threat that beat upon them as they went: the dreadful menace of the Power that waited, brooding in deep thought and sleepless malice behind the dark veil about its Throne. Nearer and nearer it drew, looming blacker, like the oncoming of a wall of night at the last end of the world. 
 
+For the hobbits each day, each mile, was more bitter than the one before, as their strength lessened and the land became more evil. They met no enemies by day. At times by night, as they cowered or drowsed uneasily in some hiding beside the road,
 
 **Note:** .dates
 
 **Tags:** dates
 
 
-## ?22 March 3019
-### [F/S/G]
 Four days had passed since they had escaped from the orcs, but the time lay behind them like an ever-darkening dream.
 
 **Note:** .datese
 
 **Tags:** datese
 
-#
+
 Anxiously Sam had noted how his master’s left hand would often be raised as if to ward off a blow, or to screen his shrinking eyes from a dreadful Eye that sought to look in them. And sometimes his right hand would creep to his breast, clutching, and then slowly, as the will recovered mastery, it would be withdrawn.
 
-#
+
 As for himself, though weary and under a shadow of fear, he still had some strength left. The lembas had a virtue without which they would long ago have lain down to die. It did not satisfy desire, and at times Sam’s mind was filled with the memories of food, and the longing for simple bread and meats. And yet this waybread of the Elves had a potency that increased as travellers relied on it alone and did not mingle it with other foods. It fed the will, and it gave strength to endure, and to master sinew and limb beyond the measure of mortal kind.
 
 
 Dream and waking mingled uneasily.
 
 
-## 23 March 3019 [TOY]
-### [F/S/G]
 The hateful night passed slowly and reluctantly. Such daylight as followed was dim;
+
 **Note:** .dates
+
 **Tags:** dates
+
 
 Sam did likewise, and put aside his orc-gear; and he took out all the things in his pack. Somehow each of them had become dear to him, if only because he had borne them so far with so much toil. Hardest of all it was to part with his cooking-gear. Tears welled in his eyes at the thought of casting it away. ‘Do you remember that bit of rabbit, Mr. Frodo?’ he said. ‘And our place under the warm bank in Captain Faramir’s country, the day I saw an oliphaunt?’ ‘No, I am afraid not, Sam,’ said Frodo. ‘At least, I know that such things happened, but I cannot see them. No taste of food, no feel of water, no sound of wind, no memory of tree or grass or flower, no image of moon or star are left to me. I am naked in the dark, Sam, and there is no veil between me and the wheel of fire. I begin to see it even with my waking eyes, and all else fades.’
 
@@ -2193,21 +1996,13 @@ Sam did likewise, and put aside his orc-gear; and he took out all the things in 
 At their last halt he sank down and said: ‘I’m thirsty, Sam,’ and did not speak again. Sam gave him a mouthful of water; only one more mouthful remained. He went without himself; and now as once more the night of Mordor closed over them, through all his thoughts there came the memory of water; and every brook or stream or fount that he had ever seen, under green willow-shades or twinkling in the sun, danced and rippled for his torment behind the blindness of his eyes. He felt the cool mud about his toes as he paddled in the Pool at Bywater with Jolly Cotton and Tom and Nibs, and their sister Rosie. ‘But that was years ago,’ he sighed, ‘and far away. The way back, if there is one, goes past the Mountain.’
 
 
-## ~24 March 3019
-### [F/S/G]
 ‘There you are!’ came the answer. ‘It’s all quite useless. He said so himself. You are the fool, going on hoping and toiling. You could have lain down and gone to sleep together days ago, if you hadn’t been so dogged. But you’ll die just the same, or worse. You might just as well lie down now and give it up. You’ll never get to the top anyway.’
 
 
 With a gasp Frodo cast himself on the ground. Sam sat by him. To his surprise he felt tired but lighter, and his head seemed clear again. No more debates disturbed his mind. He knew all the arguments of despair and would not listen to them. His will was set, and only death would break it. He felt no longer either desire or need of sleep, but rather of watchfulness. He knew that all the hazards and perils were now drawing together to a point: the next day would be a day of doom, the day of final effort or disaster, the last gasp.
 
-## 25 March 3019 [TOY]
-### [F/S/G]
-## 
-First he must ease his aching back. He lay flat beside Frodo for a while. Neither spoke. Slowly the light grew. Suddenly a sense of urgency which he did not understand came to Sam. It was almost as if he had been called: ‘Now, now, or it will be too late!’ He braced himself and got up. Frodo also seemed to have felt the call. He struggled to his knees. 
-‘I’ll crawl, Sam,’ he gasped. 
-So foot by foot, like small grey insects, they crept up the slope. They came to the path and found that it was broad, paved with broken rubble and beaten ash. Frodo clambered on to it, and then moved as if by some compulsion he turned slowly to face the East. Far off the shadows of Sauron hung; but torn by some gust of wind out of the world, or else moved by some great disquiet within, the mantling clouds swirled, and for a moment drew aside; and then he saw, rising black, blacker and darker than the vast shades amid which it stood, the cruel pinnacles and iron crown of the topmost tower of Barad-dûr. One moment only it stared out, but as from some great window immeasurably high there stabbed northward a flame of red, the flicker of a piercing Eye; and then the shadows were furled again and the terrible vision was removed. The Eye was not turned to them: it was gazing north to where the Captains of the West stood at bay, and thither all its malice was now bent, as the Power moved to strike its deadly blow; but Frodo at that dreadful glimpse fell as one stricken mortally. His hand sought the chain about his neck. 
-Sam knelt by him. Faint, almost inaudibly, he heard Frodo whispering: ‘Help me, Sam! Help me, Sam! Hold my hand! I can’t stop it.’ Sam took his master’s hands and laid them together, palm to palm, and kissed them; and then he held them gently between his own. The thought came suddenly to him: ‘He’s spotted us! It’s all up, or it soon will be. Now, Sam Gamgee, this is the end of ends.’
 
+First he must ease his aching back. He lay flat beside Frodo for a while. Neither spoke. Slowly the light grew. Suddenly a sense of urgency which he did not understand came to Sam. It was almost as if he had been called: ‘Now, now, or it will be too late!’ He braced himself and got up. Frodo also seemed to have felt the call. He struggled to his knees. ‘I’ll crawl, Sam,’ he gasped. So foot by foot, like small grey insects, they crept up the slope.
 
 
 A sudden weight smote him and he crashed forward, tearing the backs of his hands that still clasped his master’s. Then he knew what had happened, for above him as he lay he heard a hated voice. ‘Wicked masster!’ it hissed. ‘Wicked masster cheats us; cheats Sméagol, gollum. He musstn’t go that way. He musstn’t hurt Preciouss. Give it to Sméagol, yess, give it to us! Give it to uss!’
@@ -2215,10 +2010,10 @@ A sudden weight smote him and he crashed forward, tearing the backs of his hands
 
 ‘Now!’ said Sam. ‘At last I can deal with you!’ He leaped forward with drawn blade ready for battle. But Gollum did not spring. He fell flat upon the ground and whimpered. ‘Don’t kill us,’ he wept. ‘Don’t hurt us with nassty cruel steel! Let us live, yes, live just a little longer. Lost lost! We’re lost. And when Precious goes we’ll die, yes, die into the dust.’ He clawed up the ashes of the path with his long fleshless fingers. ‘Dusst!’ he hissed.
 
-## 
+
 ‘I have come,’ he said. ‘But I do not choose now to do what I came to do. I will not do this deed. The Ring is mine!’ And suddenly, as he set it on his finger, he vanished from Sam’s sight. Sam gasped, but he had no chance to cry out, for at that moment many things happened. Something struck Sam violently in the back, his legs were knocked from under him and he was flung aside, striking his head against the stony floor, as a dark shape sprang over him. He lay still and for a moment all went black.
 
-##
+
 And far away, as Frodo put on the Ring and claimed it for his own, even in Sammath Naur the very heart of his realm, the Power in Barad-dûr was shaken, and the Tower trembled from its foundations to its proud and bitter crown. The Dark Lord was suddenly aware of him, and his Eye piercing all shadows looked across the plain to the door that he had made; and the magnitude of his own folly was revealed to him in a blinding flash, and all the devices of his enemies were at last laid bare. Then his wrath blazed in consuming flame, but his fear rose like a vast black smoke to choke him. For he knew his deadly peril and the thread upon which his doom now hung.
 
 
@@ -2228,12 +2023,6 @@ And far away, as Frodo put on the Ring and claimed it for his own, even in Samma
 They stood now; and Sam still holding his master’s hand caressed it. He sighed. ‘What a tale we have been in, Mr. Frodo, haven’t we?’ he said. ‘I wish I could hear it told! Do you think they’ll say: Now comes the story of Nine-fingered Frodo and the Ring of Doom? And then everyone will hush, like we did, when in Rivendell they told us the tale of Beren One-hand and the Great Jewel. I wish I could hear it! And I wonder how it will go on after our part.’
 
 
-
-
-
-###
-## 8 April 3019 [TOY]
-### [A/G/L/F/S/M/P/Gand]
 When Sam awoke, he found that he was lying on some soft bed, but over him gently swayed wide beechen boughs,
 
 **Note:** .dates
@@ -2241,18 +2030,15 @@ When Sam awoke, he found that he was lying on some soft bed, but over him gently
 **Tags:** dates
 
 
-At last he gasped: ‘Gandalf! I thought you were dead! But then I thought I was dead myself. Is everything sad going to come untrue? What’s happened to the world?’ 
-‘A great Shadow has departed,’ said Gandalf, and then he laughed, and the sound was like music, or like water in a parched land; and as he listened the thought came to Sam that he had not heard laughter, the pure sound of merriment, for days upon days without count. 
-It fell upon his ears like the echo of all the joys he had ever known. But he himself burst into tears. Then, as a sweet rain will pass down a wind of spring and the sun will shine out the clearer, his tears ceased, and his laughter welled up, and laughing he sprang from his bed.
-. . .
+At last he gasped: ‘Gandalf! I thought you were dead! But then I thought I was dead myself. Is everything sad going to come untrue? What’s happened to the world?’ ‘A great Shadow has departed,’ said Gandalf, and then he laughed, and the sound was like music, or like water in a parched land; and as he listened the thought came to Sam that he had not heard laughter, the pure sound of merriment, for days upon days without count. It fell upon his ears like the echo of all the joys he had ever known. But he himself burst into tears. Then, as a sweet rain will pass down a wind of spring and the sun will shine out the clearer, his tears ceased, and his laughter welled up, and laughing he sprang from his bed.
+
+
 And all the host laughed and wept, and in the midst of their merriment and tears the clear voice of the minstrel rose like silver and gold, and all men were hushed. And he sang to them, now in the elven-tongue, now in the speech of the West, until their hearts, wounded with sweet words, overflowed, and their joy was like swords, and they passed in thought out to regions where pain and delight flow together and tears are the very wine of blessedness.
 
 
-[The Hobbits and Gimli to sleep...]
 ‘And I,’ said Legolas, ‘shall walk in the woods of this fair land, which is rest enough. In days to come, if my Elven-lord allows, some of our folk shall remove hither; and when we come it shall be blessed, for a while. For a while: a month, a life, a hundred years of Men. But Anduin is near, and Anduin leads down to the Sea. To the Sea! To the Sea, to the Sea! The white gulls are crying, The wind is blowing, and the white foam is flying. West, west away, the round sun is falling. Grey ship, grey ship, do you hear them calling, The voices of my people that have gone before me? I will leave, I will leave the woods that bore me; For our days are ending and our years failing. I will pass the wide waters lonely sailing. Long are the waves on the Last Shore falling, Sweet are the voices in the Lost Isle calling, In Eressëa, in Elvenhome that no man can discover, Where the leaves fall not: land of my people for ever!’ And so singing Legolas went away down the hill.
 
 
-## ~2 April 3019 [TOY]
 Then the others also departed, and Frodo and Sam went to their beds and slept. And in the morning they rose again in hope and peace; and they spent many days in Ithilien.
 
 **Note:** .dates
@@ -2260,7 +2046,6 @@ Then the others also departed, and Frodo and Sam went to their beds and slept. A
 **Tags:** dates
 
 
-## ~ April 3019 [TOY]
 The hobbits wandered here and there visiting again the places that they had passed before; and Sam hoped always in some shadow of the woods or secret glade to catch, maybe, a glimpse of the great Oliphaunt.
 
 **Note:** .dates
@@ -2268,7 +2053,6 @@ The hobbits wandered here and there visiting again the places that they had pass
 **Tags:** dates
 
 
-## ~25 April 3019 [TOY]
 But at the last when the month of May was drawing near the Captains of the West set out again; and they went aboard ship with all their men, and they sailed from Cair Andros down Anduin to Osgiliath; and there they remained for one day; and the day after they came to the green fields of the Pelennor and saw again the white towers under tall Mindolluin, the City of the Men of Gondor, last memory of Westernesse, that had passed through the darkness and fire to a new day.
 
 **Note:** .dates
@@ -2276,22 +2060,14 @@ But at the last when the month of May was drawing near the Captains of the West 
 **Tags:** dates
 
 
-## Book IV - Chapter 5 THE STEWARD AND THE KING 
+Chapter 5 THE STEWARD AND THE KING Over the city of Gondor doubt and great dread had hung. Fair weather and clear sun had seemed but a mockery to men whose days held little hope, and who looked each morning for news of doom. Their lord was dead and burned, dead lay the King of Rohan in their citadel, and the new king that had come to them in the night was gone again to a war with powers too dark and terrible for any might or valour to conquer. And no news came. After the host left Morgul Vale and took the northward road beneath the shadow of the mountains no messenger had returned nor any rumour of what was passing in the brooding East.
 
 
-## ~18 March 3019
-### [Faramir/Eowyn]
-Over the city of Gondor doubt and great dread had hung. Fair weather and clear sun had seemed but a mockery to men whose days held little hope, and who looked each morning for news of doom. Their lord was dead and burned, dead lay the King of Rohan in their citadel, and the new king that had come to them in the night was gone again to a war with powers too dark and terrible for any might or valour to conquer. And no news came. After the host left Morgul Vale and took the northward road beneath the shadow of the mountains no messenger had returned nor any rumour of what was passing in the brooding East.
-
-
-## 20 March 3019 [TOY]
-### [Faramir/Eowyn]
 When the Captains were but two days gone, the Lady Éowyn bade the women who tended her to bring her raiment,
 
 **Note:** .dates
 
 **Tags:** dates
-
 
 
 ‘It needs but one foe to breed a war, not two, Master Warden,’ answered Éowyn. ‘And those who have not swords can still die upon them. Would you have the folk of Gondor gather you herbs only, when the Dark Lord gathers armies? And it is not always good to be healed in body. Nor is it always evil to die in battle, even in bitter pain. Were I permitted, in this dark hour I would choose the latter.’
@@ -2309,8 +2085,6 @@ You and I, we must endure with patience the hours of waiting.’
 She did not answer, but as he looked at her it seemed to him that something in her softened, as though a bitter frost were yielding at the first faint presage of spring. A tear sprang in her eye and fell down her cheek, like a glistening rain-drop. Her proud head drooped a little. Then quietly, more as if speaking to herself than to him: ‘But the healers would have me lie abed seven days yet,’ she said. ‘And my window does not look eastward.’ Her voice was now that of a maiden young and sad. Faramir smiled, though his heart was filled with pity. ‘Your window does not look eastward?’ he said. ‘That can be amended. In this I will command the Warden. If you will stay in this house in our care, lady, and take your rest, then you shall walk in this garden in the sun, as you will; and you shall look east, whither all our hopes have gone. And here you will find me, walking and waiting, and also looking east. It would ease my care, if you would speak to me, or walk at whiles with me.’ Then she raised her head and looked him in the eyes again; and a colour came in her pale face. ‘How should I ease your care, my lord?’ she said. ‘And I do not desire the speech of living men.’ ‘Would you have my plain answer?’ he said. ‘I would.’ ‘Then, Éowyn of Rohan, I say to you that you are beautiful. In the valleys of our hills there are flowers fair and bright, and maidens fairer still; but neither flower nor lady have I seen till now in Gondor so lovely, and so sorrowful. It may be that only a few days are left ere darkness falls upon our world, and when it comes I hope to face it steadily; but it would ease my heart, if while the Sun yet shines, I could see you still. For you and I have both passed under the wings of the Shadow, and the same hand drew us back.’
 
 
-## ~23 March 3019 [TOY]
-### [Faramir/Eowyn]
 But in the morning, as Faramir came from the Houses,
 
 **Note:** .dates
@@ -2318,13 +2092,13 @@ But in the morning, as Faramir came from the Houses,
 **Tags:** dates
 
 
-## ~24 March 3019 [TOY]
-### [Faramir/Eowyn]
 And each day after they did likewise.
 
+**Note:** .dates
 
-## ~25 March 3019 [TOY]
-### [Faramir/Eowyn]
+**Tags:** dates
+
+
 And so the fifth day came since the Lady Éowyn went first to Faramir; and they stood now together once more upon the walls of the City and looked out. No tidings had yet come, and all hearts were darkened. The weather, too, was bright no longer. It was cold. A wind that had sprung up in the night was blowing now keenly from the North, and it was rising; but the lands about looked grey and drear.
 
 **Note:** .dates
@@ -2332,35 +2106,23 @@ And so the fifth day came since the Lady Éowyn went first to Faramir; and they 
 **Tags:** dates
 
 
-
-## ~ April 3019 [TOY]
-### [Faramir/Eowyn]
 The days that followed were golden, and Spring and Summer joined and made revel together in the fields of Gondor.
+
 **Note:** .dates
+
 **Tags:** dates
 
 
-Then Faramir came and sought her, and once more they stood on the walls together; and he said to her: ‘Éowyn, why do you tarry here, and do not go to the rejoicing in Cormallen beyond Cair Andros, where your brother awaits you?’ 
-And she said: ‘Do you not know?’ 
-But he answered: ‘Two reasons there may be, but which is true, I do not know.’ 
-And she said: ‘I do not wish to play at riddles. Speak plainer!’ 
-‘Then if you will have it so, lady,’ he said: ‘you do not go, because only your brother called for you, and to look on the Lord Aragorn, Elendil’s heir, in his triumph would now bring you no joy. Or because I do not go, and you desire still to be near me. And maybe for both these reasons, and you yourself cannot choose between them. Éowyn, do you not love me, or will you not?’ 
-‘I wished to be loved by another,’ she answered. ‘But I desire no man’s pity.’ 
-‘That I know,’ he said. ‘You desired to have the love of the Lord Aragorn. Because he was high and puissant, and you wished to have renown and glory and to be lifted far above the mean things that crawl on the earth. And as a great captain may to a young soldier he seemed to you admirable. For so he is, a lord among men, the greatest that now is. But when he gave you only understanding and pity, then you desired to have nothing, unless a brave death in battle. Look at me, Éowyn!’ 
-And Éowyn looked at Faramir long and steadily; and Faramir said: ‘Do not scorn pity that is the gift of a gentle heart, Éowyn! But I do not offer you my pity. For you are a lady high and valiant and have yourself won renown that shall not be forgotten; and you are a lady beautiful, I deem, beyond even the words of the elven-tongue to tell. And I love you. Once I pitied your sorrow. But now, were you sorrowless, without fear or any lack, were you the blissful Queen of Gondor, still I would love you. Éowyn, do you not love me?’ 
-Then the heart of Éowyn changed, or else at last she understood it. And suddenly her winter passed, and the sun shone on her. 
-‘I stand in Minas Anor, the Tower of the Sun,’ she said; ‘and behold! the Shadow has departed! I will be a shieldmaiden no longer, nor vie with the great Riders, nor take joy only in the songs of slaying. I will be a healer, and love all things that grow and are not barren.’ And again she looked at Faramir. ‘No longer do I desire to be a queen,’ she said. 
-Then Faramir laughed merrily. ‘That is well,’ he said; ‘for I am not a king. Yet I will wed with the White Lady of Rohan, if it be her will. And if she will, then let us cross the River and in happier days let us dwell in fair Ithilien and there make a garden. All things will grow with joy there, if the White Lady comes.’
-
+And Éowyn looked at Faramir long and steadily; and Faramir said: ‘Do not scorn pity that is the gift of a gentle heart, Éowyn! But I do not offer you my pity. For you are a lady high and valiant and have yourself won renown that shall not be forgotten; and you are a lady beautiful, I deem, beyond even the words of the elven-tongue to tell. And I love you. Once I pitied your sorrow. But now, were you sorrowless, without fear or any lack, were you the blissful Queen of Gondor, still I would love you. Éowyn, do you not love me?’
 
 
 All things were now made ready in the City; and there was great concourse of people,
+
 **Note:** .dates
+
 **Tags:** dates
 
 
-## 1 May 3019 [TOY]
-### [All]
 Faramir met Aragorn in the midst of those there assembled, and he knelt, and said: ‘The last Steward of Gondor begs leave to surrender his office.’ And he held out a white rod; but Aragorn took the rod and gave it back, saying: ‘That office is not ended, and it shall be thine and thy heirs’ as long as my line shall last. Do now thy office!’ Then Faramir stood up and spoke in a clear voice: ‘Men of Gondor, hear now the Steward of this Realm! Behold! one has come to claim the kingship again at last. Here is Aragorn son of Arathorn, chieftain of the Dúnedain of Arnor, Captain of the Host of the West, bearer of the Star of the North, wielder of the Sword Reforged, victorious in battle, whose hands bring healing, the Elfstone, Elessar of the line of Valandil, Isildur’s son, Elendil’s son of Númenor. Shall he be king and enter into the City and dwell there?’ And all the host and all the people cried yea with one voice.
 
 
@@ -2374,8 +2136,6 @@ In the days that followed his crowning
 **Tags:** dates
 
 
-## 8 May 3019 [TOY]
-### [All]
 So the glad days passed; and on the eighth day of May the Riders of Rohan made ready, and rode off by the North-way, and with them went the sons of Elrond.
 
 **Note:** .dates
@@ -2396,49 +2156,33 @@ There came a day when Gandalf could not be found, and the Companions wondered wh
 **Tags:** dates
 
 
-
-## 25 June 3019 [Aragorn & Gandalf]
-### [All]
 Then Aragorn laid his hand gently to the sapling, and lo! it seemed to hold only lightly to the earth, and it was removed without hurt; and Aragorn bore it back to the Citadel. Then the withered tree was uprooted, but with reverence; and they did not burn it, but laid it to rest in the silence of Rath Dínen. And Aragorn planted the new tree in the court by the fountain, and swiftly and gladly it began to grow; and when the month of June entered in it was laden with blossom. ‘The sign has been given,’ said Aragorn, ‘and the day is not far off.’ And he set watchmen upon the walls.
 
-## 30 June 3019 [TOY]
-### [All]
+
 It was the day before Midsummer when messengers came from Amon Dín to the City, and they said that there was a riding of fair folk out of the North, and they drew near now to the walls of the Pelennor. And the King said: ‘At last they have come. Let all the City be made ready!’
 
 **Note:** .dates
 
 **Tags:** dates
 
-## 1 Lithe 3019 [TOY]
-### [All]
+
 Upon the very Eve of Midsummer, when the sky was blue as sapphire and white stars opened in the East, but the West was still golden, and the air was cool and fragrant, the riders came down the North-way to the gates of Minas Tirith.
 
 **Note:** .dates
 
 **Tags:** dates
 
-## Mid-Year's Day 3019 [TOY]
-### [All]
-and last came Master Elrond, mighty among Elves and Men, bearing the sceptre of Annúminas, and beside him upon a grey palfrey rode Arwen his daughter, Evenstar of her people. 
-And Frodo when he saw her come glimmering in the evening, with stars on her brow and a sweet fragrance about her, was moved with great wonder, and he said to Gandalf: ‘At last I understand why we have waited! This is the ending. Now not day only shall be beloved, but night too shall be beautiful and blessed and all its fear pass away!’ 
-Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. 
-And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
 
-## ~5 July 3019
-### [All]
+and last came Master Elrond, mighty among Elves and Men, bearing the sceptre of Annúminas, and beside him upon a grey palfrey rode Arwen his daughter, Evenstar of her people. And Frodo when he saw her come glimmering in the evening, with stars on her brow and a sweet fragrance about her, was moved with great wonder, and he said to Gandalf: ‘At last I understand why we have waited! This is the ending. Now not day only shall be beloved, but night too shall be beautiful and blessed and all its fear pass away!’ Then the King welcomed his guests, and they alighted; and Elrond surrendered the sceptre, and laid the hand of his daughter in the hand of the King, and together they went up into the High City, and all the stars flowered in the sky. And Aragorn the King Elessar wedded Arwen Undómiel in the City of the Kings upon the day of Midsummer, and the tale of their long waiting and labours was come to fulfilment.
+
+
 Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Companions thought of returning to their own homes.
 
 **Note:** .dates
 
 **Tags:** dates
 
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
-<!-- WORKING HERE -->
 
-##  15 July 3019 [TOY]
-### [All]
 ‘Then I beg leave to depart soon,’ said Frodo. ‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
 
 **Note:** .dates
@@ -2447,35 +2191,27 @@ Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Compani
 
 
 In three days, as the King had said,
+
 **Note:** .dates
+
 **Tags:** dates
-[ "•	18. Éomer returns to Minas Tirith. " ]
-##  18 July 3019 [TOY]
-### [All]
-
-Éomer of Rohan came riding to the City, and with him came an éored of the fairest knights of the Mark. He was welcomed; and when they sat all at table in Merethrond, the Great Hall of Feasts, he beheld the beauty of the ladies that he saw and was filled with great wonder. And before he went to his rest he sent for Gimli the Dwarf, and he said to him: ‘Gimli Glóin’s son, have you your axe ready?’ 
-
-‘Nay, lord,’ said Gimli, ‘but I can speedily fetch it, if there be need.’ 
-‘You shall judge,’ said Éomer. ‘For there are certain rash words concerning the Lady in the Golden Wood that lie still between us. And now I have seen her with my eyes.’ 
-‘Well, lord,’ said Gimli, ‘and what say you now?’ 
-‘Alas!’ said Éomer. ‘I will not say that she is the fairest lady that lives.’ 
-‘Then I must go for my axe,’ said Gimli. 
-‘But first I will plead this excuse,’ said Éomer. ‘Had I seen her in other company, I would have said all that you could wish. But now I will put Queen Arwen Evenstar first, and I am ready to do battle on my own part with any who deny me. Shall I call for my sword?’ 
-Then Gimli bowed low. ‘Nay, you are excused for my part, lord,’ he said. ‘You have chosen the Evening; but my love is given to the Morning. And my heart forebodes that soon it will pass away for ever.’
 
 
+Éomer of Rohan came riding to the City, and with him came an éored of the fairest knights of the Mark. He was welcomed; and when they sat all at table in Merethrond, the Great Hall of Feasts, he beheld the beauty of the ladies that he saw and was filled with great wonder. And before he went to his rest he sent for Gimli the Dwarf, and he said to him: ‘Gimli Glóin’s son, have you your axe ready?’ ‘Nay, lord,’ said Gimli, ‘but I can speedily fetch it, if there be need.’ ‘You shall judge,’ said Éomer. ‘For there are certain rash words concerning the Lady in the Golden Wood that lie still between us. And now I have seen her with my eyes.’ ‘Well, lord,’ said Gimli, ‘and what say you now?’ ‘Alas!’ said Éomer. ‘I will not say that she is the fairest lady that lives.’ ‘Then I must go for my axe,’ said Gimli. ‘But first I will plead this excuse,’ said Éomer. ‘Had I seen her in other company, I would have said all that you could wish. But now I will put Queen Arwen Evenstar first, and I am ready to do battle on my own part with any who deny me. Shall I call for my sword?’ Then Gimli bowed low. ‘Nay, you are excused for my part, lord,’ he said. ‘You have chosen the Evening; but my love is given to the Morning. And my heart forebodes that soon it will pass away for ever.’
+
+**Note:** .post
+
+**Tags:** post
 
 
-[ "•	22. The funeral escort of King Théoden sets out. " ]
 At last the day of departure came, and a great and fair company made ready to ride north from the City.
+
 **Note:** .dates
+
 **Tags:** dates
 
-##  22 July 3019 [TOY]
-### [All]
-For the other Companions steeds were furnished according to their stature; and Frodo and Samwise rode at Aragorn’s side, and Gandalf rode upon Shadowfax, and Pippin rode with the knights of Gondor; and Legolas and Gimli as ever rode together upon Arod. 
 
-In that riding went also Queen Arwen, and Celeborn and Galadriel with their folk, and Elrond and his sons; and the princes of Dol Amroth and of Ithilien, and many captains and knights. Never had any king of the Mark such company upon the road as went with Théoden Thengel’s son to the land of his home.
+For the other Companions steeds were furnished according to their stature; and Frodo and Samwise rode at Aragorn’s side, and Gandalf rode upon Shadowfax, and Pippin rode with the knights of Gondor; and Legolas and Gimli as ever rode together upon Arod. In that riding went also Queen Arwen, and Celeborn and Galadriel with their folk, and Elrond and his sons; and the princes of Dol Amroth and of Ithilien, and many captains and knights. Never had any king of the Mark such company upon the road as went with Théoden Thengel’s son to the land of his home.
 
 
 Without haste and at peace they passed into Anórien, and they came to the Grey Wood under Amon Dîn; and there they heard a sound as of drums beating in the hills, though no living thing could be seen. Then Aragorn let the trumpets be blown; and heralds cried: ‘Behold, the King Elessar is come! The Forest of Drúadan he gives to Ghân-buri-Ghân and to his folk, to be their own for ever; and hereafter let no man enter it without their leave!’ Then the drums rolled loudly, and were silent.
@@ -2485,25 +2221,18 @@ Without haste and at peace they passed into Anórien, and they came to the Grey 
 **Tags:** post
 
 
-"•	7. The escort comes to Edoras. "
-##  7 August 3019 [TOY]
-### [All]
 At length after fifteen days of journey the wain of King Théoden passed through the green fields of Rohan and came to Edoras; and there they all rested.
 
 **Note:** .dates
+
 **Tags:** dates
 
-
-"•	10. Funeral of King Théoden. "
-##  10 August 3019 [TOY]
-### [All]
 
 For after three days the Men of the Mark prepared the funeral of Théoden;
 
 **Note:** .dates
 
 **Tags:** dates
-
 
 
 Then the Riders of the King’s House upon white horses rode round about the barrow and sang together a song of Théoden Thengel’s son that Gléowine his minstrel made, and he made no other song after. The slow voices of the Riders stirred the hearts even of those who did not know the speech of that people; but the words of the song brought a light to the eyes of the folk of the Mark as they heard again afar the thunder of the hooves of the North and the voice of Eorl crying above the battle upon the Field of Celebrant; and the tale of the kings rolled on, and the horn of Helm was loud in the mountains, until the Darkness came and King Théoden arose and rode through the Shadow to the fire, and died in splendour, even as the Sun, returning beyond hope, gleamed upon Mindolluin in the morning.
@@ -2513,9 +2242,7 @@ Then the Riders of the King’s House upon white horses rode round about the bar
 **Tags:** prose, post
 
 
-Hear then all my guests, fair folk of many realms, such as have never before been gathered in this hall! Faramir, Steward of Gondor, and Prince of Ithilien, asks that Éowyn Lady of Rohan should be his wife, and she grants it full willing. Therefore they shall be trothplighted before you all.’ 
-
-And Faramir and Éowyn stood forth and set hand in hand; and all there drank to them and were glad. ‘Thus,’ said Éomer, ‘is the friendship of the Mark and of Gondor bound with a new bond, and the more do I rejoice.’
+Hear then all my guests, fair folk of many realms, such as have never before been gathered in this hall! Faramir, Steward of Gondor, and Prince of Ithilien, asks that Éowyn Lady of Rohan should be his wife, and she grants it full willing. Therefore they shall be trothplighted before you all.’ And Faramir and Éowyn stood forth and set hand in hand; and all there drank to them and were glad. ‘Thus,’ said Éomer, ‘is the friendship of the Mark and of Gondor bound with a new bond, and the more do I rejoice.’
 
 **Note:** .post
 
@@ -2525,13 +2252,9 @@ And Faramir and Éowyn stood forth and set hand in hand; and all there drank to 
 and Arwen Evenstar remained also, and she said farewell to her brethren. None saw her last meeting with Elrond her father, for they went up into the hills and there spoke long together, and bitter was their parting that should endure beyond the ends of the world.
 
 **Note:** .ookup
+
 **Tags:** ookup
 
-"•	14. The guests take leave of King Éomer. "
-"•	15. Treebeard releases Saruman. "
-"•	18. They come to Helm’s Deep. "
-##  18 August 3019 [TOY]
-### [All]
 
 Now the guests were ready, and they drank the stirrup-cup, and with great praise and friendship they departed, and came at length to Helm’s Deep, and there they rested two days.
 

@@ -2437,7 +2437,7 @@ Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Compani
 **Tags:** dates
 
 
-## ?? 15 ??  July 3019 [TOY]
+##  15 ??  July 3019 [TOY]
 ### [All]
 ‘Then I beg leave to depart soon,’ said Frodo. ‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
 

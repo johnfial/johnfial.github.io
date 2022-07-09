@@ -2439,10 +2439,12 @@ Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Compani
 
 ##  15 July 3019 [TOY]
 ### [All]
-‘Then I beg leave to depart soon,’ said Frodo. ‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
+'I know what you have come to say, Frodo: you wish to return to your own home. Well, dearest friend, the tree grows best in the land of its sires; but for you in all the lands of the West there will ever be a welcome. 
+. . .
+‘Then I beg leave to depart soon,’ said Frodo. 
+‘In seven days we will go,’ said Aragorn. ‘For we shall ride with you far on the road, even as far as the country of Rohan. In three days now Éomer will return hither to bear Théoden back to rest in the Mark, and we shall ride with him to honour the fallen.
 
 **Note:** .dates
-
 **Tags:** dates
 
 
@@ -2477,8 +2479,9 @@ For the other Companions steeds were furnished according to their stature; and F
 
 In that riding went also Queen Arwen, and Celeborn and Galadriel with their folk, and Elrond and his sons; and the princes of Dol Amroth and of Ithilien, and many captains and knights. Never had any king of the Mark such company upon the road as went with Théoden Thengel’s son to the land of his home.
 
-
-Without haste and at peace they passed into Anórien, and they came to the Grey Wood under Amon Dîn; and there they heard a sound as of drums beating in the hills, though no living thing could be seen. Then Aragorn let the trumpets be blown; and heralds cried: ‘Behold, the King Elessar is come! The Forest of Drúadan he gives to Ghân-buri-Ghân and to his folk, to be their own for ever; and hereafter let no man enter it without their leave!’ Then the drums rolled loudly, and were silent.
+Without haste and at peace they passed into Anórien, and they came to the Grey Wood under Amon Dîn; and there they heard a sound as of drums beating in the hills, though no living thing could be seen. Then Aragorn let the trumpets be blown; and heralds cried: 
+    ‘Behold, the King Elessar is come! The Forest of Drúadan he gives to Ghân-buri-Ghân and to his folk, to be their own for ever; and hereafter let no man enter it without their leave!’ 
+Then the drums rolled loudly, and were silent.
 
 **Note:** .post
 
@@ -2501,27 +2504,28 @@ At length after fifteen days of journey the wain of King Théoden passed through
 For after three days the Men of the Mark prepared the funeral of Théoden;
 
 **Note:** .dates
-
 **Tags:** dates
 
-
-
+##  10 August 3019 [TOY]
+### [All]
 Then the Riders of the King’s House upon white horses rode round about the barrow and sang together a song of Théoden Thengel’s son that Gléowine his minstrel made, and he made no other song after. The slow voices of the Riders stirred the hearts even of those who did not know the speech of that people; but the words of the song brought a light to the eyes of the folk of the Mark as they heard again afar the thunder of the hooves of the North and the voice of Eorl crying above the battle upon the Field of Celebrant; and the tale of the kings rolled on, and the horn of Helm was loud in the mountains, until the Darkness came and King Théoden arose and rode through the Shadow to the fire, and died in splendour, even as the Sun, returning beyond hope, gleamed upon Mindolluin in the morning.
 
 **Note:** .post .prose
-
 **Tags:** prose, post
 
 
+##  10 August 3019 [TOY]
+### [All]
 Hear then all my guests, fair folk of many realms, such as have never before been gathered in this hall! Faramir, Steward of Gondor, and Prince of Ithilien, asks that Éowyn Lady of Rohan should be his wife, and she grants it full willing. Therefore they shall be trothplighted before you all.’ 
 
 And Faramir and Éowyn stood forth and set hand in hand; and all there drank to them and were glad. ‘Thus,’ said Éomer, ‘is the friendship of the Mark and of Gondor bound with a new bond, and the more do I rejoice.’
 
 **Note:** .post
-
 **Tags:** post
 
 
+##  10 August 3019 [TOY]
+### [All]
 and Arwen Evenstar remained also, and she said farewell to her brethren. None saw her last meeting with Elrond her father, for they went up into the hills and there spoke long together, and bitter was their parting that should endure beyond the ends of the world.
 
 **Note:** .ookup

@@ -2432,10 +2432,6 @@ Chapter 6 MANY PARTINGS When the days of rejoicing were over at last the Compani
 
 **Tags:** dates
 
-<!-- WORKING HERE FRODO SAM GOLLUM -->
-<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
-<!-- WORKING HERE GANDALF PIPPIN -->
-<!-- WORKING HERE -->
 
 ##  15 July 3019 [TOY]
 ### [All]
@@ -2531,9 +2527,14 @@ and Arwen Evenstar remained also, and she said farewell to her brethren. None sa
 **Note:** .ookup
 **Tags:** ookup
 
+<!-- WORKING HERE FRODO SAM GOLLUM -->
+<!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
+<!-- WORKING HERE GANDALF PIPPIN -->
+<!-- WORKING HERE -->
 "•	14. The guests take leave of King Éomer. "
 "•	15. Treebeard releases Saruman. "
 "•	18. They come to Helm’s Deep. "
+
 ##  18 August 3019 [TOY]
 ### [All]
 

@@ -2263,3 +2263,72 @@ Now the guests were ready, and they drank the stirrup-cup, and with great praise
 **Tags:** dates
 
 
+‘Hoom, no, not into Orthanc!’ said Treebeard. ‘But he came to his window and listened, because he could not get news in any other way, and though he hated the news, he was greedy to have it; and I saw that he heard it all. But I added a great many things to the news that it was good for him to think of. He grew very weary. He always was hasty. That was his ruin.’ ‘I observe, my good Fangorn,’ said Gandalf, ‘that with great care you say dwelt, was, grew. What about is? Is he dead?’
+
+**Note:** .post
+
+**Tags:** post
+
+
+‘No, not dead, so far as I know,’ said Treebeard. ‘But he is gone. Yes, he is gone seven days. I let him go.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+You should know that above all I hate the caging of live things, and I will not keep even such creatures as these caged beyond great need. A snake without fangs may crawl where he will.’ ‘You may be right,’ said Gandalf; ‘but this snake had still one tooth left, I think. He had the poison of his voice, and I guess that he persuaded you, even you Treebeard, knowing the soft spot in your heart. Well, he is gone, and there is no more to be said. But the Tower of Orthanc now goes back to the King, to whom it belongs. Though maybe he will not need it.’
+
+**Note:** .post
+
+**Tags:** post
+
+
+But all save Legolas said that they must now take their leave and depart either south or west. ‘Come, Gimli!’ said Legolas. ‘Now by Fangorn’s leave I will visit the deep places of the Entwood and see such trees as are nowhere else to be found in Middle-earth. You shall come with me and keep your word; and thus we will journey on together to our own lands in Mirkwood and beyond.’ To this Gimli agreed, though with no great delight, it seemed.
+
+
+‘Here then at last comes the ending of the Fellowship of the Ring,’ said Aragorn. ‘Yet I hope that ere long you will return to my land with the help that you promised.’
+
+
+Then Treebeard said farewell to each of them in turn, and he bowed three times slowly and with great reverence to Celeborn and Galadriel. ‘It is long, long since we met by stock or by stone, A vanimar, vanimálion nostari!’ he said. ‘It is sad that we should meet only thus at the ending. For the world is changing: I feel it in the water, I feel it in the earth, and I smell it in the air. I do not think we shall meet again.’
+
+
+Then Aragorn took leave of Celeborn and Galadriel; and the Lady said to him: ‘Elfstone, through darkness you have come to your hope, and have now all your desire. Use well the days!’
+
+
+With that they parted, and it was then the time of sunset; and when after a while they turned and looked back, they saw the King of the West sitting upon his horse with his knights about him; and the falling Sun shone upon them and made all their harness to gleam like red gold, and the white mantle of Aragorn was turned to a flame. Then Aragorn took the green stone and held it up, and there came a green fire from his hand.
+
+
+On the sixth day since their parting from the King they journeyed through a wood climbing down from the hills at the feet of the Misty Mountains that now marched on their right hand. As they came out again into the open country at sundown they overtook an old man leaning on a staff, and he was clothed in rags of grey or dirty white, and at his heels went another beggar, slouching and whining.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+You would not give a pipeful to a beggar, would you?’ ‘I would, if I had any,’ said Frodo. ‘You can have what I have got left,’ said Merry, ‘if you will wait a moment.’ He got down and searched in the bag at his saddle. Then he handed to Saruman a leather pouch. ‘Take what there is,’ he said. ‘You are welcome to it; it came from the flotsam of Isengard.’ ‘Mine, mine, yes and dearly bought!’ cried Saruman, clutching at the pouch. ‘This is only a repayment in token; for you took more, I’ll be bound. Still, a beggar must be grateful, if a thief returns him even a morsel of his own. Well, it will serve you right when you come home, if you find things less good in the Southfarthing than you would like. Long may your land be short of leaf!’ ‘Thank you!’ said Merry. ‘In that case I will have my pouch back, which is not yours and has journeyed far with me. Wrap the weed in a rag of your own.’ ‘One thief deserves another,’ said Saruman, and turned his back on Merry, and kicked Wormtongue, and went away towards the wood. ‘Well, I like that!’ said Pippin. ‘Thief indeed!
+
+
+Next day they went on into northern Dunland, where no men now dwelt, though it was a green and pleasant country.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+September came in with golden days and silver nights, and they rode at ease until they reached the Swanfleet river, and found the old ford, east of the falls where it went down suddenly into the lowlands. Far to the west in a haze lay the meres and eyots through which it wound its way to the Greyflood: there countless swans housed in a land of reeds.
+
+
+So they passed into Eregion, and at last a fair morning dawned, shimmering above gleaming mists; and looking from their camp on a low hill the travellers saw away in the east the Sun catching three peaks that thrust up into the sky through floating clouds: Caradhras, Celebdil, and Fanuidhol.
+
+
+Here now for seven days they tarried, for the time was at hand for another parting which they were loth to make.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+Altogether 1420 in the Shire was a marvellous year. Not only was there wonderful sunshine and delicious rain, in due times and perfect measure, but there seemed something more: an air of richness and growth, and a gleam of a beauty beyond that of mortal summers that flicker and pass upon this Middle-earth. All the children born or begotten in that year, and there were many, were fair to see and strong, and most of them had a rich golden hair that had before been rare among hobbits. The fruit was so plentiful that young hobbits very nearly bathed in strawberries and cream; and later they sat on the lawns under the plum-trees and ate, until they had made piles of stones like small pyramids or the heaped skulls of a conqueror, and then they moved on. And no one was ill, and
+
+

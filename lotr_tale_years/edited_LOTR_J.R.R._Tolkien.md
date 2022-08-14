@@ -1,3 +1,6 @@
+# Notes
+### This is NOT meant to be read as an .md! It's the format [Readwise](Readwise.io) outputs, so I worked with it.
+
 # LOTR-Daily by J.R.R. Tolkien
 
 The conversation in The Green Dragon at Bywater, one evening in the spring of Frodo’s fiftieth year, showed that even in the comfortable heart of the Shire rumours had been heard, though most hobbits still laughed at them.
@@ -2611,33 +2614,237 @@ Here now for seven days they tarried, for the time was at hand for another parti
 **Note:** .dates
 
 **Tags:** dates
+
+# CHECK THIS DATE!
+## ~8 September 3019 [F/S/M/P/Gand/Elves]
+Often long after the hobbits were wrapped in sleep they would sit together under the stars, recalling the ages that were gone and all their joys and labours in the world, or holding council, concerning the days to come. If any wanderer had chanced to pass, little would he have seen or heard, and it would have seemed to him only that he saw grey figures, carved in stone, memorials of forgotten things now lost in unpeopled lands. For they did not move or speak with mouth, looking from mind to mind; and only their shining eyes stirred and kindled as their thoughts went to and fro.
+
+# CHECK THIS DATE!
+## 13 September 3019 [F/S/M/P/Gand/Elves][TOY]
+At last one evening they came over the high moors, suddenly as to travellers it always seemed, to the brink of the deep valley of Rivendell and saw far below the lamps shining in Elrond’s house.
+
+**Note:** .dates
+**Tags:** dates
+
+## 21 September 3019 [F/S/M/P/Gand][TOY]
+First of all, before they had eaten or washed or even shed their cloaks, the hobbits went in search of Bilbo. They found him all alone in his little room. It was littered with papers and pens and pencils; but Bilbo was sitting in a chair before a small bright fire. He looked very old, but peaceful, and sleepy. He opened his eyes and looked up as they came in. 
+‘Hullo, hullo!’ he said. ‘So you’ve come back? And tomorrow’s my birthday, too. How clever of you! Do you know, I shall be one hundred and twenty-nine? And in one year more, if I am spared, I shall equal the Old Took. I should like to beat him; but we shall see.’
+
+
+## 22 September 3019 [F/S/M/P/Gand][TOY]
+After the celebration of Bilbo’s birthday the four hobbits stayed in Rivendell for some days, and they sat much with their old friend, who spent most of his time now in his room, except at meals.
+
+**Note:** .dates
+**Tags:** dates
+
+
+## 5 October September 3019 [F/S/M/P/Gand][TOY]
+When nearly a fortnight had passed Frodo looked out of his window and saw that there had been a frost in the night, and the cobwebs were like white nets. Then suddenly he knew that he must go, and say good-bye to Bilbo.
+
+**Note:** .dates
+**Tags:** dates
+
+. . .
+[On Rivendell] ‘Yes, something of everything, Sam, except the Sea,’ Frodo had answered; and he repeated it now to himself: ‘Except the Sea.’
+
+## 6 October September 3019 [F/S/M/P/Gand][TOY]
+The next day Gandalf and the hobbits took leave of Bilbo in his room, for it was cold out of doors; and then they said farewell to Elrond and all his household. 
+As Frodo stood upon the threshold, Elrond wished him a fair journey, and blessed him, and he said: ‘I think, Frodo, that maybe you will not need to come back, unless you come very soon. For about this time of the year, when the leaves are gold before they fall, look for Bilbo in the woods of the Shire. I shall be with him.’ 
+These words no one else heard, and Frodo kept them to himself.
+
+
+
+Chapter 7 
+HOMEWARD BOUND 
+At last the hobbits had their faces turned towards home. They were eager now to see the Shire again; but at first they rode only slowly, for Frodo had been ill at ease. When they came to the Ford of Bruinen, he had halted, and seemed loth to ride into the stream; and they noted that for a while his eyes appeared not to see them or things about him. All that day he was silent. It was the sixth of October.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+## 6 October September 3019 [F/S/M/P/Gand][TOY]
+‘Are you in pain, Frodo?’ said Gandalf quietly as he rode by Frodo’s side. ‘Well, yes I am,’ said Frodo. ‘It is my shoulder. The wound aches, and the memory of darkness is heavy on me. It was a year ago today.’
+
+
+## 7 October 3019 [F/S/M/P/Gand]
+By the end of the next day the pain and unease had passed, and Frodo was merry again, as merry as if he did not remember the blackness of the day before. 
+
+## ~8 October 3019 [F/S/M/P/Gand]
+After that the journey went well, and the days went quickly by; for they rode at leisure, and often they lingered in the fair woodlands where the leaves were red and yellow in the autumn sun.
+**Note:** .dates
+**Tags:** dates
+
+## 28 October 3019 [F/S/M/P/Gand][TOY]
+So it was that near the end of a wild and wet evening in the last days of October the five travellers rode up the climbing road and came to the South-gate of Bree. It was locked fast; and the rain blew in their faces, and in the darkening sky low clouds went hurrying by, and their hearts sank a little, for they had expected more welcome.
+
+**Note:** .dates
+
+**Tags:** dates
+
+
+‘Well, no one troubled us,’ said Pippin, ‘and we came along slowly, and kept no watch. We thought we’d left all trouble behind us.’ ‘Ah, that you haven’t, Master, more’s the pity,’ said Butterbur. ‘But it’s no wonder they left you alone. They wouldn’t go for armed folk, with swords and helmets and shields and all. Make them think twice, that would. And I must say it put me aback a bit when I saw you.’ Then the hobbits suddenly realized that people had looked at them with amazement not out of surprise at their return so much as in wonder at their gear. They themselves had become so used to warfare and to riding in well-arrayed companies that they had quite forgotten that the bright mail peeping from under their cloaks, and the helms of Gondor and the Mark, and the fair devices on their shields, would seem outlandish in their own country. And Gandalf, too, was now riding on his tall grey horse, all clad in white with a great mantle of blue and silver over all, and the long sword Glamdring at his side. Gandalf laughed. ‘Well, well,’ he said, ‘if they are afraid of just five of us, then we have met worse enemies on our travels. But at any rate they will give you peace at night while we stay.’
+
+
+‘Strider!’ he exclaimed when he got back his breath. ‘Him with a crown and all and a golden cup! Well, what are we coming to?’ ‘Better times, for Bree at any rate,’ said Gandalf. ‘I hope so, I’m sure,’ said Butterbur. ‘Well, this has been the nicest chat I’ve had in a month of Mondays. And I’ll not deny that I’ll sleep easier tonight and with a lighter heart. You’ve given me a powerful lot to think over, but I’ll put that off until tomorrow. I’m for bed, and I’ve no doubt you’ll be glad of your beds too. Hey, Nob!’ he called, going to the door. ‘Nob, you slowcoach!’
+
+
+## 28 October 3019 [F/S/M/P/Gand][TOY]
+‘I wonder what old Barliman was hinting at,’ said Frodo. 
+‘I can guess some of it,’ said Sam gloomily. ‘What I saw in the Mirror: trees cut down and all, and my old gaffer turned out of the Row. I ought to have hurried back quicker.’ 
+‘And something’s wrong with the Southfarthing evidently,’ said Merry. ‘There’s a general shortage of pipe-weed.’ 
+‘Whatever it is,’ said Pippin, ‘Lotho will be at the bottom of it: you can be sure of that.’ 
+‘Deep in, but not at the bottom,’ said Gandalf. ‘You have forgotten Saruman. He began to take an interest in the Shire before Mordor did.’
+
+
+## 28 October 3019 [F/S/M/P/Gand][TOY]
+‘Well, we’ve got you with us,’ said Merry, ‘so things will soon be cleared up.’ 
+‘I am with you at present,’ said Gandalf, ‘but soon I shall not be. I am not coming to the Shire. You must settle its affairs yourselves; that is what you have been trained for. Do you not yet understand? My time is over: it is no longer my task to set things to rights, nor to help folk to do so. And as for you, my dear friends, you will need no help. You are grown up now. Grown indeed very high; among the great you are, and I have no longer any fear at all for any of you. ‘But if you would know, I am turning aside soon. I am going to have a long talk with Bombadil: such a talk as I have not had in all my time. He is a moss-gatherer, and I have been a stone doomed to rolling. But my rolling days are ending, and now we shall have much to say to one another.’
+
+
+‘Well here we are, just the four of us that started out together,’ said Merry. ‘We have left all the rest behind, one after another. It seems almost like a dream that has slowly faded.’ 
+‘Not to me,’ said Frodo. ‘To me it feels more like falling asleep again.’
+
+Chapter 8 
+THE SCOURING OF THE SHIRE 
+## 30/31 October 3019 [F/S/M/P][TOY]
+It was after nightfall when, wet and tired, the travellers came at last to the Brandywine, and they found the way barred.
+**Note:** .dates
+**Tags:** dates
+
+
+## 30/31 October 3019 [F/S/M/P][TOY]
+‘I am sorry, Mr. Merry,’ said Hob, ‘but it isn’t allowed.’ 
+‘What isn’t allowed?’ 
+‘Taking in folk off-hand like, and eating extra food, and all that,’ said Hob. 
+‘What’s the matter with the place?’ said Merry. ‘Has it been a bad year, or what? I thought it had been a fine summer and harvest.’ 
+‘Well no, the year’s been good enough,’ said Hob. ‘We grows a lot of food, but we don’t rightly know what becomes of it. It’s all these “gatherers” and “sharers”, I reckon, going round counting and measuring and taking off to storage. They do more gathering than sharing, and we never see most of the stuff again.’ 
+‘Oh come!’ said Pippin yawning. ‘This is all too tiresome for me tonight. We’ve got food in our bags. Just give us a room to lie down in. It’ll be better than many places I have seen.’
+
+
+
+
+
+
+
 <!-- WORKING HERE FRODO SAM GOLLUM -->
 <!-- WORKING HERE ARAGORN LEGOLAS GIMLI -->
 <!-- WORKING HERE GANDALF PIPPIN -->
 <!-- WORKING HERE -->
+<!-- 
+## ~8 October 3019 [F/S/M/P]
+-->
+# confirm dates!
+
+## 1 November 3019 [F/S/M/P][TOY]
+So the next day they set out along the Road and jogged along steadily. The wind had dropped but the sky was grey. The land looked rather sad and forlorn; but it was after all the first of November and the fag-end of autumn.
+**Note:** .dates
+**Tags:** dates
+
+## 1 November 3019 [F/S/M/P][TOY]
+But as they came to the east end of the village they met a barrier with a large board saying NO ROAD; and behind it stood a large band of Shirriffs with staves in their hands and feathers in their caps, looking both important and rather scared. ‘What’s all this?’ said Frodo, feeling inclined to laugh. ‘This is what it is, Mr. Baggins,’ said the leader of the Shirriffs, a two-feather hobbit: ‘You’re arrested for Gate-breaking, and Tearing up of Rules, and Assaulting Gate-keepers, and Trespassing, and Sleeping in Shire-buildings without Leave, and Bribing Guards with Food.’ 
+‘And what else?’ said Frodo. 
+‘That’ll do to go on with,’ said the Shirriff-leader. 
+‘I can add some more, if you’d like it,’ said Sam. ‘Calling your Chief Names, Wishing to punch his Pimply Face, and Thinking you Shirriffs look a lot of Tom-fools.’
+
+## 1 November 3019 [F/S/M/P][TOY]
+‘If we all got angry together something might be done. But it’s these Men, Sam, the Chief’s Men. He sends them round everywhere, and if any of us small folk stand up for our rights, they drag him off to the Lockholes. They took old Flourdumpling, old Will Whitfoot the Mayor, first, and they’ve taken a lot more. Lately it’s been getting worse. Often they beat ’em now.’ 
+‘Then why do you do their work for them?’ said Sam angrily.
+
+**Note:** .post
+
+**Tags:** post
 
 
+It was rather a comic cavalcade that left the village, though the few folk that came out to stare at the ‘get-up’ of the travellers did not seem quite sure whether laughing was allowed. A dozen Shirriffs had been told off as escort to the ‘prisoners’; but Merry made them march in front, while Frodo and his friends rode behind. Merry, Pippin, and Sam sat at their ease laughing and talking and singing, while the Shirriffs stumped along trying to look stern and important.
 
 
+## 2 November 3019 [F/S/M/P][TOY]
+The travellers trotted on, and as the sun began to sink towards the White Downs far away on the western horizon they came to Bywater by its wide pool; and there they had their first really painful shock. This was Frodo and Sam’s own country, and they found out now that they cared about it more than any other place in the world. Many of the houses that they had known were missing. Some seemed to have been burned down. The pleasant row of old hobbit-holes in the bank on the north side of the Pool were deserted, and their little gardens that used to run down bright to the water’s edge were rank with weeds. Worse, there was a whole line of the ugly new houses all along Pool Side, where the Hobbiton Road ran close to the bank. An avenue of trees had stood there. They were all gone. And looking with dismay up the road towards Bag End they saw a tall chimney of brick in the distance. It was pouring out black smoke into the evening air. Sam was beside himself. ‘I’m going right on, Mr. Frodo!’ he cried. ‘I’m going to see what’s up. I want to find my gaffer.’
 
 
+‘No!’ said Merry. ‘It’s no good “getting under cover”. That is just what people have been doing, and just what these ruffians like. They will simply come down on us in force, corner us, and then drive us out, or burn us in. No, we have got to do something at once.’ 
+‘Do what?’ said Pippin. 
+‘Raise the Shire!’ said Merry. ‘Now! Wake all our people! They hate all this, you can see: all of them except perhaps one or two rascals, and a few fools that want to be important, but don’t at all understand what is really going on. But Shire-folk have been so comfortable so long they don’t know what to do. They just want a match, though, and they’ll go up in fire. The Chief’s Men must know that. They’ll try to stamp on us and put us out quick. We’ve only got a very short time. 
+‘Sam, you can make a dash for Cotton’s farm, if you like. He’s the chief person round here, and the sturdiest. Come on! I am going to blow the horn of Rohan, and give them all some music they have never heard before.’
 
 
+## 2 November 3019 [F/S/M/P][TOY]
+‘Good evening, Mrs. Cotton!’ he said. ‘Hullo, Rosie!’ 
+‘Hullo, Sam!’ said Rosie. ‘Where’ve you been? They said you were dead; but I’ve been expecting you since the spring. You haven’t hurried, have you?’ 
+‘Perhaps not,’ said Sam abashed. ‘But I’m hurrying now. We’re setting about the ruffians, and I’ve got to get back to Mr. Frodo. But I thought I’d have a look and see how Mrs. Cotton was keeping, and you, Rosie.’ 
+‘We’re keeping nicely, thank you,’ said Mrs. Cotton. ‘Or should be, if it weren’t for these thieving ruffians.’ 
+‘Well, be off with you!’ said Rosie. ‘If you’ve been looking after Mr. Frodo all this while, what d’you want to leave him for, as soon as things look dangerous?’ 
+This was too much for Sam. It needed a week’s answer, or none. He turned away and mounted his pony. But as he started off, Rosie ran down the steps. 
+‘I think you look fine, Sam,’ she said. ‘Go on now! But take care of yourself, and come straight back as soon as you have settled the ruffians!’
 
 
+‘I am very sorry, Mr. Gamgee,’ said Frodo. ‘But now I’ve come back, I’ll do my best to make amends.’ 
+‘Well, you can’t say fairer than that,’ said the Gaffer. ‘Mr. Frodo Baggins is a real gentlehobbit, I always have said, whatever you may think of some others of the name, begging your pardon. And I hope my Sam’s behaved hisself and given satisfaction?’ 
+‘Perfect satisfaction, Mr. Gamgee,’ said Frodo. ‘Indeed, if you will believe it, he’s now one of the most famous people in all the lands, and they are making songs about his deeds from here to the Sea and beyond the Great River.’ Sam blushed, but he looked gratefully at Frodo, for Rosie’s eyes were shining and she was smiling at him.
 
 
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+Farmer Cotton’s household and all his guests were up early next morning. Nothing had been heard in the night, but more trouble would certainly come before the day was old.
+
+**Note:** .dates
+
+**Tags:** dates
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+At last all was over. Nearly seventy of the ruffians lay dead on the field, and a dozen were prisoners. Nineteen hobbits were killed, and some thirty were wounded. The dead ruffians were laden on waggons and hauled off to an old sand-pit nearby and there buried: in the Battle Pit, as it was afterwards called. The fallen hobbits were laid together in a grave on the hill-side, where later a great stone was set up with a garden about it. So ended the Battle of Bywater, 1419, the last battle fought in the Shire, and the only battle since the Greenfields, 1147, away up in the Northfarthing.
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+Then they set out on foot. Frodo, Sam, Merry, and Pippin led the way. It was one of the saddest hours in their lives. The great chimney rose up before them; and as they drew near the old village across the Water, through rows of new mean houses along each side of the road, they saw the new mill in all its frowning and dirty ugliness: a great brick building straddling the stream, which it fouled with a steaming and stinking outflow. All along the Bywater Road every tree had been felled. As they crossed the bridge and looked up the Hill they gasped. Even Sam’s vision in the Mirror had not prepared him for what they saw.
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+‘Where is that miserable Lotho hiding?’ said Merry. They had searched every room and found no living thing save rats and mice. ‘Shall we turn on the others to search the sheds?’ 
+‘This is worse than Mordor!’ said Sam. ‘Much worse in a way. It comes home to you, as they say; because it is home, and you remember it before it was all ruined.’ 
+‘Yes, this is Mordor,’ said Frodo. ‘Just one of its works. Saruman was doing its work all the time, even when he thought he was working for himself. And the same with those that Saruman tricked, like Lotho.’
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+“Well,” thought I, “if they’re such fools, I will get ahead of them and teach them a lesson. One ill turn deserves another.” It would have been a sharper lesson, if only you had given me a little more time and more Men. Still I have already done much that you will find it hard to mend or undo in your lives. And it will be pleasant to think of that and set it against my injuries.’ 
+‘Well, if that is what you find pleasure in,’ said Frodo, ‘I pity you. It will be a pleasure of memory only, I fear. Go at once and never return!’
 
 
+‘To the road again, Worm!’ said Saruman. ‘These fine fellows and lordlings are turning us adrift again. Come along!’ Saruman turned to go, and Wormtongue shuffled after him. But even as Saruman passed close to Frodo a knife flashed in his hand, and he stabbed swiftly. The blade turned on the hidden mail-coat and snapped. A dozen hobbits, led by Sam, leaped forward with a cry and flung the villain to the ground. Sam drew his sword. 
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+[Saruman tries to stab Frodo]
+‘No, Sam!’ said Frodo. ‘Do not kill him even now. For he has not hurt me. And in any case I do not wish him to be slain in this evil mood. He was great once, of a noble kind that we should not dare to raise our hands against. He is fallen, and his cure is beyond us; but I would still spare him, in the hope that he may find it.’
+. . . 
+Saruman rose to his feet, and stared at Frodo. There was a strange look in his eyes of mingled wonder and respect and hatred. 
+‘You have grown, Halfling,’ he said. ‘Yes, you have grown very much. You are wise, and cruel. You have robbed my revenge of sweetness, and now I must go hence in bitterness, in debt to your mercy. I hate it and you! ...'
+
+## 3 November 3019 [F/S/M/P][TOY]
+[Battle of Bywater]
+Frodo looked down at the body with pity and horror, for as he looked it seemed that long years of death were suddenly revealed in it, and it shrank, and the shrivelled face became rags of skin upon a hideous skull. Lifting up the skirt of the dirty cloak that sprawled beside it, he covered it over, and turned away. 
+‘And that’s the end of that,’ said Sam. ‘A nasty end, and I wish I needn’t have seen it; but it’s a good riddance.’ 
+‘And the very last end of the War, I hope,’ said Merry. 
+‘I hope so,’ said Frodo and sighed. ‘The very last stroke. But to think that it should fall here, at the very door of Bag End! Among all my hopes and fears at least I never expected that.’ 
+‘I shan’t call it the end, till we’ve cleared up the mess,’ said Sam gloomily. ‘And that’ll take a lot of time and work.’
 
 
+Chapter 9 
+THE GREY HAVENS 
+## 4 November 3019 [F/S/M/P]
+The clearing up certainly needed a lot of work, but it took less time than Sam had feared. The day after the battle Frodo rode to Michel Delving and released the prisoners from the Lockholes.
 
+**Note:** .dates
 
+**Tags:** dates
 
+## 3020 / S.R. 1420
 
-
-
-
+Spring surpassed his wildest hopes. His trees began to sprout and grow, as if time was in a hurry and wished to make one year do for twenty.
+**Note:** .dates
+**Tags:** dates
 
 
 

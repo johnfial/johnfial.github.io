@@ -2849,5 +2849,3 @@ Spring surpassed his wildest hopes. His trees began to sprout and grow, as if ti
 
 
 Altogether 1420 in the Shire was a marvellous year. Not only was there wonderful sunshine and delicious rain, in due times and perfect measure, but there seemed something more: an air of richness and growth, and a gleam of a beauty beyond that of mortal summers that flicker and pass upon this Middle-earth. All the children born or begotten in that year, and there were many, were fair to see and strong, and most of them had a rich golden hair that had before been rare among hobbits. The fruit was so plentiful that young hobbits very nearly bathed in strawberries and cream; and later they sat on the lawns under the plum-trees and ate, until they had made piles of stones like small pyramids or the heaped skulls of a conqueror, and then they moved on. And no one was ill, and
-
-

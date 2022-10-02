@@ -1,8 +1,7 @@
-ep5
-05:32 - 07:34
+ep5     05:32 - 07:34 https://genius.com/Eurielle-and-ryan-louder-this-wandering-day-lyrics
 
-https://genius.com/Eurielle-and-ryan-louder-this-wandering-day-lyrics
 This Wandering Day Lyrics
+
 [Verse 1]
 The sun is fast falling beneath trees of stone
 The light in the tower no longer my home
@@ -51,11 +50,6 @@ That not all who wonder or wander are lost
 No matter the sorrow, no matter the cost
 That not all who wonder or wander are lost
 
+-----------
 
-
-
-
-
-All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king.
-
-Tolkien, J.R.R.. The Lord of the Rings: One Volume (p. 170). HMH Books. Kindle Edition. 
+All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king. --Tolkien, J.R.R.. The Lord of the Rings: One Volume (p. 170). HMH Books. Kindle Edition. 
